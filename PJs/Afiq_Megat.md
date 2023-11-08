@@ -36,6 +36,8 @@ Finalmente, migró a Nueva York; donde ha estado trabajando de mecánico en un a
 - Poder (POD): 60
 - Educación (EDU): 60
 
+- Suerte: 75
+
 
 # Talentos.
 
@@ -131,3 +133,8 @@ Mochila para Bolivia:
 - Linterna.
 - Cantimplora.
 - Pistolera+revolver.
+- Repuestos de radio
+
+  Recogido en la selva boliviana:
+  - Brazalete lanzallamas.
+  - Panel de conducción del vehículo de la Noche Interior.
