@@ -135,6 +135,20 @@ Mochila para Bolivia:
 - Pistolera+revolver.
 - Repuestos de radio
 
-  Recogido en la selva boliviana:
-  - Brazalete lanzallamas.
-  - Panel de conducción del vehículo de la Noche Interior.
+Recogido en la selva boliviana:
+- Brazalete lanzallamas.
+- Panel de conducción del vehículo de la Noche Interior.
+
+# Inventario de equipo:
+Dinamita:
+- 9 cartuchos de la primera emboscada.
+- X cartuchos en el campamento (no especificado).
+
+Del tempo donde estaba la momia:
+- Fotos de toda la simbología y lenguaje de la sala.
+- Látigo.
+- Cetro.
+- Pergaminos.
+- Túnicas.
+- Caja de madera. Está vacía. Tiene una especie de terciopelo para proteger algo redondo, pero está vacía.
+- Momia

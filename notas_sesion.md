@@ -99,7 +99,7 @@ En el hospital de campaña:
 
         Le decimos que hemos capturado a dos soldados.
 
-        Nos dice que los llevemos a los camastros de la parte 
+        Nos dice que los llevemos a los camastros de la parte
         de atrás para que los soldados no los vean.
 
         Nos dice que hay 3 oficiales al mando.
@@ -110,7 +110,6 @@ En el hospital de campaña:
 
 Vamos con Sergio de camino al pueblo:
 
-    
 
     Nos dice que el jefe local se llama *Gregorio*. Nos lo va a presentar.
 
@@ -418,7 +417,6 @@ Vamos a una de los sellos. Hay unas flores y ofrendar.
 
             Según se la traga, explota.
 
-    
 
 Volvemos al pueblo y descansamos.
 
@@ -429,3 +427,62 @@ Al día siguiente nos acercamos al agujero central.
     Veo unos agujeros a lo largo de la infraestructura.
 
     Empezamos a subir la estructura por una escalera que termina en una entrada a un túnel.
+
+
+# Serpiente de dos cabezas - Sesión 2 (Jesús, 2023/11/09)
+
+17 de Marzo de 1933 (Día 3)
+
+Recap: Recién llegados a la estructura central de piedra  de unos 30 metros con pequeños agujeros. Empezamos a subir la estructura por una escalera que conduce a la entrada de un túnel
+
+Entramos y el túnel empieza a descender en espiral por el interior de la estructura. Avanzamos en formación de columna escalonada y en las paredes empiezan a aparecer dibujos similares a los de los pozos, con el mismo lenguaje reptiliano, y la misma mujer reina tipo Cleopatra y los hombres reptilianos arrodillándose.
+
+Connor activa una trampa de cuchillas y consigue esquivarla. Identificamos que es una placa de presión que activa una hoja enorme y es más fácil que consigamos identificarla a tiempo en el futuro. Desactivamos otras dos trampas similares.
+
+Seguimos bajando y descubrimos que de los agujeros exteriores que vimos en la pared, salen serpientes que van en nuestra dirección y acaban en un foso de 4x4 m que ocupa todo el pasillo y está lleno de serpientes, incluido serpientes coral venenosas cuyo veneno es letal en menos de 20 min.
+
+Decidimos intentar saltar el foso de uno en uno con la ayuda del forzudo Connor. Conseguimos pasar sin problemas.
+
+La espiral deja de hacer curva y empieza a abrirse en una sala muy grande coronada con una puerta enorme flanqueada por sendas columnas de jade con una escultura de una serpiente que se enrolla y terminan uniéndose en la parte superior. Los ojos de la serpiente están rematados con dos rubíes.
+
+Al intentar cruzar el arco los rubíes se iluminan y lanzan rayos. Disparamos a los rubíes y se quedan medio inutilizados. Trepamos y con un poco de dificultad conseguimos los rubíes algo dañados pero del tamaño de un puño. Los rubíes son para Viktor y Martin que se han pegado el curre y se han llevado los tiros.
+
+Cruzamos el arco y llegamos a una estancia enorme abovedada con una maqueta del templo y una plataforma en la que hay un trono y una figura de mujer reptiliana.
+
+Connor y Martin se adelantan e intentan trepar por la plataforma pero se desmorona y aparece una serpiente gigante enroscada alrededor de la columna en la que se sostiene el trono.
+
+Encuentro:
+
+La serpiente gigante engulle a Martin que nada más verla sufre una enajenación mental, desenfunda su machete, empieza a correr hacia ella y se deja tragar.
+
+La serpiente se come tremendos balazos, perdigonazos, machetazos mientra Martin filetea la serpiente por dentro.
+
+Al final la serpiente cae y conseguimos rescatar a Martin. Nos acercamos a la figura de la mujer serpiente. Connor la toca y empieza a desvanecerse la piel llena de escamas, dejando un agujero en el trono. Martin empieza a bajar.
+
+Bajando por el agujero, encuentra el altar con la mujer serpiente tumbada con los brazos cruzados con un aspecto realmente majestuoso, a los pies del altar un cofre de piedra. Al acercarse a la mujer se nota una presencia
+
+Martin tiene una visión: Está sentado en un banco de cobre, se levanta y ve un balcón que da al exterior. Hay un cielo con nubes y colores extraños. Avanza y ve el mismo trono de jade en un entorno irreal, rodea el trono y ve a la mujer serpiente sentada. Habla con Martin.
+
+Quien eres? - Un explorador
+Eres real? - Te podría preguntar lo mismo
+Noto una conexión especial contigo. Me llamaban Tyrannish. Creo que perdí algo pero creo que no es un objeto. Siento un vacío. Creo que me dejaron aquí para encontrarlo. Para resolver un problema. Ha pasado mucho tiempo. Siento el daño que han hecho los hombre serpiente.
+
+Martin se deja marcar por la mujer, le dibuja una runa en el pecho. Dice que está despertando pero el proceso es lento. La marca le permitirá saber donde está y comunicarse con él. La mujer descubre que su raza está medio extinta y no le hace mucha gracia. Espera ver a Martin pronto en persona.
+
+Martin sale del sueño, grita que ha encontrado la momia y pide ayuda. Izamos a la momia con cuerda por el agujero. Martin lootea el cofre de piedra que tiene unas túnicas.
+
+Encontramos:
+Fotos con todos los dibujos y símbolos de la sala
+Látigo
+Cetro
+Caja de madera con filigranas -> Tiene como una especie de hueco redondo pero está vacía, como si estuviese hecha para guardar algo que quepa en ese hueco
+Pergaminos en lenguaje reptiliano
+Túnicas
+
+1x Momia de mujer serpiente inconsciente se ha añadido al inventario
+
+El cetro parece que puede controlar el resto de serpientes si lo maneja una persona con cierto nivel de Poder. Posiblemente podría detectar o controlar también a los hombres serpiente.
+
+Volvemos al campamento con la momia, intentamos hablar con Gregorio sin contarle mucho detalle de la profanación pero no nos ayuda una mierd* como de costumbre. Volvemos para Nueva York.
+
+Fin de la sesión
