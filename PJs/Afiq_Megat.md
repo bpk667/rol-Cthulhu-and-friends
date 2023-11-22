@@ -49,7 +49,7 @@ Finalmente, migró a Nueva York; donde ha estado trabajando de mecánico en un a
 
 ## Descripción personal.
 
-1.65 m. Robusto, pero ágil. 
+1.65 m. Robusto, pero ágil.
 
 Sempiterna cazadora gastada de cuero marrón, con botas de cuero a juego que el pié si se cae alguna pieza encima. Pantalones de tela gruesa y camisa de franela funcionales.
 
@@ -152,3 +152,26 @@ Del tempo donde estaba la momia:
 - Túnicas.
 - Caja de madera. Está vacía. Tiene una especie de terciopelo para proteger algo redondo, pero está vacía.
 - Momia
+
+Entregamos todo menos:
+- Fotos de toda la simbología y lenguaje de la sala.
+- El panel.
+- El colmillo.
+- El brazalete.
+
+# Inventario para Borneo
+Mochila similar a Bolivia:
+- Kit médico.
+- Muda limpia de recambio.
+- Camisa de manga larga.
+- Trapos/camisa vieja.
+- Machete.
+- Zippo.
+- 15 metros Cuerda.
+- Tienda de campaña.
+- Brújula.
+- Linterna.
+- Cantimplora.
+- Pistolera+revolver.
+- Brazalete.
+

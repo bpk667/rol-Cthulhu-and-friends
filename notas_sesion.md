@@ -486,3 +486,21 @@ El cetro parece que puede controlar el resto de serpientes si lo maneja una pers
 Volvemos al campamento con la momia, intentamos hablar con Gregorio sin contarle mucho detalle de la profanación pero no nos ayuda una mierd* como de costumbre. Volvemos para Nueva York.
 
 Fin de la sesión
+
+# Serpiente de dos cabezas - Sesión 3 (Torro, 2023/11/09)
+Hemos llegado el 21 de marzo a Nueva York.
+
+## Notas Torro.
+Después de un viaje largo en avión con muchas escalas, llegamos a Nueva York.
+Hay cierta disconformidad a la hora de decidir qué hacer con los objetos recuperados en Bolivia. Nos recibió Quentin Shapiro y el jefe de seguridad de Caduceo, Frank DeLuca. Se hicieron cargo de la momia y la llevaron a la sede de Caduceo. Explicaron que la momia era una especie de sacerdotisa de los hombres serpiente que ha estado durmiendo durante miles de años y se espera que posea una enorme cantidad de información de los hombres serpiente. El objetivo es despertarla y comunicarse con ella.
+
+Quedamos en tener una reunión de debriefing al día siguiente en el edificio Meadham, la sede de Caduceo en Nueva York. Nos preguntan sobre el Cetro y la Corona. Nos adelantó que la siguiente misión será en Borneo Septentrional.
+
+Martin decidió ponerse a estudiar el idioma de los hombres serpiente y Afiq a trastear con el panel de control del vehículo de los hombres serpiente.
+
+Shapiro nos felicita efusivamente por haber encontrado todo tipo de cosas, dice que es la mejor misión en meses. “Increíble trabajo”. Nos da unas tarjetas de identificación que indican que somos de nivel 2. Nos da un tour del edificio. El piso 7 está reservado a personal del nivel 2, que contiene la biblioteca, los archivos de misiones, el almacén de artefactos. Nos presenta a Phillip Conners, responsable de logística y suministros.
+
+Nos lleva a la sala de reuniones y nos da unos dossieres y nos explica en qué consiste el nivel 2. Los dossieres son un paquete de orientación, que no se pueden sacar fuera del edificio. Nos explican que los hombres serpiente son una raza milenaria nativa de la Tierra que está dividida por motivos religiosos entre adoradores de Yig, padre de los hombres serpiente y Tsathoggua, una especie de sapo malvado que busca hacer el mal. Estos segundos son la “Noche Interior”, que, a diferencia de los adoradores de Yig, buscan el exterminio directo de la Humanidad. Parece que tienen algún tipo de gran plan, que Caduceo está intentado detener.
+
+La misión de Borneo consistirá en averiguar si es cierto que el brote de Hepatitis infecciosa es realmente Muerte Amarilla (un arma biológica de los hombres serpiente), crear una vacuna y detener a la Noche Interior. Shapiro nos va a acompañar. Saldremos al día siguiente. Como Afiq habla malayo, tendrá un papel destacado en la misión.
+
