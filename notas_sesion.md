@@ -485,7 +485,7 @@ Decidimos intentar saltar el foso de uno en uno con la ayuda del forzudo Connor.
 
 La espiral deja de hacer curva y empieza a abrirse en una sala muy grande coronada con una puerta enorme flanqueada por sendas columnas de jade con una escultura de una serpiente que se enrolla y terminan uniéndose en la parte superior. Los ojos de la serpiente están rematados con dos rubíes.
 
-Al intentar cruzar el arco los rubíes se iluminan y lanzan rayos. Disparamos a los rubíes y se quedan medio inutilizados. Trepamos y con un poco de dificultad conseguimos los rubíes algo dañados pero del tamaño de un puño. Los rubíes son para Viktor y Martin que se han pegado el curre y se han llevado los tiros.
+Al intentar cruzar el arco los rubíes se iluminan y lanzan rayos. Disparamos a los rubíes y se quedan medio inutilizados. Trepamos y con un poco de dificultad conseguimos los rubíes algo dañados pero del tamaño de un puño. Viktor y Afiq intentan quitar los rubies del arco pero un pequeño rayo les alcanza en la mano al intentarlo. Finalmente Martin consigue sacarlos con más maña y sin sufrir consecuencias.
 
 Cruzamos el arco y llegamos a una estancia enorme abovedada con una maqueta del templo y una plataforma en la que hay un trono y una figura de mujer reptiliana.
 
@@ -543,6 +543,20 @@ Shapiro nos felicita efusivamente por haber encontrado todo tipo de cosas, dice 
 Nos lleva a la sala de reuniones y nos da unos dossieres y nos explica en qué consiste el nivel 2. Los dossieres son un paquete de orientación, que no se pueden sacar fuera del edificio. Nos explican que los hombres serpiente son una raza milenaria nativa de la Tierra que está dividida por motivos religiosos entre adoradores de Yig, padre de los hombres serpiente y Tsathoggua, una especie de sapo malvado que busca hacer el mal. Estos segundos son la “Noche Interior”, que, a diferencia de los adoradores de Yig, buscan el exterminio directo de la Humanidad. Parece que tienen algún tipo de gran plan, que Caduceo está intentado detener.
 
 La misión de Borneo consistirá en averiguar si es cierto que el brote de Hepatitis infecciosa es realmente Muerte Amarilla (un arma biológica de los hombres serpiente), crear una vacuna y detener a la Noche Interior. Shapiro nos va a acompañar. Saldremos al día siguiente. Como Afiq habla malayo, tendrá un papel destacado en la misión.
+
+Resumen completo del paquete de orientación de Caduceo:
+
+Información de nivel uno
+El texto describe la historia de la Fundación Caduceo. En 1912, Joshua Meadham vendió el imperio farmacéutico que había construido a lo largo de 30 años. Dedicó los beneficios a la creación de la Fundación Caduceo. Se incluyen algunos artículos de periódico que detallan la ayuda que Caduceo ha proporcionado a personas de todo el mundo después de epidemias, desastres naturales y guerras.
+
+Información de nivel dos
+
+El texto resume la información que la Fundación Caduceo ha podido averiguar sobre la raza de los hombres serpiente. Al parecer, los hombres serpiente son nativos de la Tierra, la han recorrido mucho antes del  surgimiento de la humanidad y han llegado a erigir imperiosque se han desvanecido en la historia. Un cisma religioso tuvo lugar hace muchos milenios, dividiendo a la raza en dos. Un bando adora a una entidad llamada Yig, el padre de las serpientes y potencial progenitor de la raza. El otro adora a una entidad conocidacomo Tsathoggua, una monstruosidad malvada, similar a un sapo, que se regocija con los actos viles y las atrocidades. Esta última facción se refiere a sí misma como «la Noche Interior».
+
+Caduceo ha determinado por propia experiencia que los adoradores de Yig prefieren esconderse de la humanidad en ciudades subterráneas muy por debajo de la superficie terrestre. Saben queenfrentarse a la humanidad podría significar la aniquilación, a pesar de que su tecnología es muy superior. Sin embargo, las evidencias que ha reunido Caduceo sobre la Noche Interior, que fue responsable de atacar a Joshua Meadham, hace pensar que esta otra organización, por el contrario, está trabajando en un plan que traerá consecuencias desastrosas para la raza humana. 
+Losdetalles de este plan aún son desconocidos, pero es imperativo que se descubran pronto. La facción de la Noche Interior organiza y coordina sus esfuerzos por todo el mundo. Es posible que no quede mucho tiempo.
+
+Algunas de las fuentes mencionadas en este paquete están escritas en naacal (lengua que visteis en los pozos y templo de Bolivia) y se incluyen algunas notas traducidas. Cualquier persona que dedique un día a estudiarlas gana +10 percentiles en Otraslenguas (Naacal).
 
 
 # Serpiente de dos cabezas - Sesión 4 (Rodri, 2023/11/23)
