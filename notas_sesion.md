@@ -564,10 +564,16 @@ Información de nivel dos
     El otro adora a una entidad conocidacomo Tsathoggua, una monstruosidad malvada, similar a un sapo, que se regocija con los actos viles y las atrocidades. 
     Esta última facción se refiere a sí misma como «la Noche Interior».
 
-Caduceo ha determinado por propia experiencia que los adoradores de Yig prefieren esconderse de la humanidad en ciudades subterráneas muy por debajo de la superficie terrestre. Saben queenfrentarse a la humanidad podría significar la aniquilación, a pesar de que su tecnología es muy superior. Sin embargo, las evidencias que ha reunido Caduceo sobre la Noche Interior, que fue responsable de atacar a Joshua Meadham, hace pensar que esta otra organización, por el contrario, está trabajando en un plan que traerá consecuencias desastrosas para la raza humana. 
-Losdetalles de este plan aún son desconocidos, pero es imperativo que se descubran pronto. La facción de la Noche Interior organiza y coordina sus esfuerzos por todo el mundo. Es posible que no quede mucho tiempo.
+    Caduceo ha determinado por propia experiencia que los adoradores de Yig prefieren esconderse de la humanidad en ciudades 
+    subterráneas muy por debajo de la superficie terrestre. Saben queenfrentarse a la humanidad podría significar la aniquilación, 
+    a pesar de que su tecnología es muy superior. Sin embargo, las evidencias que ha reunido Caduceo sobre la Noche Interior, 
+    que fue responsable de atacar a Joshua Meadham, hace pensar que esta otra organización, por el contrario, 
+    está trabajando en un plan que traerá consecuencias desastrosas para la raza humana. 
+    Losdetalles de este plan aún son desconocidos, pero es imperativo que se descubran pronto. 
+    La facción de la Noche Interior organiza y coordina sus esfuerzos por todo el mundo. Es posible que no quede mucho tiempo.
 
-Algunas de las fuentes mencionadas en este paquete están escritas en naacal (lengua que visteis en los pozos y templo de Bolivia) y se incluyen algunas notas traducidas. Cualquier persona que dedique un día a estudiarlas gana +10 percentiles en Otraslenguas (Naacal).
+    Algunas de las fuentes mencionadas en este paquete están escritas en naacal (lengua que visteis en los pozos y templo de Bolivia) 
+    y se incluyen algunas notas traducidas. Cualquier persona que dedique un día a estudiarlas gana +10 percentiles en Otras lenguas (Naacal).
 
 
 # Serpiente de dos cabezas - Sesión 4 (Rodri, 2023/11/23)
