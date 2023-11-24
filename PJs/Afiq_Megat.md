@@ -175,3 +175,5 @@ Mochila similar a Bolivia:
 - Pistolera+revolver.
 - Brazalete.
 
+# Caduceo nos sube el salario a 7000$ / año.
+

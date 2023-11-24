@@ -1,3 +1,43 @@
+# PJs
+| PJ               | Player |
+| ---------------- | ------ |
+| Connor Harris    | Raúl   |
+| Viktor Kuztnesov | Jesús  |
+| Bill Keane       | Torro  |
+| Martin McSwim    | Rodri  |
+| Afiq Megat       | Pedro  |
+
+# NPCs
+## Contactos Afiq
+| NPC        | Descripción                                                               |
+| ---------- | ------------------------------------------------------------------------- |
+| Dick Palen | Amigo. Ex-jefe y dueño de varios aeródromos en USA                        |
+| Suhana     | Conterránea y amante. Corregenta un prostíbulo exótico cerca de Rhinebeck |
+
+## Bolivia
+| NPC                | Descripción               |
+| ------------------ | ------------------------- |
+| Ursini             | Guía de Caduceo           |
+| Anahí Salvatorelli | Enfermera del poblado     |
+| Doctor Gómez       | Médico local              |
+| Sergio Lorenzi     | Otro médico. Habla inglés |
+| Gregorio           | Jefe local del pueblo     |
+
+## Caduceo
+| NPC                    | Descripción                            |
+| ---------------------- | -------------------------------------- |
+| Doctor Quentin Shapiro | Enlace                                 |
+| Frank DeLuca           | Jefe de seguridad                      |
+| Phillip Conners        | Responsable de logística y suministros |
+| Jim Rogers             | Copiloto a Borneo                      |
+| Joshua Medham          | Fundador de Caduceo                    |
+
+## Borneo
+| NPC               | Descripción                        |
+| ----------------- | ---------------------------------- |
+| Capitán Lancaster | Contacto del ejército inglés local |
+| Abidin            | Guía local                         |
+
 # Primera sesión (04/11/2023)
 
 In game: 15/03/1933.
@@ -165,7 +205,7 @@ El Doctor Gregorio:
 
     Son todo bastante nuevos.
 
-    Está en contacto con el Doctor Safiro (en Nueva York).
+    Está en contacto con el Doctor Shapiro (en Nueva York).
 
 Vamos a interrogar a uno de los soldados que estuvo en la batalla de hace 11 días (paraguayo).
 
@@ -277,7 +317,7 @@ Hablamos con Gregorio:
 
     Raúl: Sabemos lo que estaban buscando. Sellos. ¿Los sellos son las almohadas?
 
-Llamamos a Safiro (Rodri y yo le conocemos):
+Llamamos a Shapiro (Rodri y yo le conocemos):
 
     Le cuento lo que ha pasado.
 
@@ -487,7 +527,7 @@ Volvemos al campamento con la momia, intentamos hablar con Gregorio sin contarle
 
 Fin de la sesión
 
-# Serpiente de dos cabezas - Sesión 3 (Torro, 2023/11/09)
+# Serpiente de dos cabezas - Sesión 3 (Torro, 2023/11/16)
 Hemos llegado el 21 de marzo a Nueva York.
 
 ## Notas Torro.
@@ -504,3 +544,56 @@ Nos lleva a la sala de reuniones y nos da unos dossieres y nos explica en qué c
 
 La misión de Borneo consistirá en averiguar si es cierto que el brote de Hepatitis infecciosa es realmente Muerte Amarilla (un arma biológica de los hombres serpiente), crear una vacuna y detener a la Noche Interior. Shapiro nos va a acompañar. Saldremos al día siguiente. Como Afiq habla malayo, tendrá un papel destacado en la misión.
 
+
+# Serpiente de dos cabezas - Sesión 4 (Rodri, 2023/11/23)
+Nuestro flamante Being 247 cruza el cielo hacia Borneo. Parece que Afiq eligió la joya de la corona de Caduceo porque nos han asignado a un copiloto, Jim Rogers, con la excusa de turnarse durante el vuelo, aunque sospechamos que no se fían de darnos un avión todavía.
+
+Es un aparato magnífico, comparado con nuestro anterior vuelo, hemos reducido a la mitad el uso de bolsas de vomitar, y gran parte fueron usadas por Saphiro, que nos acompaña para estudiar la enfermedad; parece sentirse más cómodo en una oficina que en primera línea… veremos.
+
+Caduceo ha retirado la última fila de asientos, dejándolo en un 2+6, para poder tener más capacidad de carga. La parte trasera del avión está llena de cajas y mochilas con todo tipo de equipamiento, provisiones y EPIs. No podemos evitar mirar de vez en cuando con desconfianza las cajas con TNT.
+
+No esperamos problemas con el ejército británico que controla la isla, pero no tenemos demasiada información todavía sobre la compañía privada que gestiona la isla.
+
+Mientras volamos hacia nuestro destino (¡a 3500m de altitud!) Saphiro nos cuenta más detalles sobre la Muerte Amarilla; lleva un analizador con el que espera encontrar una cura o al menos una forma fácil de detectarla. La enfermedad es muy contagiosa, sobre todo por contacto pero también por vía aérea en estadios avanzados, pero a su vez es muy agresiva, lo cual hace que contenerla no sea demasiado complicado con un buen confinamiento ya que los infectados mueren rápidamente; la mayor preocupación de Saphiro es que la Noche Interior esté intentando modificarla para convertirla en un problema mayor.
+
+También tenemos oportunidad de compartir una botella de Whisky y aprender algo más sobre la organización y su fundador. Saphiro nos cuenta que el fundador, Joshua Medham, al cual todavía no hemos podido conocer ya que pasa la mayor parte del tiempo en Connecticut, no ha vuelto a ser el mismo desde la desaparición de su hija hace unos años, sigue muy afectado.
+
+Ya llegando a nuestro destino, cerca del imponente monte Kinabalu con sus 4000m de altura, los más atentos descubren una bandada de pájaros volando hacia nosotros, pero algo no cuadraba, ¿demasiado grandes? ¿por qué vuelan hacia nosotros?
+
+Connor recuerda haber leído en un libro sobre una especia de ángeles negros que se cuelan en los sueños, con alas de murciélago, cuernos y sin cara, muy similares por desgracia a los “pájaros” que se acercan hacia nosotros.
+
+En un instante nos cruzamos de lleno con ellos y perdemos de vista a la mayoría, al siguiente la situación se descontrola por completo. Uno revienta la ventana del copiloto y agarra a Jim, Connor corre hacia él y consigue agarrarle en el último momento y de un puñetazo consigue que suelte a su presa y retroceda hacia la ventana.
+
+Bill estaba en un lateral del avión y en cuanto otro aparece en su ventana, revienta con la escopeta la ventana y el bicho desaparece, mientras oye como Martin dispara a otro que está abriendo un agujero en la cola.
+
+Los ruidos de patas en el techo no auguran nada bueno, pero antes de poder pensar en ello, una maniobra brusca nos desestabiliza a todos; Afiq está intentando bajar el avión hacia la pista mientras otro bicho aparece en su ventana; Viktor le dispara pero no consigue que se retire del todo, así que Afiq saca su arma y mientras intenta pilotar con una mano, dispara con la otra a la criatura haciéndola huir, pero perdiendo por completo el control del avión.
+
+Saphiro grita desesperado señalando a las cajas sobre las que estaba trepando otra de las criaturas al ver que Bill abre fuego con la escopeta. La criatura muere pero parece que Saphiro está preocupado sobre todo por las cajas.
+
+Una criatura consigue abrir el techo y entrar, pero Martin consigue hacerla retroceder mientras intenta calmar a Saphiro; pero la explosión de un motor en ese momento no ayudó mucho.
+
+Mientras Afiq consigue estabilizar el avión pese a las circunstancias, pero en ese momento Connor carga contra la criatura del pasillo, herida por Martin, y salen los 2 volando por la cola del avión.
+
+Martin, que estaba preparándose para intentar ayudar a Connor, rápidamente coge el paracaídas y salta detrás para intentar alcanzar a Connor. Contra todo pronóstico lo consigue, y los tres comienzan a caer en un amasijo de carne. Connor tira de músculo y de un puñetazo literalmente destroza a la criatura que sale volando completamente inerte. En el último segundo Martin abre el paracaídas y tocan tierra a unos 300 metros de la pista, sorprendentemente ilesos. Martin sabe que ha gastado toda su suerte.
+
+Afiq consigue ~estrellar~ "_aterrizar_" el avión, los militares ya han llegado a la zona y los ayudan a salir; están algo magullados pero nada grave.
+
+Lancaster, capitán del destacamento nos ofrece ayuda mientras Saphiro inspecciona las cajas con preocupación.
+
+Los militares no se sorprenden por nuestra historia, dicen que la fauna de la zona es rarísima, ayudan a los heridos pero sus servicios médicos dejan mucho que desear.
+
+Saphiro confiesa que en las cajas había un plan de emergencia por si la epidemia se volvía incontrolable. Nos muestra el dispositivo Haftorang, un explosivo de alta potencia que limpia 10km a la redonda, y que ahora hace tic tac. Cree que tenemos 1 día o 2 de margen.
+
+Martin recuerda leer documentación sobre un cacharro capaz de abrir portales a una estrella a punto de explotar para aprovechar la energía, mal asunto. Afiq y Bill lo estudian y pese a entenderlo sólo a alto nivel, concluyen que no tiene reparación.
+
+Lancaster nos invita a comer en su cantina, aceptamos pero a todos nos cambia la cara cuando vemos que están comiendo un elefante mutante cuya cabeza preside la cantina a modo de trofeo. Ya que no comemos, aprovechamos la cena para intentar reunir información. Nuestros PNJs Saphiro y Jim deciden probar suerte con el filete de sapofante.
+
+Descubrimos que los soldados llevan dos semanas por aquí; ellos llegaron cuando empezó la cuarentena y fueron quienes acordonaron la zona. Son bastante cuidadosos y no han tenido infectados. La zona de cuarentena consiste principalmente en granjas y una prospección minera de la compañía privilegiada de Borneo. Lancaster nos asigna un guía, un joven local llamado Abidin que se defiende en inglés y no ha visto en su vida a un animal como el que nos han servido.
+
+Jim decide quedarse con los militares, los demás nos vamos del campamento en 2 vehículos blindados en los que hemos cargado todas nuestras posesiones. Antes de despedirnos de Lancaster hay un incidente, una mujer de la zona de cuarentena aparece en los límites del campamento con claros signos de enfermedad. Lancaster da la orden y uno de sus soldados la liquida.
+
+Ya de camino hacia la aldea, Afiq ve un rastro de árboles arrancados atravesando la carretera, hacemos una breve parada y Viktor ve unas huellas enormes de algún tipo de ser bípedo gigante que Abidin no identifica.
+
+Afiq aprovecha para hablar con Abidin; nos cuenta que los locales son bastante supersticiosos, creen que la mina con sus voladuras está enfadando al dios de la montaña y que es la causa de su desgracia.
+
+Saphiro nos mete prisa y al final nos vamos al poblado a montar el campamento para que se pueda poner a trabajar cuanto antes en el estudio de la enfermedad mientras nosotros empezamos a investigar.
