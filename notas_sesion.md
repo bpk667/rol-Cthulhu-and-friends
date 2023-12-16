@@ -31,6 +31,7 @@
 | Phillip Conners        | Responsable de logística y suministros |
 | Jim Rogers             | Copiloto a Borneo                      |
 | Joshua Medham          | Fundador de Caduceo                    |
+| Doctor Gonsalves       | Jefe médico y jefe de campo de Caduceo |
 
 ## Borneo
 | NPC               | Descripción                        |
@@ -548,31 +549,31 @@ Resumen completo del paquete de orientación de Caduceo:
 
 Información de nivel uno
 
-    El texto describe la historia de la Fundación Caduceo. 
-    En 1912, Joshua Meadham vendió el imperio farmacéutico que había construido a lo largo de 30 años. 
-    Dedicó los beneficios a la creación de la Fundación Caduceo. 
-    Se incluyen algunos artículos de periódico que detallan la ayuda que Caduceo ha proporcionado a personas de todo el mundo después de epidemias, 
+    El texto describe la historia de la Fundación Caduceo.
+    En 1912, Joshua Meadham vendió el imperio farmacéutico que había construido a lo largo de 30 años.
+    Dedicó los beneficios a la creación de la Fundación Caduceo.
+    Se incluyen algunos artículos de periódico que detallan la ayuda que Caduceo ha proporcionado a personas de todo el mundo después de epidemias,
     desastres naturales y guerras.
 
 Información de nivel dos
 
-    El texto resume la información que la Fundación Caduceo ha podido averiguar sobre la raza de los hombres serpiente. 
-    Al parecer, los hombres serpiente son nativos de la Tierra, la han recorrido mucho antes del surgimiento de la humanidad y 
-    han llegado a erigir imperiosque se han desvanecido en la historia. 
-    Un cisma religioso tuvo lugar hace muchos milenios, dividiendo a la raza en dos. 
-    Un bando adora a una entidad llamada Yig, el padre de las serpientes y potencial progenitor de la raza. 
-    El otro adora a una entidad conocidacomo Tsathoggua, una monstruosidad malvada, similar a un sapo, que se regocija con los actos viles y las atrocidades. 
+    El texto resume la información que la Fundación Caduceo ha podido averiguar sobre la raza de los hombres serpiente.
+    Al parecer, los hombres serpiente son nativos de la Tierra, la han recorrido mucho antes del surgimiento de la humanidad y
+    han llegado a erigir imperiosque se han desvanecido en la historia.
+    Un cisma religioso tuvo lugar hace muchos milenios, dividiendo a la raza en dos.
+    Un bando adora a una entidad llamada Yig, el padre de las serpientes y potencial progenitor de la raza.
+    El otro adora a una entidad conocidacomo Tsathoggua, una monstruosidad malvada, similar a un sapo, que se regocija con los actos viles y las atrocidades.
     Esta última facción se refiere a sí misma como «la Noche Interior».
 
-    Caduceo ha determinado por propia experiencia que los adoradores de Yig prefieren esconderse de la humanidad en ciudades 
-    subterráneas muy por debajo de la superficie terrestre. Saben queenfrentarse a la humanidad podría significar la aniquilación, 
-    a pesar de que su tecnología es muy superior. Sin embargo, las evidencias que ha reunido Caduceo sobre la Noche Interior, 
-    que fue responsable de atacar a Joshua Meadham, hace pensar que esta otra organización, por el contrario, 
-    está trabajando en un plan que traerá consecuencias desastrosas para la raza humana. 
-    Losdetalles de este plan aún son desconocidos, pero es imperativo que se descubran pronto. 
+    Caduceo ha determinado por propia experiencia que los adoradores de Yig prefieren esconderse de la humanidad en ciudades
+    subterráneas muy por debajo de la superficie terrestre. Saben queenfrentarse a la humanidad podría significar la aniquilación,
+    a pesar de que su tecnología es muy superior. Sin embargo, las evidencias que ha reunido Caduceo sobre la Noche Interior,
+    que fue responsable de atacar a Joshua Meadham, hace pensar que esta otra organización, por el contrario,
+    está trabajando en un plan que traerá consecuencias desastrosas para la raza humana.
+    Losdetalles de este plan aún son desconocidos, pero es imperativo que se descubran pronto.
     La facción de la Noche Interior organiza y coordina sus esfuerzos por todo el mundo. Es posible que no quede mucho tiempo.
 
-    Algunas de las fuentes mencionadas en este paquete están escritas en naacal (lengua que visteis en los pozos y templo de Bolivia) 
+    Algunas de las fuentes mencionadas en este paquete están escritas en naacal (lengua que visteis en los pozos y templo de Bolivia)
     y se incluyen algunas notas traducidas. Cualquier persona que dedique un día a estudiarlas gana +10 percentiles en Otras lenguas (Naacal).
 
 
@@ -628,3 +629,168 @@ Ya de camino hacia la aldea, Afiq ve un rastro de árboles arrancados atravesand
 Afiq aprovecha para hablar con Abidin; nos cuenta que los locales son bastante supersticiosos, creen que la mina con sus voladuras está enfadando al dios de la montaña y que es la causa de su desgracia.
 
 Saphiro nos mete prisa y al final nos vamos al poblado a montar el campamento para que se pueda poner a trabajar cuanto antes en el estudio de la enfermedad mientras nosotros empezamos a investigar.
+
+# Sesión 5 (2023/12/03)
+Estamos en un túnel de unos 60 metros de diámetro.
+
+Hay unos seres humanoides comiendo parte de cuerpos humanos.
+
+Viktor está enajenado y quiere hablar con ellos.
+
+Afiq se acerca con sigilo. Son 6 y parecen remendados con partes de otros cuerpos.
+
+Viktor recuerda que hay unas criaturas, Gules, que son como cadáveres, que no pertenecen a este mundo que a veces cruzan a este mundo. Se les suele ver en cementerios, robando cadáveres.
+
+Nos detectan, y al mismo tiempo:
+
+    - Uno de ellos se acerca.
+
+    - Viktor intenta comunicarse con ellos: "Tranquilos"
+
+    - Afiq le pega un disparo. Le da: 10 puntos de daño.
+
+    - Gul responde: "¿Quién va?"
+
+Se lía. Pero nos los bajamos sin que nos hagan daño.
+
+Viktor interroga al que está medio-vivo (saca un crítico, así que habla ruso perfectamente):
+
+    Dice que el agujero lo ha hecho un Dhole (Gusano Devorador de Mundos).
+
+    La frontera entre mundos se está difuminando y las criaturas de los sueños campan a sus anchas.
+
+Andamos por el túnel unos 30-40 minutos.
+
+    Llegamos a lo que parece la superficie.  Salimos en la parte baja de un acantilado, en un claro de la selva. A unos 30-40 metros hay un agujero que baja hacia abajo, hacia el suelo.
+
+    Hacia el horizonte vemos el pueblo al fondo y una selva entre medias. La selva tiene colores y ruidos extraños, un áurea lisérgica y una extraña niebla por encima. Extraños frutos...
+
+    Connor detecta que la pared del acantilado parece que acaba de ser formada. En la ladera de la montaña hay una abertura no natural, con forma de hexágono.
+
+        Está a unos 200 metros de altura. Parece una especie de nido de pájaros similares a los que nos atacaron en el avión (Night Gaunts). Vemos 4.
+
+Viktor va disparándolos de uno en uno.
+
+    3 son heridos y salen espantados.
+
+    1 cae muerto.
+
+Subimos la ladera y entramos en el agujero.
+
+    Es todo muy pulido. Hay un pasillo con dos habitaciones:
+
+        La primera tiene una pirámide metálica de 2-3 metros con dos hexágonos flotando.
+
+        La segunda sala tiene un cuadro de mandos y varios monitores.
+
+        Al activar los monitores vemos un mapa del mundo raro (aparece un continente pequeño entre África y Sudamérica).
+
+            Hay varios sitios con luces: Islandia y Borneo tienen las luces encendidas. Hay otras luces pero están apagadas.
+
+        Al activar el mecanismo llamado "puerta", oímos unos ruidos en la otra sala.
+
+            Me acerco y veo un portal a otro plano con unos seres extraños, una especie de gusanos flotando (fallo tirada de cordura).
+
+        Vuelvo a cerrar el portal.
+
+Llega "__Saphiro__".  Dice que:
+
+    Se ha acercado al vernos subir el acantilado.
+
+    No hay cura del virus.
+
+    Ha manipulado el Haftorang para que explote en menos de 2 horas.
+
+    Connor detecta que se comporta de forma extraña: No parpadea, antes sudaba y ahora no, etc.
+
+    Connor le agarra pero, tras una pequeña discusión, Saphiro ataca y vemos claramente que es un hombre-lagarto.
+
+    Tras ganarle, le interrogamos:
+
+        - Nos dice que el mecanismo es un portal a algún nivel de la Tierra de Los Sueños.
+
+        - Que lo importante es el portal.
+
+    Tras amenazarle con romper el portal, se empieza a desintegrar y se convierte en una masa oscura e informe. Nos ataca pero terminamos matándole.
+
+Connor y Martin salen corriendo hacia el pueblo en busca de Saphiro.
+
+    Encuentran el analizador viral: Ha terminado y es capaz de detectar quién está enfermo y ha encontrado una vacuna.
+
+    Hay restos de sangre y el Haftorang está pitando con más frecuencia.
+
+    Martin se queda investigando y Connor pilla el Haftorang y sale corriendo de vuelta.
+
+Llega Martin al túnel donde estamos los demás: Afiq abre el portal y Martin lanza el Haftorang.
+
+Afiq sobrecarga el mecanismo y todo empieza a temblar. Salimos corriendo y, como el suelo tiembla mucho, decidimos volver por la selva.
+
+Entramos en la selva:
+
+    Estamos desorientados y hay muchas telas de araña.
+
+    Afiq se sube a un árbol y encuentra por donde ir.
+
+    Como Afiq es un zote y no ha hecho sigilo, nos han detectado dos arañas gigantescas (5-7 metros).
+
+Combatimos con las arañas. Bill casi hace que Viktor y Afiq estallen con un cartucho de dinamita mal tirado pero terminamos ganando.
+
+En el pueblo Martin detecta que no hay cura pero sí vacuna y empieza a preparar dosis de vacuna.
+
+En la selva aparece un gorila de 6 metros con 4 brazos y boca vertical muy grande en mitad de la cara y con colmillos.
+
+    Afiq falla la tirada de cordura y se cree que puedo bajárselo él solo.
+
+    Bill le revienta la cabeza con un cartucho de dinamita.
+
+    Al mismo tiempo suena una explosión: El gorila empieza a desaparecer y las plantas empiezan a marchitarse.
+
+Llegamos al pueblo y nos pinchamos la vacuna (todos pasamos la tirada de suerte).
+
+Los militares empiezan a organizar un __triage__ para ver quién está infectado y poner vacunas a los locales.
+
+Llamamamos a Caduceo y hablamos con el Doctor Gonsalves.
+
+    Le contamos que Saphiro ha muerto, que un hombre-serpiente se intentó hacer pasar por él.
+
+    Le contamos que nos hemos cargado el portal y neutralizado la amenaza y el virus.
+
+    Queda en mandarnos un avión.
+
+Martin y Affiq empezamos a tener fiebre. Martin da positivo y Caduceo agiliza la extracción: Nos dice que vayamos a Ranau.
+
+Durante dos días tenemos una carrera constante de Ranau hacia la cosa y de ahí a Nueva York.
+
+Martin y Afiq tenemos delirios con mundos extraños. Oímos voces y tenemos bubones en varias partes del cuerpo.
+
+Llegamos al aeropuerto de Nueva York:
+
+    Nos reciben con trajes de contención y nos llevan al edificio de Menhan, a los sótanos.
+
+    Nos meten a Martin y a Afiq en unas habitaciones especiales.
+
+
+Hablamos con el doctor Gonsalvez, que se presenta como el jefe médico y jefe de campo de Caduceo:
+
+    Nos dice que, a los que están bien, van a hacernos unas pruebas de rutina para confirmar que están bien. A Martin y Afiq van a intentar un tratamiento experimental.
+
+    Van a darnos unas pequeñas vacaciones durante un par de semanas.
+
+    Van a investigar las pistas de Islandia.
+
+    El jefe Menhan está interesándose por nosotros por que está muy contento con nuestros resultados. Quiere reunirse con nosotros cuando vuelva a Nueva York.
+
+    Nos va a dar acceso sin restricciones a las plantas 7 y 8 (podemos movernos sin restricciones y sin escolta) y nos da unas llaves para entrar libremente.
+
+    Viktor le pregunta por la momia y le dice que se ha despertado.
+
+    Al preguntarle qué era lo que hemos visto en Borneo nos dice que hay varias bases por todo el planeta y que cree que podría ser una de ellas. Dice que es posible que en Borneo la gente aceptase tan felizmente los cosas raras debido a algún
+    tipo de delirio.
+
+    Les dan de alta a Connor, Viktor y Bill y se van a sus respectivas casa/hoteles.
+
+
+A Martin y Afiq nos hacen un tratamiento muy rato y chungo: incluye cirugía y nos conectan muchos tubos. Un par de días después, nos despertamos en unas camas de hospital con las puertas de las habitaciones cerradas con bastante seguridad.
+  Martin, en sus delirios, sueña con Tiranis. Tiranis está preocupada y se da cuenta de que está mal.
+
+Bill se pone en contacto con su hermano (de forma discreta) y le manda pasta. Se le acerca un tipo italiano. Le dice que les debe algo (4000 $).  Le dice que se ha enterado de que trabaja para Caduceo y que quiere que vaya él y sus compañeros a cenar al restaurante en algún momento de esta semana.
