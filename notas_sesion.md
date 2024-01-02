@@ -24,14 +24,15 @@
 | Gregorio           | Jefe local del pueblo     |
 
 ## Caduceo
-| NPC                    | Descripción                            |
-| ---------------------- | -------------------------------------- |
-| Doctor Quentin Shapiro | Enlace                                 |
-| Frank DeLuca           | Jefe de seguridad                      |
-| Phillip Conners        | Responsable de logística y suministros |
-| Jim Rogers             | Copiloto a Borneo                      |
-| Joshua Medham          | Fundador de Caduceo                    |
-| Doctor Gonsalves       | Jefe médico y jefe de campo de Caduceo |
+| NPC                    | Descripción                                        |
+| ---------------------- | -------------------------------------------------- |
+| Doctor Quentin Shapiro | Enlace                                             |
+| Frank DeLuca           | Jefe de seguridad                                  |
+| Phillip Conners        | Responsable de logística y suministros             |
+| Jim Rogers             | Copiloto a Borneo                                  |
+| Joshua Medham          | Fundador de Caduceo                                |
+| Rose Medham            | Hija de Joshua que fue a la expedición de Islandia |
+| Doctor Gonsalves       | Jefe médico y jefe de campo de Caduceo             |
 
 ## Borneo
 | NPC               | Descripción                        |
@@ -630,7 +631,62 @@ Afiq aprovecha para hablar con Abidin; nos cuenta que los locales son bastante s
 
 Saphiro nos mete prisa y al final nos vamos al poblado a montar el campamento para que se pueda poner a trabajar cuanto antes en el estudio de la enfermedad mientras nosotros empezamos a investigar.
 
-# Sesión 5 (2023/12/03)
+# Sesión 5 (2023/11/30)
+
+
+Los ingleses nos acercan a la zona de cuarentena en 2 vehículos blindados.
+
+Shapiro va con prisas.
+
+Llegamos a la zona de la granja y chabolas y se acerca un local llamado Kazin, que es el dueño de la plantación.
+
+Kazin piensa que vamos a sacar a los enfermos de allí y no le hace gracia cuando le decimos que no, que venimos a investigar.
+Afiq intenta camelarse a Kazin en malayo pero con poco éxito en principio.
+
+Cuando vamos montando el campamento vemos todo tipo de enfermos y parece como una especie de lepra.
+
+Shapiro tiene una máquina para analizar muestras y un montón de manuales para intentar detectar quién está infectado con muerte amarilla y la vacuna.
+Shapiro suda como un gorrino.
+
+Kazin tiene negocios turbios 100%
+
+La cuarentena la pusieron cuando llegaron los ingleses, antes de eso no había.
+
+Los locales creen que la enfermedad y los males actuales son cosa del dios de la montaña que se ha enfadado por las excavaciones mineras. Hay un par de chamanes locales (Basan e Ida).
+
+Hay una fosa común por ahí cerca. Y por lo visto hay unos roedores extraños rondándola.
+Las ratas se quieren comer a la gente de por ahí y parece que “hablan”
+
+Kazin se extraña de las huellas de lo que sea gigante que se pasea por allí.
+
+Nuestro guia Abidin nos lleva a los chamanes:
+
+- Piensan que las explosiones en la montaña han perturbado la paz y que la fruta empezó a pudrirse por culpa de los mineros.
+- No hay ningún templo ni similar, su lugar sagrado es la montaña en general.
+- Los mineros trabajaban en la montaña, arriba [Investigar eso].
+- Hay un pozo para la zona y el agua viene de la montaña. No tienen otra forma de conseguir agua parece.
+- Los locales también piensan que hay especies de animales nuevas que no habían visto antes pero piensan que son un regalo de su dios. Parece que hasta las explosiones y la mineria no había esas criaturas.
+- Después de las explosiones iniciales dicen que su Dios en su enfado hizo temblar la tierra.
+
+Por lo visto ronda un espíritu en el pozo que es “La serpiente que camina”. Nos dice un niño que vio al espíritu echar algo en el agua.
+
+Sacamos del pozo un vial vacío y sospechamos que los pozos están envenenados. Le decimos a Shapiro que confirme si está envenenada el agua con una muestra que le llevamos. Dice que tarda un par de horas y avisamos a los militares para que no beban agua de los pozos y que se organicen con los locales para sacar agua del rio.
+
+Parece que tanto las ratas como los angeles raros son bichos como de los sueños.
+
+Vamos al campamento de prospección a hablar con los mineros y uno de los guardias vomita y cae muerto en el acto. Había bebido agua del pozo.
+
+Donde los mineros se nos acerca Richard Clements, al cargo del equipo de prospección.
+
+Se les han muerto mineros por la fiebre y también por un accidente en la mina. Ahí perdieron un equipo de 5 hombres.
+
+Tienen un montón de tumbas por ahí y el médico se les ha muerto también. Vamos a investigar por qué hay una tumba colapsada y justo debajo de la tumba hay un agujero que da a lo que parece una red de túneles.
+
+Abajo en los túneles encontramos una excavación circular gigantesca y unas criaturas comiendo los cadáveres que habrán sacado de las tumbas.
+
+
+
+# Sesión 6 (2023/12/03) PRESENCIAL
 Estamos en un túnel de unos 60 metros de diámetro.
 
 Hay unos seres humanoides comiendo parte de cuerpos humanos.
@@ -791,6 +847,219 @@ Hablamos con el doctor Gonsalvez, que se presenta como el jefe médico y jefe de
 
 
 A Martin y Afiq nos hacen un tratamiento muy rato y chungo: incluye cirugía y nos conectan muchos tubos. Un par de días después, nos despertamos en unas camas de hospital con las puertas de las habitaciones cerradas con bastante seguridad.
-  Martin, en sus delirios, sueña con Tiranis. Tiranis está preocupada y se da cuenta de que está mal.
+  Martin, en sus delirios, sueña con Tyranissh. Tyranissh está preocupada y se da cuenta de que está mal.
 
 Bill se pone en contacto con su hermano (de forma discreta) y le manda pasta. Se le acerca un tipo italiano. Le dice que les debe algo (4000 $).  Le dice que se ha enterado de que trabaja para Caduceo y que quiere que vaya él y sus compañeros a cenar al restaurante en algún momento de esta semana.
+
+
+# Sesión 7 (2023/12/17) Sesión Nueva York tras Borneo
+
+
+Afik y Martin salen fuera de peligro aunque siguen bastante malheridos.
+Connor le pide una casa a Caduceo cerca de Manhattan porque sigue en un hotel.
+Viktor vuelve a su casa en el barrio [Lower East Side](https://es.wikipedia.org/wiki/Lower_East_Side) a ponerse al día.
+
+Mientras tanto Martin tiene otra visión de Tyrannish en la que le pide ayuda para escapar, se queja del trato de Caduceo (hacen preguntas, cuenta que la drogan, está cansada).
+Tyrannish sospecha que la Noche Interior busca lo mismo que ella, el continente perdido de Mu, éste fue separado del resto del planeta por los Antiguos tras una grave crisis. El continente se encuentra en otro plano.
+
+Martin le pide ayuda para entender qué está pasando con los hombres serpiente, y poder adelantarnos a sus movimientos.  Tyrannish dice que hará lo que pueda pero no parece ser mucho de momento.
+
+Tras la visión Martin y Afiq se despiertan en una especie de quirófano/celda en el sótano de Caduceo, se dan cuenta de que están encerrados y quieren escaparse. Martin consigue forzar su cerradura y abrir a Afiq, empiezan a investigar por el sótano.
+
+Encuentran varias criaturas, todas con la misma cara de mujer y con múltiples deformaciones, cada una distinta, entre otros horrores
+
+Viktor y Connor se dan cuenta de que han venido a sus domicilios un par de hombres trajeados con acento italoamericano en varias ocasiones a preguntar por ellos mientras no estaban.
+
+Afiq y Martin intentan sacarle toda la información posible a la enfermera del sótano, inicialmente les cuenta información sobre los clones fallidos de las otras celdas, los héroes insisten pero acaban con la paciencia de la enfermera y activa la alarma.
+
+Martin encuentra en una de las celdas a Tyrannish y le reduce la dosis del gotero , esperando bajarle la dosis de aquello que le estén dando.
+
+Tras activarse la alarma, aparecen Gonçalves y dos seguratas, los tranquilizan y desescalan la situación, les invitan a subir a unos despachos y tumbarse en unos sofás con unas mantas, pasan la noche allí.
+
+Al día siguiente llegan Viktor y Connor a las oficinas de Caduceo, directos al despacho de Gonçalves, pero justo antes de llegar se encuentran con Afiq y Martin sobando en el despacho contiguo. Entran y se ponen al día de la situación desde la salida de Borneo.
+
+Durante la conversación, Viktor y Afiq se remangan y muestran una parte de su piel cubierta por escamas. En el caso de Viktor, es una lesión que sube desde una de las palmas de la mano hasta la mitad del antebrazo, sin rodear el brazo. En el caso de Afiq está algo más extendida, hasta llegar casi al hombro. Cuentan que sucedió al tocar las gemas lanzarrayos de Bolivia cuando seguían activas. Empezó como una lesión minúscula en la palma de la mano, pero tras la misión de Borneo se ha extendido, posiblemente más en Afiq por pasar la muerte amarilla y la hospitalización.
+
+Tras esta revelación el grupo entra en el despacho de Gonçalves en busca de respuestas, les dice que está trabajando en ello, hay un grupo en Bolivia investigando el artefacto que contenía las gemas y limpiando el lugar. También están analizando el tejido de las escamas de cada uno y han ofrecido un tratamiento que podría frenar su expansión. De momento les pide al grupo descansar mientras siguen investigando. Si el grupo quiere estos días ayudarles o participar en las investigaciones es bienvenido. También accede a que el grupo hable con Tyrannish ya que podría ayudar a despejar algunas incógnitas.
+
+
+# Sesión 8 (2023/12/21)
+
+Es viernes.
+
+Le contamos a Bill lo de las heridas con escamas de serpiente.
+
+Él nos cuenta que unos asociados suyos nos quieren invitar a una cena de negocios.
+
+Viktor pregunta si es la misma gente que ha ido preguntando por él a su casa ya que parece que intentaron forzar la cerradura.
+
+Bill nos dice que son gente que se mueve en ambientes un poco problemáticos.
+
+Decidimos ir a la cena, pero no nos terminamos de fiar. Les decimos de quedar mañana para recuperarnos un poco antes.
+
+
+## Conversaión con Deluca y Gonsalves
+
+Vemos que Frank Deluca entra en el despacho de Gonsalves y parece que están discutiendo.
+
+Hay una garafa de agua cerca del despacho, nos acercamos a beber agua mientras ponemos la oreja.
+
+    Discuten sobre lo que pasó anoche en los sótanos. Gonsalves le echa en cara a Deluca que no había seguridad cuando salimos de las habitaciones.
+
+    Deluca dice que se están tomando medidas y el responsable está siendo disciplinado.
+
+    En el sótano había información - ¿sujetos? - de nivel 4 y nosotros somos de nivel 2.
+
+    Bil escucha a Gonsalves decir: "Imagínate que viene del proyecto de abajo". Parece que hay un nivel más abajo del sótano 2. Nosotros vimos que había hasta 3 sótanos.
+
+    Gonsalves parece que se pone un poco violento, pero Deluca le recuerda su rango y la cosa no va a más.
+
+    Deluca se marcha.
+
+Bill se acerca a Deluca.
+
+    Le pide que gestione las licencias de armas para que no tengamos problemas. Deluca dice que no quiere oir de ningún problema y que tengamos cabeza. Bill le tranquiliza y comenta que es más por legalizarlo que otra cosa.
+
+Vamos a investigar en dos grupos.
+
+## Investigación de Martin, Connor y Viktor
+
+Van al archivo, piso 7.
+
+Martin va a investigar sobre hombres serpiente y las facciones que le comentó Tyranissh.
+
+Connor va a investigar sobre la base de Islandia.
+
+Hay ajetreo, pero menos que en otras plantas.
+
+
+Conversación con Philip Conners:
+
+    Está Philip Conners en su despacho. Perece que está un poco preocupado o cabizbajo.
+
+    Viktor le comenta que van a investigar para las misiones. Le pregunta a qué se debe que esté así, Philp le dice que se debe a la caída de Saphiro.
+
+    Philip le dice que está todo a nuestra disposición, que Gonsalves le ha dado instrucciones y se ofrece en ayudar en lo que necesitemos.
+
+    Connor se da cuenta de que Philip tenía una buena amistad con Saphiro.
+
+### Investigación en la sala de archivos.
+
+Los primeros restos son de hace 275 millones de años: Primer imperio de los hombres serpiente, segundo imperio (10.000 AC), etc.
+
+En el segundo imperio había 3 facciones, que adoraban a distintos dioses:
+
+  - Yig. El padre de las serpientes.
+
+  - Chatogua.
+
+  - Gatanotoa (éste no lo habíamos oído antes).
+
+Parece que en su día ya hubo una misión a Islandia, hace bastantes años:
+
+La misión de Caduceo fue en mayo de 1920. Al parecer unos cazadores de focas locales vieron una losa gigante que sobresalía de un glacial. Se trataba de un bloque de piedra negro. Con bajo relieves y jeroglíficos gravados. Nacaal antigüo.
+
+Al mismo tiempo, la universidad de Miskatonic quería enviar un buque de investigación a Islandia. Con Curtis Matteson al cargo como Director científico.
+
+En el informe inicial, la universidad de Providence tenía permisos pero Caduceo todavía no por lo que, para no llegar tarde, Caduceo se ofreció a pagar toda la expedición a cambio de meter un miembro. Ese miembro fue Rose Metham, la hija de Joshua.
+
+
+## Investigación de Bill y Afiq.
+
+Van al almacén, donde hay un montón de estantería con muchos niveles, cacharros raros, estatuillas, algún libro viejo, etc.
+
+Hay unos códigos de numeración. Hay algunos motivos en Nacaal y pegatinas de colores que indican cómo está ordenado. Comprobamos que no todo es de hombres serpientes.
+
+Entre otras cosas, encontramos:
+
+ - Un brazalete igual que el mío en una estantería. Nos indica cómo están catalogados.
+
+ - Una estatuilla y una colección de colmillos voladores como los que encontramos en Bolivia.
+
+ - Manuscritos ordenados en diferentes idiomas (lenguas muertas y vivas).
+
+Centrándonos en objetos que no son de los hombres serpiente: vemos tablas con símbolos que no reconocemos: Estatuillas precolombinas, africanos, etc. Todo es bastante raro y da bastante yuyu.
+
+De hombres serpientes hay más material que de otras cosas.
+
+Hay una estatuilla de 7x5 cm con forma de serpiente enrollada y con gemas rojas por ojos similar a la que vimos en Bolivia aunque más pequeña.
+
+***TODO***: Preguntarle a Conners/Gonsalves sobre la estatuilla y decirles que es similar a la que nos ha causado el problema del brazo.
+
+Parece que las cosas no se investigan aquí, pero recuerdo que en el sótano había alguna sala destinada a la investigación de objetos.
+
+***TODO***: Decirle a Gonsalves que quiero ir al sótano a ver cómo se estudian los objetos.
+
+## Gonsalves nos llama a todos
+
+Al llegar nos dice que van a subir a Tyranissh.
+
+Vemos que la llevan en una silla de ruedas, atada, con un séquito de científicos. Tyranissh se queda mirando a Martin y le sonríe.
+
+La meten en una sala y Martin les dice que no es la mejor forma de llevarla y que así no van a conseguir la mejor predisposición de Tyranissh.
+
+## Entramos en la sala con Tyranissh
+
+Tyranissh está atada a una silla. Hay un gran espejo.
+
+Gonsalves dice que estarán esperándonos y nos deja.
+
+Nos presentamos. Viktor le pregunta cómo habla tan bien inglés y Tyranissh le dice que tiene facilidad con los idiomas.
+
+Le pregunta a Martin si ha cambiado algo en él, le huele complacida.
+
+Le enseñamos las escamas del brazo y Tyrannish ríe complacida. Nos dice:
+
+    Lo que nos pasa se corresponde a algo que probaron en su día para mezclar lo mejor de ambas razas.
+
+    Las marcas no son muy grandes. Que por situaciones de estrés se puede acelerar el proceso.
+
+    La trampa que nos infectó estaba pensada para cambiar a los enemigos en amigos. Puede generar más empatía hacia su raza. Buscaban que las dos razas se extendiesen.
+
+    Si avanzase, sería lo mejor de cada raza, pero no está segura de cómo avanzará. En principio nos daría más fuerza, más agilidad, sentidos más sensibles... pero no lo sabe.
+
+    Podría ser reversible. Ella no trabajó personalmente en una fórmula para conseguirlo, pero no le extrañaría que otros lo hubiesen hecho.
+
+Nos dice también que se está empezando a cansar de Caduceo, no la tratan con respeto, no hacen más que intentar sacarle información y no va a aguantar tanta tontería de "_estos niños_".
+
+Le preguntamos dónde iría y contesta que le gustaría ver cómo está el mundo ahora. Dice que Caduceo y quizá nosotros la subestimamos y que se está empezando a hartar.
+
+Parece que Caduceo le pregunta mucho por Mu. Dice que tiene algo de información pero que no se fía de Caduceo de momento. Le parece que sería peligroso abrir esas puertas pero que está dispuesta a dejarnos que intentemos negociar con Caduceo.
+
+Al preguntárselo, nos dice que podría detectar a hombres serpiente, pero tendría que estar en la misma sala.
+
+Parece que confía en nosotros, especialmente en Martin.
+
+Le preguntamos por Gatanotoa y nos dice que ese es su dios. Nos cuenta que hubo una guerra civil entre las 3 facciones:
+
+  - Gatanotoa: Los humanos debías ser respetados igual que los hombres serpientes.
+  -
+  - Chatogua: Eran los más violentos y se hicieron fuertes en la ciudadela.
+  -
+  - Jig: También estaban en contra de respetar a los humanos.
+  -
+Connor le pregunta qué edad tiene. Contesta que no lo tiene muy claro, pero cree que unos miles de años.
+
+Mira hacia el espejo y dice: "_¿Habéis tomado buena nota? Vamos a intentar llevarnos bien. Tengo que descansar y retomar fuerzas, pero ya me encuentro mejor_." (guiña un ojo a Martin).
+
+## Al salir de hablar con Tyranissh
+
+Nos enonctramos con Gonsalves y le proponemos intentar construir cierta confianza. Paso a paso para ir dándole más libertad, darle acceso a información no sensible, etc.
+
+Le parece interesante y va a comentárselo a sus superiores.
+
+Connor le recuerda que le gustaría tener una sesión con un psicólogo.
+
+## Continuamos investigando
+
+Encontramos información que confirma lo que Tyrannish no ha contado: Había una raza alienígena, Los Antiguos, que consideraban que era peligroso mantener Mu con los Chatoua y decidieron mandar Mu a otra dimensión.
+
+Hubo una guerra civil de hombres serpiente.
+
+### Sobre la misión a Islandia:
+
+La Universidad de Miskatonic lideraba y finalmente Rose Medham fue en la expedición como enviada de Caduceo. También se unió un tal Emmet Jates (asistente de Rose).
+
+Hay un dosier de final de misión que da Rose Medham unos meses después: Dice que toda la expedición ha muerto menos ella y Emmet. Emmet y la tripulación del barco la encontraron medio muerta días después. No recuerda qué pasó esos días. No han sacado nada en claro y la misión ha sido un fracaso.
+
+Martin se da cuenta de que las caras clónicas que vio en el sótano son la cara de Rose Medham.
