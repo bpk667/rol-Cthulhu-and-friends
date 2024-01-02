@@ -898,11 +898,11 @@ Bill nos dice que son gente que se mueve en ambientes un poco problemáticos.
 Decidimos ir a la cena, pero no nos terminamos de fiar. Les decimos de quedar mañana para recuperarnos un poco antes.
 
 
-## Conversaión con Deluca y Gonsalves
+## Conversión con Deluca y Gonsalves
 
 Vemos que Frank Deluca entra en el despacho de Gonsalves y parece que están discutiendo.
 
-Hay una garafa de agua cerca del despacho, nos acercamos a beber agua mientras ponemos la oreja.
+Hay una garrafa de agua cerca del despacho, nos acercamos a beber agua mientras ponemos la oreja.
 
     Discuten sobre lo que pasó anoche en los sótanos. Gonsalves le echa en cara a Deluca que no había seguridad cuando salimos de las habitaciones.
 
@@ -957,7 +957,7 @@ En el segundo imperio había 3 facciones, que adoraban a distintos dioses:
 
 Parece que en su día ya hubo una misión a Islandia, hace bastantes años:
 
-La misión de Caduceo fue en mayo de 1920. Al parecer unos cazadores de focas locales vieron una losa gigante que sobresalía de un glacial. Se trataba de un bloque de piedra negro. Con bajo relieves y jeroglíficos gravados. Nacaal antigüo.
+La misión de Caduceo fue en mayo de 1920. Al parecer unos cazadores de focas locales vieron una losa gigante que sobresalía de un glacial. Se trataba de un bloque de piedra negro. Con bajo relieves y jeroglíficos gravados. Nacaal antiguo.
 
 Al mismo tiempo, la universidad de Miskatonic quería enviar un buque de investigación a Islandia. Con Curtis Matteson al cargo como Director científico.
 
@@ -1033,11 +1033,11 @@ Parece que confía en nosotros, especialmente en Martin.
 Le preguntamos por Gatanotoa y nos dice que ese es su dios. Nos cuenta que hubo una guerra civil entre las 3 facciones:
 
   - Gatanotoa: Los humanos debías ser respetados igual que los hombres serpientes.
-  -
+
   - Chatogua: Eran los más violentos y se hicieron fuertes en la ciudadela.
-  -
+
   - Jig: También estaban en contra de respetar a los humanos.
-  -
+
 Connor le pregunta qué edad tiene. Contesta que no lo tiene muy claro, pero cree que unos miles de años.
 
 Mira hacia el espejo y dice: "_¿Habéis tomado buena nota? Vamos a intentar llevarnos bien. Tengo que descansar y retomar fuerzas, pero ya me encuentro mejor_." (guiña un ojo a Martin).
