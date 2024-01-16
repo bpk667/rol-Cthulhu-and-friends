@@ -66,6 +66,7 @@ Su única ideología es ser leal a la gente que le es leal. Sabe que no puede so
 Dick Palen. Ex-jefe y dueño de varios aeródromos en USA. Le conoció al poco de llegar a Florida, donde le dio trabajo; cuando cerró el aeródromo de Florida, le consiguió trabajo en Rhinebeck (Nueva York).
 
 Suhana. Conterránea y amante. Corregenta un prostíbulo exótico cerca de Rhinebeck. El socio del negocio es un mando intermedio de una de las Cinco Familias de la mafia de Nueva York.
+  Giovanni Bonventre. Es un capo de e la familia Bonanno, reporta directamente a Joe "Giuseppe" Bonanno.
 
 
 ## Lugares significativos.
@@ -105,6 +106,7 @@ Se cabrea mucho cuando alguien le dice que toca mal el suling (es cierto, toca f
   - Cabaña en propiedad. Casa prefabricada (6 habitaciones) 1.175 $
   - Pontiac 6 sedan modificado hecho de piezas. (745 $ precio oficial)
 
+Caduceo nos sube el salario a 7000$ / año.
 
 # Equipo
 
@@ -120,7 +122,7 @@ En el petate para cuando va a pilotar:
 - Kit médico.
 - Gafas de aviador.
 
-Mochila para Bolivia:
+## Mochila para Bolivia:
 - Kit médico.
 - Muda limpia de recambio.
 - Camisa de manga larga.
@@ -135,9 +137,15 @@ Mochila para Bolivia:
 - Pistolera+revolver.
 - Repuestos de radio
 
-Recogido en la selva boliviana:
+
+## Recogido en la selva boliviana
 - Brazalete lanzallamas.
 - Panel de conducción del vehículo de la Noche Interior.
+
+
+## Recogido en Borneo
+ - Pieza de la consola que gestiona el portal interdimensional. Tras estudiarla y conseguir alimentarla, extraje un mapa.
+ 
 
 # Inventario de equipo:
 Dinamita:
@@ -175,5 +183,17 @@ Mochila similar a Bolivia:
 - Pistolera+revolver.
 - Brazalete.
 
-# Caduceo nos sube el salario a 7000$ / año.
+# Inventario para Oklahoma
+Maleta y mochila
+- Maletín médico.
+- Zippo.
+- 15 metros Cuerda.
+- Brújula.
+- Linterna.
+- Cantimplora.
+- Pistolera+revolver.
+- 2 x Brazaletes.
+-
+Mochila-radio de bajo alcance.
+
 

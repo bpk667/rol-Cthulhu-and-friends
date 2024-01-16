@@ -1,11 +1,11 @@
 # PJs
-| PJ               | Player |
-| ---------------- | ------ |
-| Connor Harris    | Raúl   |
-| Viktor Kuztnesov | Jesús  |
-| Bill Keane       | Torro  |
-| Martin McSwim    | Rodri  |
-| Afiq Megat       | Pedro  |
+| PJ                 | Player |
+| ------------------ | ------ |
+| Connor Harris      | Raúl   |
+| Viktor Kuztnesov   | Jesús  |
+| Bill Keane / Harry | Torro  |
+| Martin McSwim      | Rodri  |
+| Afiq Megat         | Pedro  |
 
 # NPCs
 ## Contactos Afiq
@@ -13,6 +13,16 @@
 | ---------- | ------------------------------------------------------------------------- |
 | Dick Palen | Amigo. Ex-jefe y dueño de varios aeródromos en USA                        |
 | Suhana     | Conterránea y amante. Corregenta un prostíbulo exótico cerca de Rhinebeck |
+
+## Mafia
+| NPC                        | Descripción                                           |
+| -------------------------- | ----------------------------------------------------- |
+| Giuseppe "Joe" Bonanno     | El jefe más joven de las familias de nueva jork       |
+| Francesco "Frank" Garofalo | Segundo de Joe Bonanno                                |
+| Phillipe Rapa              | Consiggieri                                           |
+| Giovanni Bonventre         | Uno de los capos de la familia Bonanno. Conoce a Afiq |
+| Filemone Casale            | De menos rango. Conoce a Harry                        |
+
 
 ## Bolivia
 | NPC                | Descripción               |
@@ -32,13 +42,23 @@
 | Jim Rogers             | Copiloto a Borneo                                  |
 | Joshua Medham          | Fundador de Caduceo                                |
 | Rose Medham            | Hija de Joshua que fue a la expedición de Islandia |
-| Doctor Gonsalves       | Jefe médico y jefe de campo de Caduceo             |
+| Doctor Gonçalves       | Jefe médico y jefe de campo de Caduceo             |
+| Archibald              | Psicólogo                                          |
+
 
 ## Borneo
 | NPC               | Descripción                        |
 | ----------------- | ---------------------------------- |
 | Capitán Lancaster | Contacto del ejército inglés local |
 | Abidin            | Guía local                         |
+
+
+## Borneo
+| NPC               | Descripción                        |
+| ----------------- | ---------------------------------- |
+| Reverendo Kornfield | Líder espiritual de Bingham |
+
+
 
 # Primera sesión (04/11/2023)
 
@@ -805,7 +825,7 @@ Llegamos al pueblo y nos pinchamos la vacuna (todos pasamos la tirada de suerte)
 
 Los militares empiezan a organizar un __triage__ para ver quién está infectado y poner vacunas a los locales.
 
-Llamamamos a Caduceo y hablamos con el Doctor Gonsalves.
+Llamamamos a Caduceo y hablamos con el Doctor Gonçalves.
 
     Le contamos que Saphiro ha muerto, que un hombre-serpiente se intentó hacer pasar por él.
 
@@ -898,21 +918,21 @@ Bill nos dice que son gente que se mueve en ambientes un poco problemáticos.
 Decidimos ir a la cena, pero no nos terminamos de fiar. Les decimos de quedar mañana para recuperarnos un poco antes.
 
 
-## Conversión con Deluca y Gonsalves
+## Conversión con Deluca y Gonçalves
 
-Vemos que Frank Deluca entra en el despacho de Gonsalves y parece que están discutiendo.
+Vemos que Frank Deluca entra en el despacho de Gonçalves y parece que están discutiendo.
 
 Hay una garrafa de agua cerca del despacho, nos acercamos a beber agua mientras ponemos la oreja.
 
-    Discuten sobre lo que pasó anoche en los sótanos. Gonsalves le echa en cara a Deluca que no había seguridad cuando salimos de las habitaciones.
+    Discuten sobre lo que pasó anoche en los sótanos. Gonçalves le echa en cara a Deluca que no había seguridad cuando salimos de las habitaciones.
 
     Deluca dice que se están tomando medidas y el responsable está siendo disciplinado.
 
     En el sótano había información - ¿sujetos? - de nivel 4 y nosotros somos de nivel 2.
 
-    Bil escucha a Gonsalves decir: "Imagínate que viene del proyecto de abajo". Parece que hay un nivel más abajo del sótano 2. Nosotros vimos que había hasta 3 sótanos.
+    Bil escucha a Gonçalves decir: "Imagínate que viene del proyecto de abajo". Parece que hay un nivel más abajo del sótano 2. Nosotros vimos que había hasta 3 sótanos.
 
-    Gonsalves parece que se pone un poco violento, pero Deluca le recuerda su rango y la cosa no va a más.
+    Gonçalves parece que se pone un poco violento, pero Deluca le recuerda su rango y la cosa no va a más.
 
     Deluca se marcha.
 
@@ -939,7 +959,7 @@ Conversación con Philip Conners:
 
     Viktor le comenta que van a investigar para las misiones. Le pregunta a qué se debe que esté así, Philp le dice que se debe a la caída de Saphiro.
 
-    Philip le dice que está todo a nuestra disposición, que Gonsalves le ha dado instrucciones y se ofrece en ayudar en lo que necesitemos.
+    Philip le dice que está todo a nuestra disposición, que Gonçalves le ha dado instrucciones y se ofrece en ayudar en lo que necesitemos.
 
     Connor se da cuenta de que Philip tenía una buena amistad con Saphiro.
 
@@ -984,13 +1004,13 @@ De hombres serpientes hay más material que de otras cosas.
 
 Hay una estatuilla de 7x5 cm con forma de serpiente enrollada y con gemas rojas por ojos similar a la que vimos en Bolivia aunque más pequeña.
 
-***TODO***: Preguntarle a Conners/Gonsalves sobre la estatuilla y decirles que es similar a la que nos ha causado el problema del brazo.
+***TODO***: Preguntarle a Conners/Gonçalves sobre la estatuilla y decirles que es similar a la que nos ha causado el problema del brazo.
 
 Parece que las cosas no se investigan aquí, pero recuerdo que en el sótano había alguna sala destinada a la investigación de objetos.
 
-***TODO***: Decirle a Gonsalves que quiero ir al sótano a ver cómo se estudian los objetos.
+***TODO***: Decirle a Gonçalves que quiero ir al sótano a ver cómo se estudian los objetos.
 
-## Gonsalves nos llama a todos
+## Gonçalves nos llama a todos
 
 Al llegar nos dice que van a subir a Tyranissh.
 
@@ -1002,7 +1022,7 @@ La meten en una sala y Martin les dice que no es la mejor forma de llevarla y qu
 
 Tyranissh está atada a una silla. Hay un gran espejo.
 
-Gonsalves dice que estarán esperándonos y nos deja.
+Gonçalves dice que estarán esperándonos y nos deja.
 
 Nos presentamos. Viktor le pregunta cómo habla tan bien inglés y Tyranissh le dice que tiene facilidad con los idiomas.
 
@@ -1044,7 +1064,7 @@ Mira hacia el espejo y dice: "_¿Habéis tomado buena nota? Vamos a intentar lle
 
 ## Al salir de hablar con Tyranissh
 
-Nos enonctramos con Gonsalves y le proponemos intentar construir cierta confianza. Paso a paso para ir dándole más libertad, darle acceso a información no sensible, etc.
+Nos enonctramos con Gonçalves y le proponemos intentar construir cierta confianza. Paso a paso para ir dándole más libertad, darle acceso a información no sensible, etc.
 
 Le parece interesante y va a comentárselo a sus superiores.
 
@@ -1063,3 +1083,397 @@ La Universidad de Miskatonic lideraba y finalmente Rose Medham fue en la expedic
 Hay un dosier de final de misión que da Rose Medham unos meses después: Dice que toda la expedición ha muerto menos ella y Emmet. Emmet y la tripulación del barco la encontraron medio muerta días después. No recuerda qué pasó esos días. No han sacado nada en claro y la misión ha sido un fracaso.
 
 Martin se da cuenta de que las caras clónicas que vio en el sótano son la cara de Rose Medham.
+
+
+# Sesión 9 (2024/01/07) - New York.
+
+
+Tras pasar el día en Caduceo estudiando y comer unos sándwiches cutrillos, hemos sacado algunas cosas en claro:
+1. Caduceo no nos alimenta bien.
+2. Victor ha hecho descubrimientos en materia de armas de hombres serpiente, como el látigo y los colmillos arrojadizos. También que los hombres serpiente tienen garras retráctiles y colmillos venenosos.
+3. Martin encontró historia antigua sobre el Segundo Imperio de los hombres serpiente y su guerra civil, que provocó un desalineamiento de fase de la ciudadela de los hombres serpiente o bien que los Antiguos y los yoigor son razas alienígenas que vieron que la Ciudadela se iba de las manos y sacaron Mu de esta dimensión.
+4. También información actual: Seguidores de Gathanothoa ya parece que no quedan, los seguidores de Yig siguen existiendo pero sin apenas contacto o actividad, pero los seguidores de Tsatthoggua son un huevo y están jodiendo y han fundado la Noche Interior.
+5. Connor tiene cita con el psicólogo Archibald Lecter. Suena de fiar.
+6. Afiq y Bill han ido a hablar con Phillip Conners sobre una figurilla de jade de una serpiente. La estatuilla viene de Islandia, es como una especie de cámara espía. Funciona regular. Para usarlo hay que ser fuerte mentalmente, evítese gente con cordura baja.
+7.  Faltan cosas importantes del almacén.
+
+A última hora Afiq y Bill van a hablar con Gonçalves antes de que se marche a casa para pedirle permiso para investigar los objetos recuperados. Gonçalves le dice a Afiq que se peine, que de momento es un mindundi. Pero Afiq consigue convencerle de que se replantee la posibilidad de pasar a nivel 3 un poco antes. Martin también se acerca a hablar con el sobre el tema de Tyrannish pero de momento no han hecho gran cosa.
+
+Al salir de Caduceo todos menos Martin fuimos con Afiq en su “coche” a visitar el bar de una amiga suya, Suhana. El sitio se llama Happy Barrow y es un bar de tetas donde se reúnen tipos un poco “ostentosos”. Al llegar, Suhana le dijo que tenía movida con un tal Giovanni, un mafioso de rango medio que le estaba presionando para tener más mano en el negocio.
+
+Giovanni Bonventre es un mafioso de la familia Bonanno, que ha estado preguntando por Afiq. Le informa de que sus colegas están interesados en tener una reunión con el grupo para saber más cosas de Caduceo. Parecen ser los mismos que han hablado con Bill. Afiq se quedó con Suhana y el resto nos fuimos en su coche a Nueva York. El sábado por la mañana Bill recogió a Afiq del Happy Barrow. Afiq se quedó investigando cacharritos en casa y descubrió información relativa a la base de Islandia, especialmente un plano de una instalación, aunque la mayoría de las cosas están en Nacaal. Bill se va a investigar el local de la cena, haciendo un poco de scouting de la zona.
+
+# Sesión 10 (2024/01/11)
+
+Un sábado de principios de abril...
+
+Vamos a tope de zarzaparrillas en el bar de enfrente mientras esperamos a estar todos juntos para la cena. 
+
+Vemos el restaurante (Green Garden) y parece un sitio normal, sin más. Tiene un cartel de cerrado pero dentro se ve gente cenando normalmente.
+
+Nos recibe un tipo joven (Filemone Casale), en forma, de cara afilada que saluda a Bill como Harry.
+
+
+El restaurante parece bastante familiar y con gente (hombres) de traje cenando dentro. 
+
+Una vez dentro, cierran con llave y nos piden las armas (aparte de registrarnos). Las dejan en un cestillo cerca de la entrada.
+
+Parece que el resto de gente del restaurante (o muchos al menos) si que llevan armas y se lo permiten.
+
+En la sala aparte de Giovanni (un capo de la familia Bonanno), se encuentra Joe Bonnano, que es el jefe de la familia Bonnano
+
+Philippe Rappa también se encuentra, que es como el consiglieri de la familia
+
+Francesco Frank Garoffalo es el segundo al mando.
+
+La familia Bonanno es una de las 5 más poderosas de NY
+
+En la estructura mafiosa quedaría la cosa mas o menos así:
+- Guiseppe Bonnano (que además es el mas jóven) como el don.
+- Francesco "Frank" Garofalo como el segundo.
+- Phillipe Rapa como il consiglieri.
+- Giovanni Bonventre como il capo.
+
+
+Nos pregunta qué hacemos para Caduceo. Les vamos dando largas de que nos encargamos de logística, músculo, transporte de mercancía y chorradas varias.
+
+Garofalo va cogiendo el papel protagonista de la conversación y nos dice que están interesados en el material que llevamos o traemos de las misiones.
+
+
+Dicen que les preocupa que Caduceo tenga tanto dinero/recursos y que Caduceo podría estar relacionada con tráfico de heroína en Nueva York y que no quieren que la heroína circule por sus barrios (vaya, que quieren tener el control absoluto).
+
+
+Tienen información de que la droga está entrando a través del barrio de redhook (puerto) y quieren que investiguemos si Caduceo tiene almacenes por redhook y si tienen registros de cargamentos o algo que esté relacionado con la droga.
+
+Nos ofrecen 1000$ por nuestra “colaboración” y Joe Bonanno habla por primera vez al final para decirnos que le entreguemos esa dirección.
+
+Salimos del restaurante (menos Bill que se queda dentro hablando con Filemone para intentar quedar de colegas, pero…. regular). 
+
+
+[ __media hora discutiendo en el apartamento de Bill sobre nuestra relación con la mafia y caduceo__ ]
+
+Se valoran varias opciones:
+
+1. Contarle a Caduceo que nos está intentando captar la mafia y soltarles lo que está pasando
+2. No decimos nada a Caduceo a no ser que nos pregunten directamente
+3. Nos callamos y nos hacemos los locos (siguiendo el juego a la mafia al 100%)
+
+
+Acordamos que antes de que alguien tome alguna acción (ya sea cantar a caduceo o investigarles por lo bajini) lo consultemos entre nosotros para no perjudicarnos al menos dentro.
+
+Sobre las 4 de la mañana después de terminar de discutir, nos vamos cada uno a casa y el domingo vamos haciendo un poco de dia libre cada uno.
+
+Bill se va a buscar para comprarse un coche.
+
+Afiq se va al bar de Suhanna a preguntarle que qué pasa con la mafia y por qué saben tanto:
+- Ella no le dijo nada directamente a la mafia pero si que le contó a otra gente sobre el nuevo trabajo de Afiq y estos pueden habérselo dicho a la mafia. Suhanna está agobiada porque le están pidiendo cada vez mas dinero (antes le pedían un 40% y ahora quieren un 60%)
+
+Viktor se va a un campo de tiro a practicar
+
+Connor se va dar una vuelta para conocer NY
+
+
+# Sesión 11 (2024/01/13)
+
+10:00 am. Estamos en un café a un par de manzanas del edificio de Caduceo.
+
+Nueva propuesta de Bill: Decirle a Chicago que la Mafia de Nueva York está mirando temas de heroína. Comentamos de no tirar por ahí todavía, pero considerarlo si hay indicios de que vayan a ir a por nosotros.
+
+Decidimos que, de momento, no vamos a contarle nada a Caduceo ni hacer lo que nos dice la Mafia.
+
+
+Al entrar en el edificio, Fran Deluca nos dice que está a punto de tener nuestras licencias de armas y que nos están esperando en el piso 8.
+
+A modo de recordatorio. En el dedificio de Caduceo tenemos:
+- Sala 7:
+    -  Sala de mapas
+    -  Biblioteca.
+    -  Almacén de artefactos.
+    -  Sala de intendencia (Phillip Conners)
+- En el piso 8:
+    -  Sala de radio.
+    -  Sala de juntas.
+    -  Escritorios de la gente que preparar las misiones con diagramas raros, geroglíficos y artefactos.
+
+Metemos la llave en el ascensor y subimos al piso 8. Nos dicen que nos están esperando en la Sala de reuniones nº 12. Vemos mucha seguridad.
+
+
+## Entramos en la sala donde nos reunimos con Medham.
+
+En la sala está:
+- Gonçalves. Está cabizbajo, muy incomodo o estresado.
+- Sr. Canning. Es muy grande (más que Connors). Bloque de músculo gigante en un traje muy apretado. Es el guardaespaldas personal del doctor Medham.
+
+Entra una mujer con falda de tubo muy bien vestida (Dolores Parvile). Reparte unos dosier. Nos dice que el Sr. Medham vendrá en unos minutos.
+
+En el dosier hay material de EEUU, del medio oeste. Parece Oklahoma. Hay textos en Nacaal.
+
+**Entra Medham**.
+
+Entran 2 hombres de seguridad. Detrás de ellos entra un hombre de unos 70 años, barba canosa muy grande. Anda con un bastón. Nos sonríe.
+
+Medham:
+
+	"Bueno bueno, el famoso Equipo número 13".  [_Su guardaespaldas se acerca y le ayuda a sentarse_].
+
+	Nos presentamos y nos regala los oídos con nuestras azañas. Sabe bien qué hemos hecho cada uno.
+
+	Nos dice que hay una secta de Jig en un pueblo de Oklahoma, *Bingham*. A una hora de Oklahoma City.
+
+	Parece que usan una iglesia cristiana local de tapadera.
+
+	Nunca se había visto que estuviesen activos y últimamente llega información de que lo están y se están mostrando muy abiertamente.
+
+	Parece que están captando humanos para su secta y el pueblo se está convirtiendo a esta pseudoreligión.
+
+	Hay grabaciones en radio  que se están retransmitiendo en Oklahoma y estados limítrofes.
+
+	Quieren que vaya un grupo a investigar.
+
+	Tienen un reverendo local que hace de líder. El reverendo Kornfield.
+
+	Preguntando por la relación entre Jig y Chatogua, nos dice que Jig siempre han sido enemigos y creemos que siguen siéndolo. Si no es así, Medhan quiere que se lo digamos inmediatamente.
+
+	Preguntando por un protocolo seguro de comunicación, nos indica que evitemos la vía telefónica y usar radio en su lugar. Gonçalves buscará 2-3 personas de confianza.
+
+	Nos dice que, si vemos una amenaza real para la humanidad, tenemos carta libre para resolverlo como consideremos.
+
+	Las grabaciones son desde hace 1 mes.
+
+Sale Medham y los demás le siguen.
+
+
+## Vamos a la habitación de grabaciones
+
+Nos pone unas grabaciones de la radio de Oklahoma City.
+
+Empezamos a escuchar un sermón religioso: "_[...] Y Jeová le dijo a la serpiente. ¡Maldita![...]_"
+
+Nos pregunta Gonçalves si lo hemos escuchado.
+
+Bill y Viktor escuchan una segunda voz en Nacaal: "_Maravilloso... rinde a los impíos ante Jig... otorgando bendiciones para.... las bendiciones ceden antes el corazón que espera..._"
+
+Parece que el mensaje oculto invita a los fieles de Jig a presentarse en Bingham.
+
+Nos da unos informes sobre la secta de Jig y nos pide que seamos cautelosos que tengamos un poco de corazón pues esta gente puede que simplemente haya perdido el rumbo y no tienen por qué ser enemigos de la humanidad.
+
+Gonçalves no dice que es una secta muy desgastada y que, aunque hace años sí estaban más en contra de los humanos, parece que cambiaron a tener una postura más pacífica. Hace mucho tiempo se creía que había una ciudad subterránea.
+
+La gente que es capaz de escuchar el mensaje subliminal se siente atraído por la llamada. Los que no la hemos escuchado no sentimos esta atracción.
+
+La emisora, *KFOC*, está en la capital de Oklahoma y emite a todo el estado y para de estados limítrofes.
+
+Tras comentarle que en Bolivia usamos un brazalete que nos fue muy útil, le pedimos el que tiene en el almacén y nos dice que se lo comentará a Conners. No hay problema pero nos pide que intentemos una vía no violenta y que extrememos las precauciones.
+
+Viktor pregunta e insiste a Gonçalves qué es lo que le preocupa. Gonçalves le confirma que no hay nada que deba preocuparnos.
+
+
+## Bill y Afiq van a ver a Conners.
+
+Bill le pide:
+- Una caja de granadas de mano.
+- Un revolver pequeño (un .38).
+Afiq le pide:
+- Un brazalete.
+- Equipo de radio.
+
+
+## Viktor, Martin y Connor se van a hablar con Tyrannish
+
+Tyrannish está en forma de serpiente, mirando libros.
+
+Connors le comenta que nos vamos de misión porque hay seguidores de Jig que se están haciendo bastante visibles.
+
+Tyrannish pregunta si se puede venir con nosotros. Dice que nunca estuvo muy de acuerdo con ellos.
+
+Viktor le comenta que están intentando captar gente.
+
+Tyrannish comenta que es un hechizo y que, si somos conscientes de que están intentando manipularnos, deberíamos ser capaces de resistirnos si nos mantenemos fuertes. Dice que nunca ha visto un hechicero tan fuerte como para poder dar una orden y que la gente la obedezca directamente.
+
+Tyrannish comenta de unirse a la misión.
+
+Viktor y Connors comentan si llevarse a Tyrannish a la misión o no.
+
+Tyrannish dice que no necesita el permiso de nadie y se transforma en una mujer con apariencia normal. Vuelve a transformarse a su forma anterior de serpiente.
+
+Los guardias se quedan un poco flipados y uno sale de la sala.
+
+Tyrannish pide confirmación del nombre del pueblo: "_Bingham en Oklahoma, ¿verdad?_"
+
+Entra Gonçalves: Le dice que quizá no es buena idea que salga del edificio de momento.
+
+Tyrannish dice que nadie le va a decir qué puede hacer o dónde ir.
+
+Viktor y Connors comentan que quizá es buena idea que no vaya inicialmente y hacer un poco de reconocimiento antes.
+
+Gonçalves les anima a que se preparen y salgan pronto.
+
+
+## Al salir de la sala
+
+Escuchamos un grito proveniente de la biblioteca.
+
+Hay fuego y Tyrannish le arranca la cabeza de un mordisco a un guardia.
+
+Lanza fuego con una mano.
+
+Dibuja un círculo de sangre con el cuerpo decapitado en la pared. Se abre un portal y dice en inglés "Ya estoy harta". A continuación, en Nacaal, dice "Sois todos iguales". Saluda y cruza el portal.
+
+
+## Viaje a Oklahoma.
+
+[ _Elipsis_ ]
+
+Al día siguiente salimos en avión hacia Oklahoma. Tras un par de paradas, llegamos dos días después a Oklahoma. Ahí alquilamos un coche y nos dirigimos a un pueblo cercano a Bingham.
+
+
+## Llegamos al pueblo de al lado. Alapendo.
+
+Durante La Gran Depresión la zona está muy mermada debido a que las grandes plantaciones de trigo han desertizado el suelo. Llaman a la zona el *Dustbowl* por las tormentas de humo.
+
+Vamos al bar a comer.
+
+Hablamos con el camarero del bar:
+
+	Le preguntamos por algún sitio para dormir en Birgham. Nos dice que hay un hotel.
+
+	Nos pregunta si somos de los que vamos en peregrinación.
+
+	 Hay bastante gente que está llendo a Birgham en peregrinación.
+
+	El reverendo está haciendo milagros desde hace 3 meses: Curó a un hombre en un aserradero que iba a morir y a una mujer, Shaw, que iba a morir en el parto.
+
+	Nos dice que un par de personas del pueblo han ido a alguna misa.
+
+	Dice que hace cosas raras. Lleva a serpientes a veces a las misas.
+
+	El reverendo había hecho una peregrinación por el desierto y volvió con una fe renovada.
+
+	Parece que, en general, la gente de Alapendo se dedica a sus asuntos y no interviene demasiado con Bingham.
+
+	Shaw trabajaba en el banco y sale con Gregory, un chico de Correos y Telégrafos.
+
+
+## Salimos hacia Bingham.
+
+Vamos a hacer dos grupos:
+- Connors, Afiq y Martin van como prospectores para montar una fabrica textil.
+- Bill y Viktor irán de peregrinación.
+
+Al entrar en el pueblo vemos que la mitad de las casas están abandonadas. Hay mucho polvo. Ambiente seco y se hace difícil respirar.
+
+
+## Connors, Afiq y Martin llegamos al hotel.
+
+Nos atiende Rosmery Adams. ~50 años. La dueña del hotel.
+
+Llama a su marido, Delbert, de unos 50 años.
+
+Nos da las habitaciones 7 y 8 (están en el último piso).
+
+Nos habla del reverendo. Dice que sus sermones son inigualables.
+
+Nos pregunta si iremos al servicio de esta tarde (7pm).
+
+Comenta que el reverendo es un hombre tocado por Dios.
+
+Nos habla de varios milagros:
+- Harry el barbero, no veía ni a 3 metros y ahora ve mejor que cuando tenía 20 años.
+- Una mujer con psoriasis.
+
+Pero nos dice que está obrando muchos milagros y que llegan muchos peregrinos al pueblo.
+
+
+## Viktor y Bill llegan al pueblo.
+
+Se les acerca el Sherif Benson. Le dicen que han escuchado la palabra del reverendo y les recibe alegremente.
+
+Les recomienda que no vayan a la taberna debido a que no son buenos creyentes y están cada vez más alejados de la palabra del señor.
+
+Les recomienda que vayan mejor al hotel o a la iglesia (si no tienen dinero)
+
+Se acercan a la iglesia. Hay un cartel con dos tablones. En el primero pone "Primera Iglesia", el segundo tablón lo han quitado.
+
+Es una iglesia episcopal, muy sencilla con un pequeño atril. Hay un hombre vestido de cura al fondo y unos niños en una esquina.
+
+El hombre tiene una edad indefinida (30-50 años). Se acerca a ellos:
+ - "¿Qué puedo hacer por vosotros?"
+ - "Venimos porque hemos oído su mensaje".
+ - Les ofrece un poco de agua y les pregunta cómo han decidido acercarse.
+ - Le dicen que van buscando trabajo de pueblo en pueblo y han escuchado el sermón lo que les dio esperanza por primera vez en meses.
+ - Les dice que no hay demasiado trabajo. Hay un aserradero y parece que no tiene mucho feeling con el dueño.
+ - Les comenta que hay bastantes peregrinos, por ejemplo, un hombre con su hijo que también difunde la palabra de Dios.
+
+Viktor ve que el libro del atril tiene muchas hojas intercaladas, como si hubiesen añadidos muchas notas. Los niños tienen muchos dibujos puestos en la pared: Hay mucha temática de serpientes. Hay dibujos de Jesús tachados. Hay un hombre tumbado con los brazos cruzados.
+
+Salen de la iglesia:
+
+Bill tiene la sensación de que hay gente en la parte trasera de la iglesia. Cuando se acerca, ve una pareja de 18-20 años saliendo de los arbustos.
+
+Bill se da cuenta de que hay una caja medioenterrada. Al abrir la caja ve un montón de botellas y trapos que huelen a gasolina (cócteles Molotov).
+
+Deciden dejarla donde está.
+
+
+## Volvemos con Afiq, Connor y Martin.
+
+Preguntándole por gente con la que podamos hablar del aserradero, Rosmary nos dice:
+- El gerente del aserradero es Hilliard Fowler. Que pasa más tiempo en el bar borracho que en el aserradero.
+- George Henson es uno de los capataces. Muy buen chico. Fue uno de las personas que está en el aserradero.
+  
+Nos dirigimos al bar.
+
+
+
+### Entran Connor, Afiq y Martin.
+
+En el bar hay trofeos de caza por todas partes.
+
+Al entrar todos los parroquianos nos miran.
+
+Le preguntamos por Hilliard. Está bastante perjudicado.
+
+Se sienta con nosotros a tomar algo.
+
+Connors le pregunta si hay algún problema con los peregrinos.
+
+	Dice que el reverendo se parece más a satanás que otra cosa. Que está poseido por el diablo.
+
+	Alguno de la mesa de al lado le dan la razón.
+
+	Dice que, desde que se fue al desierto, parece que le ha poseído satanás.
+
+	Que Henson, desde que lo curaron, no quiere dormir en la cama, duerme como los perros.
+
+	El cura también maldijo al bebé de Peggy.
+
+	Dice que prefiere ir a casa de Bill, el herrero, Billy Shonenbone. El pobre Bill que no puede ni sacar a su mujer de casa, que parece que le ha destrozado la piel entera.
+
+Le comentamos que si queremos hacer negocios, no queremos meternos en un pueblo que sea un polvorín. Para tranquilizarnos nos dice que el reverendo tiene los días contados. Que hay mucha gente que quiere librarse de él.
+
+Efrain se acerca y se ofrece a enseñarnos los campos y alrededores del pueblo. Trabaja en los ultramarinos.
+
+*Quedamos mañana las 4pm que se presente al hotel.*
+
+
+### Entran Viktor y Bill.
+
+Dice que se anden con ojo con el reverendo y con el Sheriff.
+
+Dice que al final va a haber una desgracia. Que el cura ya ha destrozado la vida a varias personas.
+
+Dice que se lleva a la gente al desierto y, cuando vuelven, no sabe que hacen pero lo que vuelven vuelven cambiados. Suelen llevarlo el Sheriff y Harry.
+
+
+## Salimos del bar.
+
+Se oyen gritos: "¡¡Fuego, fuego!!"
+
+Hay una columna de humo hacia la iglesia.
+
+Al acercarnos la iglesia está totalmente en llamas.
+
+Connor pregunta si hay alguien dentro pero parece que no.
+
+Bill mira y ya no están los cócteles Molotov.
+
