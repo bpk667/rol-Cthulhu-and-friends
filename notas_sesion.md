@@ -53,10 +53,16 @@
 | Abidin            | Guía local                         |
 
 
-## Borneo
-| NPC               | Descripción                        |
-| ----------------- | ---------------------------------- |
-| Reverendo Kornfield | Líder espiritual de Bingham |
+## Bingham
+| NPC                 | Descripción                                    |
+| ------------------- | ---------------------------------------------- |
+| Reverendo Kornfield | Líder espiritual de Bingham                    |
+| Bill Shonenbone     | Herrrero. Antiajo                              |
+| Fouler              | Antiajo                                        |
+| Pearl               | Mujer que tenía psoriasis                      |
+| Peggy               | Mujer embarazada. Muy Proajo. Mujer de Gregory |
+| Gregory             | Trabaja en Correos y Telégrafos.               |
+
 
 
 
@@ -1476,4 +1482,189 @@ Al acercarnos la iglesia está totalmente en llamas.
 Connor pregunta si hay alguien dentro pero parece que no.
 
 Bill mira y ya no están los cócteles Molotov.
+
+# Sesión 12 - Fireworks in Oklahoma (18/01/2024)
+[...] Estamos ayudando a apagar el fuego de la iglesia, la gente del bar no colabora. Hay un río cercano y rápidamente se forma una cadena de gente cargando cubos de agua. El reverendo está colaborando y animando a salvar la casa de Dios.
+
+Martin y Afiq ven hacia el norte (por donde el taller del herrero, una silueta en el tejado (parece una mujer desnuda). Afiq y Connor se aproximan de frente, la señora les ve, les saluda y les pide una escalera para bajar; mientras tanto, Martin va por detrás sin que le vean y se queda escuchando.
+
+La mujer se presenta, Pearl; tiene una actitud extraña, tomar el sol en el tejado le parece lo más razonable del mundo. Lo más raro es que parece que está mudando la piel. La capa exterior está cuarteada y vieja, mientras que las partes de piel nueva que quedan al descubierto no se corresponden para nada con su edad. Connor rápidamente le ofrece una chaqueta para taparse y ella les ofrece entrar y tomar un té. Martin se queda escuchando en la ventana.
+
+La mujer cuenta que cada pocos días desde “el milagro” se pela y que tomar el sol le ayuda. 
+
+Nos contó cómo obró el milagro el reverendo, al parecer le pidió que se arrodillara durante una celebración y le  impuso las manos, y que desde entonces se curó. Dice que esto de pelarse es mucho mejor que la psoriasis.
+
+Martin va a intentar avisar a VB, pero se encuentra con el marido. Le convence que está sólo de camino a ayudar a apagar el fuego.
+
+Pearl nos cuenta que le gustaría ayudar a apagar la iglesia pero que su marido no quiere que se acerque al reverendo y que está montando un culto paralelo en casa. También nos cuenta que no la deja salir de su habitación. En ese momento se oye a alguien en la puerta.
+
+Mientras tanto Martin llega al incendio y el panorama es desolador, la iglesia parece perdida, la gente está mojando los edificios de los alrededores para intentar evitar que el incendio se propague. 
+
+Martin actualiza a VB y tras hablar con Viktor, decide quedarse para seguir investigando la iglesia.
+
+Martin se concentra en la iglesia intentando sentir si hay algún objeto que “le llame”, apoya la mano en el suelo y ve al reverendo con serpientes en los brazos imponiéndole las manos a Pearl y a un hombre negro en los ojos. Ve a los parroquianos durante las celebraciones totalmente poseídos.
+
+En un momento dado, el reverendo proclama que a las 8 habrá servicio igualmente en los jardines de la iglesia y que no podrán callarles, que la gente traiga sillas de casa. El pueblo le aclama.
+
+Entre tanto, Bill el herrero entra en casa y tras reticencias iniciales, le da la mano a Afiq y acepta las disculpas de forma seca y no se opone a que se vayan.
+
+Mientras se alejan oyen como el herrero le comenta a su mujer que Fulanito no debería verse con Menganita, que es una mala compañía.
+
+Durante el incendio nos llamó la atención ver a un padre y un hijo que parecían ser unos recién llegados como nosotros.Tras apagar el fuego la gente va volviendo a sus casas y el equipo decide reunirse para ponerse al día.
+
+VB van a ir a casa del reverendo a seguir comiéndole la oreja para ver si descubren algo que nos pueda ayudar a ponernos de buenas con los antiajos. ACM van a ir al bar para seguir investigando sobre el incidente del fuego y tratar de descubrir si el reverendo vive solo para valorar entrar en su casa durante el culto para investigar.
+
+
+
+El reverendo recibe a VB amablemente, le ofrecen ayuda. Nos cuenta que el pueblo debería estar agradecido por tener la oportunidad de tener un trato más cercano con Dios y que no ven la verdad cuando la tienen delante de sus narices. Cree que todo el pueblo terminará viendo la realidad teniendo a Dios de su parte.
+Habla de Dios de forma muy genérica, dice que la Biblia se ha malinterpretado y pone como ejemplo la serpiente de Adan y Eva; afirma que era la voz de Dios.
+
+Parece que su fe es un trabajo en curso, tiene una biblia comentada y llena de notas, todavía es muy vago dando respuestas.
+
+Al final les invita a acompañarle en la siguiente peregrinación al desierto al día siguiente, será duro, un día entero sin comida ni agua.
+
+
+
+PCM de camino al bar ven a una mujer curioseando desde una ventana que les sonríe. En el bar el ambiente está tenso, no parecen tener claro quién lo ha hecho.
+
+Afiq pide 3 zarzaparrillas y nos sentamos en una mesa al lado de Fouler para intentar escuchar y descubrimos que están planeando hacer algo durante el servicio de esta tarde.
+
+Martin se entera de que el reverendo vive solo.
+
+Nos acercamos a la mesa de Fouler, intentamos convencerles sin éxito de que no hagan ninguna locura pero no había ninguna posibilidad, ahora están prevenidos. Se van.
+
+Entre tanto VB están ayudando al reverendo a preparar la celebración, en una de las cajas grandes que les pide mover, grandes suena un siseo y un cascabel.
+
+
+
+# Sesión 13.  (2024/01/25)
+
+Bill y Viktor están ayudando al reverendo a preparar el sitio para el servicio. Al mover una caja, sonaron dentro unos cascabeles de serpiente.
+
+Martin va a entrar en la casa del reverendo. Connor y Afiq vigilan el perímetro: La casa para apoyar a Martin y el servicio por si los del bar la lían.
+
+
+## Empieza el servicio
+
+Empieza el servicio a las 8. Parece un servicio normal, aunque notamos que la gente está tensa.
+
+El reverendo Cornfield hace una pausa y abre el cajón de madera. Saca con las manos dos serpientes de cascabel.
+
+Empieza a leer unos versículos de la Biblia sobre serpientes: "No condeno a los que atacaron a la iglesia, pero sí invito a que la gente se arrepienta..."
+
+La gente empieza a entrar en trance y empiezan a hablar en lenguas raras (parece Nacaal).
+
+[Empieza a levantarse polvo.]
+
+
+Aparece por la calle Fouler y parece que lleva un bulto pegado al cuerpo que no oculta demasiado.
+
+Connor se le acerca, Fouler saca una escopeta y grita: "Cornfield!"
+
+El sherif saca la pistola.
+
+El reverendo pide calma con voz tranquila.
+
+Fouler está claramente borracho y dice que el reverendo está cargándose el pueblo y destrozando familias.
+
+
+## Martin se cuela en la casa del reverendo.
+
+Martin aprovecha el tumulto con la llegada de Fouler, y consigue colarse en la casa sin que nadie se de cuenta.
+
+La casa es muy sencilla, una planta, una habitación con mobiliario muy básico.
+
+Al tocar los muebles del reverendo y concentrarse, Martin comienza a ver imágenes del reverendo en diferentes fases de su vida, pero parece mucho más viejo que ahora. Canas y piel arrugada.
+
+Ve una escena de noche del reverendo desnudo abriendo la puerta, más joven (10-15 años) y se empieza a obsesionar con reescribir la biblia. Ve frases de él reescribiendo la biblia y arrancando páginas.
+
+
+## Vuelta a la iglesia.
+
+Al mismo tiempo:
+- El sherif tiene una mano en la pistola.
+- Cornfield está intentando hacerle entrar en razón a Fouler: "Entiendo que es complicado, pero si me dejas que te ayude..."
+- Fouler levanta el arma.
+
+Cornfield intenta pararle y forcejean. Se oye un disparo. El sherif levanta el arma y dispara a Fouler.
+
+Fauller cae muerto.
+
+  Varios hombres empiezan a rodear al reverendo para protegerlo. Otra gente está saliendo del éxtasis asustada. Alguien dice: "__¡No, no, no, reverendo! ¡Lo perdemos!__"
+
+  El reverendo tiene un disparo en las tripas y se está desangrando.
+
+  Connor levanta el cuerpo. Parece que nadie está pensando en llamar a un médico.
+
+  Viktor mira el cuerpo para ver si puede ayudarle, pero dice que es imposible. Tiene todo el tórax reventado.
+
+  Se está formando un grupo con el sheriff y está agitados. Dicen de llevar al reverendo a su casa.
+
+  Alguien comenta de llamar al doctor, pero el sheriff dice: "A ese matasanos, ni te molestes."
+
+
+## Llevan al cuerpo del reverendo a su casa.
+
+Martin escucha que se acerca gente a la casa y sale por la puerta de atrás.
+
+Según llevan al reverendo a su cama, los hombres que está ahí se están calentando. Dicen que la culpa es de Bill Shonenbone, que se reúnen en su casa y ahí confabulan.
+
+Connor intenta calmar los ánimos diciendo que es suficiente con que hayan muertos dos personas esta noche. No le hacen mucho caso e intenta centrarse en el sheriff. El sherif entra en razón y pide que se calmen. Dice que lleven el
+cadáver de Fouler a la comisaría, que se lo lleven de tierra sagrada. Otros empiezan a intentar limpiar el lugar.
+
+
+## Visita a la casa del herrero.
+
+Afiq llega a la casa que está al lado de la herrería.
+
+Ve muchas figuras en la casa: 20 ó 30 personas y bastante movimiento. Al llamar a la puerta todo el mundo se calla. Alguien mira a través de la cortina.
+
+Abre una chica de unos 20 años. Pregunta qué quiere. Le explica lo que ha pasado y les pide que se desbanden para que no haya una tragedia mayor.
+
+Se acerca Bill Shonenbone y se lo repite. Bill pide que todos se vayan a sus casas. Algunos no quieren, pero terminan aceptando. Les dice que mañana es mejor no hacer culto para no dar excusas al sheriff para que se tome la justicia por su mano.  Se terminan yendo todos. Afiq se ofrece a que le avisen si sucede algo.
+
+
+## Vuelta a la casa del reverendo.
+
+La gente está empezando a montar un velatorio y dicen de darle sepultura por la mañana.
+
+Se acerca una pareja de padre-hijo, están afligidos. El hijo le pregunta al padre qué pasa con su peregrinación. El padre le dice que no es el momento, que no se preocupe, tenga fe y rece.
+
+Martin se acerca y mira si el reverendo tiene algún objeto especial o artefacto. No encuentra nada.
+
+Afiq llega a la casa del reverendo.
+
+Durante dos horas el velatorio transcurre sin novedad.
+
+Connor vuelve a donde se realizó el servicio a ver si encuentra algo. La caja de madera está vacía. Ve el libro del reverendo, que está cerca. Connor se lo guarda.
+
+## Visita a la casa de Peggy, la mujer embarazada.
+
+Martin se acerca a la casa de la embarazada (*Peggy*).
+
+Le abre una chica joven y dice: "¡Gregory! Perdón, pensaba que era mi marido."
+
+Está embarazada y pregunta quién es. Martin dice que ha ido sólo por asegurarse de que está bien o si necesita algo. Le ofrece entrar y le ofrece té. Mientras Peggy prepara el té, Martin se da cuenta de que ella mira con frecuencia un hueco de la cocina.
+
+Peggy le pregunta si conoce a su marido, pues no le ha visto en todo el día. Martin escucha algo arriba, como un quejido. Peggy dice que es el niño y que vuelve en seguida.
+
+Martin se acerca al hueco de la cocina y, al acercarse, ve una bandeja de arena con unos huevos cubiertos. Se mueve algo en los huevos, son blandos, parecen de reptil. No es del todo opaco y, cuando le da la luz, ve una especie de feto entre humano y reptiliano.
+
+Peggy vuelve. Parece un poco alterada por lo del reverendo. Le comenta que su marido trabaja en la estación de correos y telégrafos. Dice que últimamente está un poco ausente.
+
+## La gente del velatorio empieza a irse a sus casas.
+
+El sheriff anima a la gente a que se vayan a casa a descansar.
+
+Bill se queda cerca de la casa el herrero por si alguien calentito quiere liarla.
+
+Connor se acerca al hotel para mirar el libro.
+
+Martin y Afiq van al hotel y Connor les enseña la biblia. Parece una biblia normal, pero con muchos tachones, notas en los márgenes, pasajes nuevos, etc. No vemos nada que nos llame la atención.
+
+Connor estudia la biblia. Busca referencias al peregrinaje. Ve referencia a Jyg, el padre de las serpientes. Cambian a Dios por Jyg. Lee sobre una peregrinación al desierto en la que Jyg se le reveló y le bendijo. Menciona una cueva donde despertó y Jyg le otorgó un don. Menciona que lleva gente a la cueva de peregrinaje.
+
+Martin va a donde está Bill para relevarle tras dormir 3 horas. Está amaneciendo. Al cercarse escucha: "¡Milagro, milagro, milagro!"
+
+Bill y Martin ven una figura que está entrando por la calle. Se ve al Reverendo Cornfield desnudo, acercándose al pueblo.
 
