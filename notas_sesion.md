@@ -1428,7 +1428,7 @@ Deciden dejarla donde está.
 Preguntándole por gente con la que podamos hablar del aserradero, Rosmary nos dice:
 - El gerente del aserradero es Hilliard Fowler. Que pasa más tiempo en el bar borracho que en el aserradero.
 - George Henson es uno de los capataces. Muy buen chico. Fue uno de las personas que está en el aserradero.
-  
+
 Nos dirigimos al bar.
 
 
@@ -1700,7 +1700,7 @@ Se unen a la salida el sheriff y un tal Harry Mathewson, un conocido del reveren
 
 Empezamos a salir del pueblo por el oeste primero por una carretera y luego ésta gira un poco hacia el sur pero nosotros seguimos adelante. El terreno baldío y lleno de polvo se extiende hasta donde alcanza la vista. Afiq nos sigue a una distancia prudente.
 
-En total caminamos unas ocho horas, y el cansancio es palpante.  
+En total caminamos unas ocho horas, y el cansancio es palpante.
 
 Al final llegamos a un terreno pedregoso y ligeramente montañoso, nos acercamos a una oquedad y el reverendo dice: hemos llegado. Muestra una abertura que da paso a una cueva e invita a pasar al grupo.
 
@@ -1739,7 +1739,6 @@ Entran el Sheriff y Mathewson y preguntan qué pasa, y Martin les apunta con la 
 Mientras discutimos, la cueva se sigue llenando de humo y hay que salir como sea, y el Sheriff y el colega quieren sacar el cuerpo del reverendo.  
 Antes de poder sacar el cuerpo, Afiq le vuela la cabeza a bocajarro al cuerpo inconsciente del reverendo y de repente el sheriff saca su arma y se empieza a complicar la cosa.
 
-                 
 El Sheriff recibe dos disparos y cae inconsciente, y salimos todos de la cueva con su cuerpo dejando dentro el cuerpo ardiendo y el cadáver (esperamos que ya de verdad) del reverendo.  
 Con un estruendo la cueva colapsa y todo el entorno parece hundirse.  
 Una vez a cubierto, se aplican primeros auxilios al sheriff para estabilizarlo, y al examinar a Mathewson, parece que su mandíbula no es normal y parece desencajarse. Claramente tiene efectos secundarios de la “curación” del reverendo.
@@ -1799,6 +1798,7 @@ Acabamos el día cada uno camino a su casa.
 Mañana del día siguiente.
 
 Afiq. Al llegar a casa y ducharse nota que las escamas cubren todo el brazo entero hasta el pecho y desprende escamas en la ducha.
+
 	[ *+1 armadura corporal para Afiq y Viktor* ]
 
 Connor y Bill se van a trabajar a los puertos de Red Hook.  
@@ -1825,8 +1825,9 @@ Investigando el edificio Medham, se construyó en 1914.
 Investigando sobre Rose Medham descubren que tenía mucha vida social, muy envuelta en causas sociales. Va desapareciendo paulatinamente de la vida social a partir de 1920 o así.
 
 [ *Recordando lo que leímos en el informe nivel 2 de Caduceo* ]
-En 1910 Joshua Medham descubre el complot de los hombres serpientes. La noche Interior intentó arrebatarle la empresa de productor químicos.  
-Poco después se montó la organización de Caduceo para combatir a los hombres serpientes.
+
+- En 1910 Joshua Medham descubre el complot de los hombres serpientes. La noche Interior intentó arrebatarle la empresa de productor químicos.
+- Poco después se montó la organización de Caduceo para combatir a los hombres serpientes.
 
 
 ## En la zona de los muelles de Red Hook:
@@ -1975,4 +1976,5 @@ Llegan Giovanni y Casale.
 - Nos dice que necesitan que les indiquemos si hay algo fuera de lugar o dónde mirar.
 - El registro tiene que suceder en un par de días o antes. Pondrá a sus mejores hombres a nuestra disposición.
 - Si aceptamos este trabajo, Giovanni nos da su palabra de que no volverá a pedirnos nada más, el asunto de Suhana estará solucionado así como la deuda de Bill.
+- No nos permite no aceptar el trabajo
 
