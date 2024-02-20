@@ -44,6 +44,7 @@
 | Rose Medham            | Hija de Joshua que fue a la expedición de Islandia |
 | Doctor Gonçalves       | Jefe médico y jefe de campo de Caduceo             |
 | Archibald              | Psicólogo                                          |
+| Emmet Jates            | Acompañante de Rose en Islandia                    |
 
 
 ## Borneo
@@ -1062,7 +1063,7 @@ Le preguntamos por Gatanotoa y nos dice que ese es su dios. Nos cuenta que hubo 
 
   - Chatogua: Eran los más violentos y se hicieron fuertes en la ciudadela.
 
-  - Jig: También estaban en contra de respetar a los humanos.
+  - Yig: También estaban en contra de respetar a los humanos.
 
 Connor le pregunta qué edad tiene. Contesta que no lo tiene muy claro, pero cree que unos miles de años.
 
@@ -1195,6 +1196,7 @@ A modo de recordatorio. En el dedificio de Caduceo tenemos:
     -  Sala de mapas
     -  Biblioteca.
     -  Almacén de artefactos.
+    -  Archivo.
     -  Sala de intendencia (Phillip Conners)
 - En el piso 8:
     -  Sala de radio.
@@ -1224,7 +1226,7 @@ Medham:
 
 	Nos presentamos y nos regala los oídos con nuestras azañas. Sabe bien qué hemos hecho cada uno.
 
-	Nos dice que hay una secta de Jig en un pueblo de Oklahoma, *Bingham*. A una hora de Oklahoma City.
+	Nos dice que hay una secta de Yig en un pueblo de Oklahoma, *Bingham*. A una hora de Oklahoma City.
 
 	Parece que usan una iglesia cristiana local de tapadera.
 
@@ -1238,7 +1240,7 @@ Medham:
 
 	Tienen un reverendo local que hace de líder. El reverendo Kornfield.
 
-	Preguntando por la relación entre Jig y Chatogua, nos dice que Jig siempre han sido enemigos y creemos que siguen siéndolo. Si no es así, Medhan quiere que se lo digamos inmediatamente.
+	Preguntando por la relación entre Yig y Chatogua, nos dice que Yig siempre han sido enemigos y creemos que siguen siéndolo. Si no es así, Medham quiere que se lo digamos inmediatamente.
 
 	Preguntando por un protocolo seguro de comunicación, nos indica que evitemos la vía telefónica y usar radio en su lugar. Gonçalves buscará 2-3 personas de confianza.
 
@@ -1257,11 +1259,11 @@ Empezamos a escuchar un sermón religioso: "_[...] Y Jeová le dijo a la serpien
 
 Nos pregunta Gonçalves si lo hemos escuchado.
 
-Bill y Viktor escuchan una segunda voz en Nacaal: "_Maravilloso... rinde a los impíos ante Jig... otorgando bendiciones para.... las bendiciones ceden antes el corazón que espera..._"
+Bill y Viktor escuchan una segunda voz en Nacaal: "_Maravilloso... rinde a los impíos ante Yig... otorgando bendiciones para.... las bendiciones ceden antes el corazón que espera..._"
 
-Parece que el mensaje oculto invita a los fieles de Jig a presentarse en Bingham.
+Parece que el mensaje oculto invita a los fieles de Yig a presentarse en Bingham.
 
-Nos da unos informes sobre la secta de Jig y nos pide que seamos cautelosos que tengamos un poco de corazón pues esta gente puede que simplemente haya perdido el rumbo y no tienen por qué ser enemigos de la humanidad.
+Nos da unos informes sobre la secta de Yig y nos pide que seamos cautelosos que tengamos un poco de corazón pues esta gente puede que simplemente haya perdido el rumbo y no tienen por qué ser enemigos de la humanidad.
 
 Gonçalves no dice que es una secta muy desgastada y que, aunque hace años sí estaban más en contra de los humanos, parece que cambiaron a tener una postura más pacífica. Hace mucho tiempo se creía que había una ciudad subterránea.
 
@@ -1288,7 +1290,7 @@ Afiq le pide:
 
 Tyrannish está en forma de serpiente, mirando libros.
 
-Connors le comenta que nos vamos de misión porque hay seguidores de Jig que se están haciendo bastante visibles.
+Connors le comenta que nos vamos de misión porque hay seguidores de Yig que se están haciendo bastante visibles.
 
 Tyrannish pregunta si se puede venir con nosotros. Dice que nunca estuvo muy de acuerdo con ellos.
 
@@ -1335,7 +1337,7 @@ Al día siguiente salimos en avión hacia Oklahoma. Tras un par de paradas, lleg
 
 ## Llegamos al pueblo de al lado. Alapendo.
 
-Durante La Gran Depresión la zona está muy mermada debido a que las grandes plantaciones de trigo han desertizado el suelo. Llaman a la zona el *Dustbowl* por las tormentas de humo.
+Durante La Gran Depresión la zona está muy mermada debido a que las grandes plantaciones de trigo han desertizado el suelo. Llaman a la zona el *Dustbowl* por las tormentas de polvo.
 
 Vamos al bar a comer.
 
@@ -1459,7 +1461,7 @@ Le comentamos que si queremos hacer negocios, no queremos meternos en un pueblo 
 
 Efrain se acerca y se ofrece a enseñarnos los campos y alrededores del pueblo. Trabaja en los ultramarinos.
 
-*Quedamos mañana las 4pm que se presente al hotel.*
+*Quedamos mañana, a las 4pm vendrá a recogernos Gal hotel.*
 
 
 ### Entran Viktor y Bill.
@@ -1662,9 +1664,315 @@ Connor se acerca al hotel para mirar el libro.
 
 Martin y Afiq van al hotel y Connor les enseña la biblia. Parece una biblia normal, pero con muchos tachones, notas en los márgenes, pasajes nuevos, etc. No vemos nada que nos llame la atención.
 
-Connor estudia la biblia. Busca referencias al peregrinaje. Ve referencia a Jyg, el padre de las serpientes. Cambian a Dios por Jyg. Lee sobre una peregrinación al desierto en la que Jyg se le reveló y le bendijo. Menciona una cueva donde despertó y Jyg le otorgó un don. Menciona que lleva gente a la cueva de peregrinaje.
+Connor estudia la biblia. Busca referencias al peregrinaje. Ve referencia a Yig, el padre de las serpientes. Cambian a Dios por Yig. Lee sobre una peregrinación al desierto en la que Yig se le reveló y le bendijo. Menciona una cueva donde despertó y Yig le otorgó un don. Menciona que lleva gente a la cueva de peregrinaje.
 
 Martin va a donde está Bill para relevarle tras dormir 3 horas. Está amaneciendo. Al cercarse escucha: "¡Milagro, milagro, milagro!"
 
 Bill y Martin ven una figura que está entrando por la calle. Se ve al Reverendo Cornfield desnudo, acercándose al pueblo.
+
+
+# Sesión 14 - Reverendo 2: Electric Bugaloo
+Aparece el reverendo desnudo. ¡Milagro! ¡Milagro! ¡Está vivo! Todo el mundo se le acerca y le alaba. Se arrodillan. Los enemigos del reverendo están completamente estupefactos. La noticia de la resurrección corre como la pólvora por el pueblo.
+
+Viktor se le acerca y le habla sobre el milagro del señor, utilizando el nombre de Yig. El reverendo se sorprende de que conozca su verdadero nombre y vuelve a recordarle que le acompañe a la peregrinación que será hoy a las 10 de la mañana.
+
+Mientras tanto, Afiq busca un sitio elevado y llama a Caduceo por radio y le ponen con Joshua Medham. Medham es informado de la resurrección del reverendo y los últimos acontecimientos. Medham informa de que nada igual había pasado y que se trata de una abominación que debe ser destruida, pero con cuidado ya que puede ser muy peligroso.
+
+Martin va a ver a Peggy y le cuenta sobre la peregrinación, comentándole que el reverendo no se llevó mucha gente a la misma, solamente el sheriff, el ayudante del herrero y no mucha gente más. Peggy estaba en la puerta y no se atrevía a ver qué pasaba con el reverendo para no dejar solo al niño. Su marido no durmió en casa esta noche.
+
+El reverendo antes de entrar en casa anuncia que no habrá servicio ya que se va de peregrinaje hasta el día siguiente.
+
+Aprovechamos para reunirnos sigilosamente cuando la gente se dispersa.
+
+Personas de peregrinaje en un primer momento: Padre e hijo, Viktor y Bill y otras tres personas.
+
+Planeamos los próximos pasos. Bill y Viktor acompañarán al reverendo en la peregrinación. Los demás intentarán convencer al reverendo de que los invite, menos Afiq, que irá por separado siguiendo al grupo. Preguntaremos por el pueblo a los que no simpatizan con el reverendo si tienen alguna información de la ubicación de la cueva.
+
+Afiq va a ver a Bill Tenenbaum en busca de información sobre la peregrinación pero su grupo de confianza no saben mucho, simplemente que se dirigen hacia el oeste.
+
+Connor y Martin se dirigen a ver al grupo de peregrinos padre e hijo (Lloyd allen, mortimer Allen) para contarles que están interesados en participar y si pueden ayudarles a que el reverendo cuente con ellos para el peregrinaje. Se muestran llenos de júbilo al ver nuevos peregrinos y se dirigen a casa del reverendo a hablar con él.
+
+Llegan, se presentan y el reverendo muestra interés por saber por qué de repente quieren venir. 
+
+Llegan las 10 y nos acercamos a la salida de la peregrinación. Afiq espera pacientemente para dejar que salgan y seguirles en paralelo.
+
+Se unen a la salida el sheriff y un tal Harry Mathewson, un conocido del reverendo.
+
+Empezamos a salir del pueblo por el oeste primero por una carretera y luego ésta gira un poco hacia el sur pero nosotros seguimos adelante. El terreno baldío y lleno de polvo se extiende hasta donde alcanza la vista. Afiq nos sigue a una distancia prudente.
+
+En total caminamos unas ocho horas, y el cansancio es palpante.  
+
+Al final llegamos a un terreno pedregoso y ligeramente montañoso, nos acercamos a una oquedad y el reverendo dice: hemos llegado. Muestra una abertura que da paso a una cueva e invita a pasar al grupo.
+
+De uno en uno vamos pasando: al acercarse a la abertura, se desata una ráfaga de viento y arena muy fuerte que sale desde dentro e impide entrar a no ser que uno se agarre con todas sus fuerzas.
+
+Al cruzar el sheriff, Martin y Viktor no se activa esta ráfaga, mientras que para los demás sí.
+
+El reverendo les sonríe a los que no se les aparece el viento.
+
+Al entrar dentro, tras acostumbrarse a la oscuridad se distinguen inscripciones en nacaal y una losa de piedra al fondo donde yace el cadáver del reverendo, más mayor que el actual, y con una especie de agujero similar a una cloaca de reptiles en el lugar de los genitales.
+
+Al ir avanzando, todos notamos una presencia que obliga a arrodillarnos frente al cadáver del reverendo, Martin consigue resistirse y queda de pie. Los demás entramos en un ligero trance y gritamos frases en nacaal mientras nos arrodillamos.
+
+Una voz resuena dentro de cada individuo preguntando ¿Eres fiel? mientras se escucha al resto de los acompañantes gritar ¡Sí soy, mi señor Yig! y frases similares.
+
+
+# Sesión 15 - jueves 8 febrero - Oklahoma FINAL
+
+No afectados por la ventisca: Reverendo, Sheriff, Mathewson, Victor, Afiq, Martin
+
+Al entrar vemos un cuerpo del reverendo sobre la losa, parece mas viejo y en lugar de genitales parece tener un orificio como el que tienen las serpientes para poner huevos.
+
+- La voz pregunta si somos fieles a Yig
+
+Viktor abraza a Yig, el resto del grupo (jugadores) de momento se calla y no responde.  
+A todos los que han respondido que sí son fieles le entran convulsiones y parecen entrar en un estado de iluminación/trance.
+
+El grupo del reverendo, sheriff y Mathewson están ajenos a estos estados de catarsis y quedan pendientes de lo que hacemos. Excepto Viktor, el resto disimulan para no aceptar a Yig directamente. Parece que el reverendo nos acepta como parte del círculo interior de Bingham y dice que es el momento de volver al pueblo.
+
+Afiq entra en la cueva sigilosamente para ver cómo el reverendo dice que volvamos al pueblo. Mientras tanto miramos un poco el cadáver para detectar cualquier cosa extraña y Viktor va a tocarlo y es rechazado por una fuerza extraña, aunque es capaz de superar ese poder y tocar la muñeca del cadáver, que está frió al tacto. Muy muerto.
+
+Viktor y Martin hablan con el reverendo, que admite que tiene el don de resucitar y que el recipiente que está en el altar puede sacar nuevos reverenditos.
+
+Connor noquea al reverendo y de repente aparece Afiq con el lanzallamas serpentino y chamusca el cuerpo del cadáver que estaba sobre la losa. Escuchamos de repente una voz chillando en nuestras cabezas y el cuerpo empieza a arder sin control y la cueva empieza a llenarse de humo.  
+Entran el Sheriff y Mathewson y preguntan qué pasa, y Martin les apunta con la pistola.  
+Mientras discutimos, la cueva se sigue llenando de humo y hay que salir como sea, y el Sheriff y el colega quieren sacar el cuerpo del reverendo.  
+Antes de poder sacar el cuerpo, Afiq le vuela la cabeza a bocajarro al cuerpo inconsciente del reverendo y de repente el sheriff saca su arma y se empieza a complicar la cosa.
+
+                 
+El Sheriff recibe dos disparos y cae inconsciente, y salimos todos de la cueva con su cuerpo dejando dentro el cuerpo ardiendo y el cadáver (esperamos que ya de verdad) del reverendo.  
+Con un estruendo la cueva colapsa y todo el entorno parece hundirse.  
+Una vez a cubierto, se aplican primeros auxilios al sheriff para estabilizarlo, y al examinar a Mathewson, parece que su mandíbula no es normal y parece desencajarse. Claramente tiene efectos secundarios de la “curación” del reverendo.
+
+Después de discutir un tiempo el curso de acción, volvemos de camino para el pueblo con el sheriff y con un Mathewson asustado. De camino parece que Martin le convence de que no estaban siguiendo realmente a Dios y parece que va entrando un poco en razón… 
+
+Llegamos al pueblo, Afiq contacta con caduceo y les dice que la gente “infectada” del pueblo necesitará ayuda. El sheriff no sobrevivió al camino de vuelta y Connor le deja ahí por el cementerio del pueblo de madrugada.
+
+Hablamos con Bill y nos da las gracias por encargarnos del asunto y dice que se encargará de intentar ayudar al pueblo a calmarse. Al irnos de casa de Bill se ve que su hija está con un chico joven que corresponde con la descripción del marido de Peggy.
+
+Al irnos vemos de pasada a una anciana que nos sonríe y cuya sombra no es humana sino de persona-serpiente. El pecho de Martin se pone salsero con su marca.
+
+
+# Sesión 16 - Jueves 15 febrero - Nueva York
+
+Llegamos al aeropuerto de la Guardia, aparcamos el avión y tiramos para Caduceo en el coche de Afiq sin parar ni para una ducha.
+
+Un guardia de seguridad parecía tener órdenes de enviar al despacho de DeLuca al equipo 13 nada más llegar, así que vamos para allá.
+
+DeLuca nos pide que esperemos unos minutos mientras va a comprobar si Medham está disponible.  
+Mientras estamos solos en el despacho, abrimos sus archivadores y rebuscamos a ver qué encontramos.
+
+Tres cosas llaman nuestra atención:
+- Uno de los documentos hace referencia a un allanamiento a la mansión de Medham, en el informe sospechan que pudo ser la Noche Interior, al parecer la mansión está sobre un templo de Yig.
+- Uno de los telegramas hace referencia a una entrega de productos químicos en un almacén (Red Hook). 
+- Otro documento es una orden de reforzar la seguridad en dicho almacén.
+
+Oímos pasos y cerramos rápidamente los cajones. 
+
+Deluca llega con claros síntomas de consumir cocaína y nos dice que Medham nos recibirá en su despacho en la planta 8, así que nos dirigimos hacia allí.
+
+Nos recibe Dolores y nos dice que el señor Medham nos recibirá en un momento. Entre tanto charlamos con ella y parece que por ahora le caemos bien.
+
+Entramos a la sala de reuniones, nos recibe primero su guardaespaldas sin dirigirnos ni media palabra, pero en seguida aparece Medham. La presencia de Canning es imponente, es difícil mantener la compostura frente a semejante elemento.
+
+Afiq le insiste en que la situación del pueblo es delicada y pregunta por la experiencia de Caduceo tratando con no-humanos, nos dice que es la primera vez.
+
+Tampoco han visto nunca un caso como el del reverendo y su capacidad de copiar cuerpos.
+
+Detallamos que el cuerpo estaba protegido por un campo de fuerza, la voz, la sensación a la entrada de la cueva, el desvanecimiento tras aceptar a la voz… Medham se preocupa con esto último y le pide a Viktor que se someta a unas pruebas con Gonçalves para comprobar que todo está bien.
+
+Le decimos que sospechamos que pertenecía al culto de Yig pero Medham discrepa, cree que nos enfrentamos a algo diferente.
+
+Terminamos la conversación y Dolores nos indica que Gonçalves sigue en el edificio y nos dirigimos hacia su despacho.  
+Gonçalves no está muy contento pero no suelta prenda cuando le contamos el resumen. Está enrocado en que si Medham dice que es lo que había que hacer, bien está, pero está claro que no está de acuerdo con los métodos empleados. Cree que sólo empeoramos la situación. 
+Nos emplaza a visitarlo en unos días tras descansar para hacernos una serie de pruebas respecto al episodio de Viktor y revisar cómo avanzan nuestras descamaciones.
+
+Nos vamos a cenar hablando sobre qué hacer respecto al diario.  
+Barajamos la teoría de que Medham sea de Yig (por el templo), también de que simplemente quiera tenerlo controlado para conseguir poder por ejemplo para tratar de recuperar a su hija.
+
+Acabamos el día cada uno camino a su casa.
+
+
+
+# Sesión 17. New York (2024/02/18, presencial)
+
+Mañana del día siguiente.
+
+Afiq. Al llegar a casa y ducharse nota que las escamas cubren todo el brazo entero hasta el pecho y desprende escamas en la ducha.
+	[ *+1 armadura corporal para Afiq y Viktor* ]
+
+Connor y Bill se van a trabajar a los puertos de Red Hook.  
+Viktor y Martin van a investigar a la biblioteca y luego al registro.  
+Afiq va a investigar al edificio Medham.
+
+## En la biblioteca:
+Investigan el producto químico. Tiene muchos usos. Le llama la atención su uso en insecticidas.
+
+Investigando sobre la familia Medham:
+- Joshua tiene setenta y pico años. Viene de una familia bastante rica. Era conocido por fundar en 1872 la empresa Productos Farmacéuticos Medham.
+- En 1912 vende todo el imperio farmacéutico y funda Caduceo: Organización de ayuda humanitaria sin ánimo de lucro.
+- En 1928 Rose Medham desaparece de la vida social. Los tabloides dicen que discutió con su padre (cronológicamente es después de volver de Islandia en los años 20).
+- La familia Medham es dueña de minas de diamantes en África en el Congo Belga.
+- Tienen alguna empresa de Import/Export. Nos apuntamos el nombre.
+- Medham vive en New York, no en la mansión.
+
+Investigando la mansión:
+- Es herencia de la familia Medham desde hace bastante tiempo. Es conocida como la Mansión Medham antes de Joshua. Es del principios del s. XIX.
+- La Mansión no es la vivienda habitual. Desde hace un tiempo ha ido desapareciendo de la vida pública.
+
+Investigando el edificio Medham, se construyó en 1914.
+
+Investigando sobre Rose Medham descubren que tenía mucha vida social, muy envuelta en causas sociales. Va desapareciendo paulatinamente de la vida social a partir de 1920 o así.
+
+[ *Recordando lo que leímos en el informe nivel 2 de Caduceo* ]
+En 1910 Joshua Medham descubre el complot de los hombres serpientes. La noche Interior intentó arrebatarle la empresa de productor químicos.  
+Poco después se montó la organización de Caduceo para combatir a los hombres serpientes.
+
+
+## En la zona de los muelles de Red Hook:
+Le piden trabajo a uno de los capataces y les mandan a descargar un barco.
+
+Bill comenta temas de sindicato. Le presentan a *Joe*. Bill le enseña su carné de Chicago y Joe baja las defensas.  
+Joe dice que las cosas están un poco jodidas tras la depresión y, cuando hay curro, pillan a los que llevan más tiempo.
+
+Joe comenta que hay ciertos almacenes a los que nuncn van porque tienen sus propias empresas privadas.  
+*Al sindicato no le gusta y le dice el nombre de 3 empresas donde lo hacen. No le suenan los nombres.*
+
+
+## Investigación en Caduceo.
+
+Afiq quiere investigar la relación de Caduceo con la Mafia, cómo se financia, etc.
+
+Afiq habla con Philip Conners con la excusa de investigar la misión de Islandia y Borneo.  
+Dice que sólo el único material de Islandia fue una estatua de jade. Una especie de grabadora de recuerdos. Requiere un vínculo mental y es difícil crearlo. Parece que los objetos se dan cuenta de quién los está utilizando.  
+[ *Afiq se da cuenta de que, según se utilizan más, cuesta menos utilizarlo.* ]
+
+Le pide información sobre la misión. Conners le lleva al archivo, en la planta 7,  y saca el informe de Islandia.
+- Recuerda que solo hubo 2 supervivientes: Emmet Yates y Rose Medham.
+- Emmet era el hijo de Irene Yates, el ama de llaves del Sr. Medham.
+- A la vuelta de Islandia Emmet sufría estrés.
+- Kurtis Mathesson era el jefe de la expedición pero no sobrevivió.
+- En 1928 Rose desapareció (unos años más tarde de Islandia). Joshua contrató a unos detectives para encontrarla sin resultados.
+
+[ *Para próximas investigaciones* ] :
+- En el archivo está la información de las misiones.
+- En el despacho de Conners estan los documentos de inventario y documentos de intendencia.
+
+
+Investigando los muelles:
+- Afiq descubre una dirección del barrio de los muelles.  Hay dos almacenes o dos números de almacén.
+- En RedHook entra más de lo que sale.
+- **Un almacén debería estar vacío - no cuadran las entradas y salidas.**
+- Hay varios almacenes a lo largo de las 2 costas en EEUU.
+- Las mercancías son principalmente material farmacéutico.
+
+
+## Nos juntamos tras la investigación del día.
+
+Ponemos en común lo que hemos investigado.
+
+Comparando las empresas que no contratan estibadores con las empresas que eran propiedad de Medham, con las empresas que tratan con el almacén en el que no cuadran los datos, descubrimos que hay una empresa en común: **XXXXX**.
+
+Afiq pide ayuda al equipo para traducir el plano de Islandia. Viktor, con la ayuda de Martin, consigue traducirlo.
+[ **Nota al GM**: Nos debes el resultado de la traducción ]
+
+Quedamos en que al día siguiente Martin y Connors se van a Connecticut para informarse de qué paso y qué sabe la policía local.
+
+Nos vamos a dormir. 
+
+
+## Martin, Connors y Bill van a Connecticut.
+
+Tras 2-3 horas, llegan a Nueva Cannaan. El pueblo donde está la mansión.
+
+Se acercan a la finca:
+- Es un terreno grande, cubierto de árboles. Hay varios grupos de edificios.
+- La parte central está rodeada de una valla con alambre de espino.
+- Hay dos grupos de dos guardias armados que están recorriendo la finca.
+
+Se acercan a la casa de los vecinos, es la finca más cercana y está a un 1.5 Km. Les abre el jardinero. Se presentan como investigadores del seguro. El jardinero se va a avisar a la señora.
+
+Les atiende una señora de unos 50 años:
+- Dice que el señor Medham no va a su mansión casi nunca, va muy de cuando en cuando.
+- Al comentarle el suceso fue a finales de febrero, el 24, dice que unas semanas antes tuvieron una noche en la que los animales estaban agitados y vieron rayos sin tormenta.
+
+
+## Viktor y Afiq van a ver a Irene, la madre de Emmet.
+
+Abre la puerta una mujer mayor. Irene Yates.
+
+Nos dice que su hijo falleció en un accidente de tráfico hace unos años ( *Viktor detecta que está mintiendo* ). Según le comentamos Islandia, nos dice que pasemos a su casa para que no chismorreen los vecinos.
+
+No sabe por qué alguien querría volver a Islandia después de lo que pasó.
+
+Emmet, tras volver, se encerró en su habitación y no podía dormir ni controlar sus delirios. La cosa fue a peor.
+
+Nos pide que no le digamos al Sr. Medham dónde está su hijo. Está ingresado en el hospital psiquiátrico de Bellview a las afueras de New York con su apellido de soltera: Emmet Wells.
+
+Nos comenta que hace 2 ó 3 años vinieron varios investigadores privados que buscaban a Rose pero no les dijo nada.
+
+
+## Mientras, en Connecticut...
+
+Entran en la comisaría haciéndose pasar por el seguro, preguntando por el incidente del 24 de febrero. Parece que la policía no tiene constancia de ningún incidente.
+
+Insistiendo un poco, parece que recuerdan que algún vecino se quejó de algún ruido y de que tenían los animales asustados. Los policías, tras ir a la mansión vieron que estaba todo en orden. 
+
+En otra ocasión, alrededor de esa fecha del 24 de febrero, también hubo quejas de ruido de los perros de la mansión Medham. 
+
+Preguntan a la policía sobre el perímetro de la finca y les comentan que tiene una seguridad privada.
+
+Se vuelven a New York.
+
+
+## Viktor y Afiq se acercan al psiquiátrico de Bellview.
+
+Al llegar preguntan por Emmet Wells les pide que firmemos el libro de visitas.
+-  Viktor firma con un nombre falso.
+-  Afiq firma como Josh Rahid.
+
+Se acerca la jefa de enfermeras, la Señora Wallace.  
+Dice que hace tiempo que no recibe visitas y que no sabe si podrá hablar, pues lleva unos años completamente ausente en su propia realidad.  
+Dice que no es violento y que tiene unas pinturas por que le gusta dibujar.
+
+En una zona con celdas acolchadas está la celda de Emmet.  
+Es moreno, con barba, pelo desaliñado. Está pintando por el suelo y toda la celda está lleno de dibujos.  
+
+Parece que algunos de los dibujos representan Islandia.
+- Los dibujos parece que cuentan una historia.
+- Hay dibujos de una montaña pegada al mar. En el mar hay un barco con personas.
+- En uno de los dibujos aparece una mujer (Rose).
+- Hay una figura humanoide arrodillada sobre un animal muerto con un cuchillo/daga.
+- Hay una especie de andamio cerca de la losa. Las figuras están estudiándola.
+- En otro dibujo vemos que la losa cae al mar.
+- La montaña es como un volcán. Debajo del volcán aparece escrito: "*Snae fells, jocul*".
+- Aparecen hombres andando hacia la montaña. Luego entran por grutas dentro del volcán.
+- La mujer les sigue.
+- Hay figuras raras, como monos, escondidos por las grutas.
+- Al final de las grutas hay una especie de monstruo garabateado en las profundidades de las cuevas.
+- El monstruo se come a algunas personas y la mujer sale corriendo.
+- Encuentran a la mujer en la base de la montaña y la llevan al barco.
+
+Tras intentar comunicarnos con Emmet sacamos en claro que:
+- Emmet estaba en el barco durante la expedición y rescató a Rose.
+- Rose estaba enferma y él la ayudó. Cuando la rescató, Rose tenía pesadillas y Emmet terminó teniendo también pesadillas.
+
+[ *Ojo, parece que se volvió loco sin llegar a estar en contacto directo con lo que hubiese en Islandia, sólo con hablar con Rose* ]
+
+
+## Nos volvemos a juntar al final del día.
+
+Tras discutirlo, quedamos en darle la dirección a la mafia e intentar no involucrarnos más. Afiq quiere tratarlo a través de Giovanni debido a un tema que tiene pendiente que involucra a Suhana.
+
+Afiq llama a Giovanni y quedamos por la noche en The Happy Barrow.
+
+Nos acercamos y nos sentamos en una mesa apartada. Afiq habla brevemente con Suhana y esperamos a Giovanni.
+
+Llegan Giovanni y Casale.
+- Tras darles la dirección, nos dicen que eran una de las direcciones que ya tenían.
+- Tras comentarles lo de Suhana, nos dice que "*ya veremos*".
+- Sus socios quieren entrar a registrar el almacén y Giovanni quiere que nosotros nos ocupemos de organizar la redada. Ellos pondrán 20 hombres a nuestra disposición.
+- Nos dice que necesitan que les indiquemos si hay algo fuera de lugar o dónde mirar.
+- El registro tiene que suceder en un par de días o antes. Pondrá a sus mejores hombres a nuestra disposición.
+- Si aceptamos este trabajo, Giovanni nos da su palabra de que no volverá a pedirnos nada más, el asunto de Suhana estará solucionado así como la deuda de Bill.
 
