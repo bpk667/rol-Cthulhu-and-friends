@@ -11,8 +11,9 @@
 ## Contactos Afiq
 | NPC        | Descripción                                                               |
 | ---------- | ------------------------------------------------------------------------- |
-| Dick Palen | Amigo. Ex-jefe y dueño de varios aeródromos en USA                        |
 | Suhana     | Conterránea y amante. Corregenta un prostíbulo exótico cerca de Rhinebeck |
+| Dick Palen | Amigo. Ex-jefe y dueño de varios aeródromos en USA                        |
+| Jon Gruber | Lleva los combustibles del aeródromo                                     |
 
 ## Mafia
 | NPC                        | Descripción                                           |
@@ -22,6 +23,7 @@
 | Phillipe Rapa              | Consiggieri                                           |
 | Giovanni Bonventre         | Uno de los capos de la familia Bonanno. Conoce a Afiq |
 | Filemone Casale            | De menos rango. Conoce a Harry                        |
+| Venere Ardito              | Nos acompañó en la misión en Red Hook                 |
 
 
 ## Bolivia
@@ -45,6 +47,9 @@
 | Doctor Gonçalves       | Jefe médico y jefe de campo de Caduceo             |
 | Archibald              | Psicólogo                                          |
 | Emmet Jates            | Acompañante de Rose en Islandia                    |
+| Michael                | Operador de la sala de radio                       |
+| Dolores Parbile        | Secretaria de Joshua Medham                        |
+
 
 
 ## Borneo
@@ -64,6 +69,12 @@
 | Peggy               | Mujer embarazada. Muy Proajo. Mujer de Gregory |
 | Gregory             | Trabaja en Correos y Telégrafos.               |
 
+
+## Islandia
+| NPC        | Descripción                           |
+| ---------- | ------------------------------------- |
+| George     | Nuestro enlace de Caduceo en Islandia |
+| Gunnhilder | Nuestra guía                          |
 
 
 
@@ -1114,14 +1125,14 @@ Giovanni Bonventre es un mafioso de la familia Bonanno, que ha estado preguntand
 
 Un sábado de principios de abril...
 
-Vamos a tope de zarzaparrillas en el bar de enfrente mientras esperamos a estar todos juntos para la cena. 
+Vamos a tope de zarzaparrillas en el bar de enfrente mientras esperamos a estar todos juntos para la cena.
 
 Vemos el restaurante (Green Garden) y parece un sitio normal, sin más. Tiene un cartel de cerrado pero dentro se ve gente cenando normalmente.
 
 Nos recibe un tipo joven (Filemone Casale), en forma, de cara afilada que saluda a Bill como Harry.
 
 
-El restaurante parece bastante familiar y con gente (hombres) de traje cenando dentro. 
+El restaurante parece bastante familiar y con gente (hombres) de traje cenando dentro.
 
 Una vez dentro, cierran con llave y nos piden las armas (aparte de registrarnos). Las dejan en un cestillo cerca de la entrada.
 
@@ -1154,7 +1165,7 @@ Tienen información de que la droga está entrando a través del barrio de redho
 
 Nos ofrecen 1000$ por nuestra “colaboración” y Joe Bonanno habla por primera vez al final para decirnos que le entreguemos esa dirección.
 
-Salimos del restaurante (menos Bill que se queda dentro hablando con Filemone para intentar quedar de colegas, pero…. regular). 
+Salimos del restaurante (menos Bill que se queda dentro hablando con Filemone para intentar quedar de colegas, pero…. regular).
 
 
 [ __media hora discutiendo en el apartamento de Bill sobre nuestra relación con la mafia y caduceo__ ]
@@ -1192,7 +1203,7 @@ Decidimos que, de momento, no vamos a contarle nada a Caduceo ni hacer lo que no
 Al entrar en el edificio, Fran Deluca nos dice que está a punto de tener nuestras licencias de armas y que nos están esperando en el piso 8.
 
 A modo de recordatorio. En el dedificio de Caduceo tenemos:
-- Sala 7:
+- Piso 7:
     -  Sala de mapas
     -  Biblioteca.
     -  Almacén de artefactos.
@@ -1202,6 +1213,8 @@ A modo de recordatorio. En el dedificio de Caduceo tenemos:
     -  Sala de radio.
     -  Sala de juntas.
     -  Escritorios de la gente que preparar las misiones con diagramas raros, geroglíficos y artefactos.
+    -  Secretaría. Se ocupan de transcribir/elaborar los informes finales de misión.
+- Pisos 17, 18 y ático. Salas privadas del Joshua Medham.
 
 Metemos la llave en el ascensor y subimos al piso 8. Nos dicen que nos están esperando en la Sala de reuniones nº 12. Vemos mucha seguridad.
 
@@ -1492,7 +1505,7 @@ Martin y Afiq ven hacia el norte (por donde el taller del herrero, una silueta e
 
 La mujer se presenta, Pearl; tiene una actitud extraña, tomar el sol en el tejado le parece lo más razonable del mundo. Lo más raro es que parece que está mudando la piel. La capa exterior está cuarteada y vieja, mientras que las partes de piel nueva que quedan al descubierto no se corresponden para nada con su edad. Connor rápidamente le ofrece una chaqueta para taparse y ella les ofrece entrar y tomar un té. Martin se queda escuchando en la ventana.
 
-La mujer cuenta que cada pocos días desde “el milagro” se pela y que tomar el sol le ayuda. 
+La mujer cuenta que cada pocos días desde “el milagro” se pela y que tomar el sol le ayuda.
 
 Nos contó cómo obró el milagro el reverendo, al parecer le pidió que se arrodillara durante una celebración y le  impuso las manos, y que desde entonces se curó. Dice que esto de pelarse es mucho mejor que la psoriasis.
 
@@ -1500,7 +1513,7 @@ Martin va a intentar avisar a VB, pero se encuentra con el marido. Le convence q
 
 Pearl nos cuenta que le gustaría ayudar a apagar la iglesia pero que su marido no quiere que se acerque al reverendo y que está montando un culto paralelo en casa. También nos cuenta que no la deja salir de su habitación. En ese momento se oye a alguien en la puerta.
 
-Mientras tanto Martin llega al incendio y el panorama es desolador, la iglesia parece perdida, la gente está mojando los edificios de los alrededores para intentar evitar que el incendio se propague. 
+Mientras tanto Martin llega al incendio y el panorama es desolador, la iglesia parece perdida, la gente está mojando los edificios de los alrededores para intentar evitar que el incendio se propague.
 
 Martin actualiza a VB y tras hablar con Viktor, decide quedarse para seguir investigando la iglesia.
 
@@ -1692,7 +1705,7 @@ Afiq va a ver a Bill Tenenbaum en busca de información sobre la peregrinación 
 
 Connor y Martin se dirigen a ver al grupo de peregrinos padre e hijo (Lloyd allen, mortimer Allen) para contarles que están interesados en participar y si pueden ayudarles a que el reverendo cuente con ellos para el peregrinaje. Se muestran llenos de júbilo al ver nuevos peregrinos y se dirigen a casa del reverendo a hablar con él.
 
-Llegan, se presentan y el reverendo muestra interés por saber por qué de repente quieren venir. 
+Llegan, se presentan y el reverendo muestra interés por saber por qué de repente quieren venir.
 
 Llegan las 10 y nos acercamos a la salida de la peregrinación. Afiq espera pacientemente para dejar que salgan y seguirles en paralelo.
 
@@ -1725,7 +1738,7 @@ Al entrar vemos un cuerpo del reverendo sobre la losa, parece mas viejo y en lug
 
 - La voz pregunta si somos fieles a Yig
 
-Viktor abraza a Yig, el resto del grupo (jugadores) de momento se calla y no responde.  
+Viktor abraza a Yig, el resto del grupo (jugadores) de momento se calla y no responde.
 A todos los que han respondido que sí son fieles le entran convulsiones y parecen entrar en un estado de iluminación/trance.
 
 El grupo del reverendo, sheriff y Mathewson están ajenos a estos estados de catarsis y quedan pendientes de lo que hacemos. Excepto Viktor, el resto disimulan para no aceptar a Yig directamente. Parece que el reverendo nos acepta como parte del círculo interior de Bingham y dice que es el momento de volver al pueblo.
@@ -1734,16 +1747,16 @@ Afiq entra en la cueva sigilosamente para ver cómo el reverendo dice que volvam
 
 Viktor y Martin hablan con el reverendo, que admite que tiene el don de resucitar y que el recipiente que está en el altar puede sacar nuevos reverenditos.
 
-Connor noquea al reverendo y de repente aparece Afiq con el lanzallamas serpentino y chamusca el cuerpo del cadáver que estaba sobre la losa. Escuchamos de repente una voz chillando en nuestras cabezas y el cuerpo empieza a arder sin control y la cueva empieza a llenarse de humo.  
-Entran el Sheriff y Mathewson y preguntan qué pasa, y Martin les apunta con la pistola.  
-Mientras discutimos, la cueva se sigue llenando de humo y hay que salir como sea, y el Sheriff y el colega quieren sacar el cuerpo del reverendo.  
+Connor noquea al reverendo y de repente aparece Afiq con el lanzallamas serpentino y chamusca el cuerpo del cadáver que estaba sobre la losa. Escuchamos de repente una voz chillando en nuestras cabezas y el cuerpo empieza a arder sin control y la cueva empieza a llenarse de humo.
+Entran el Sheriff y Mathewson y preguntan qué pasa, y Martin les apunta con la pistola.
+Mientras discutimos, la cueva se sigue llenando de humo y hay que salir como sea, y el Sheriff y el colega quieren sacar el cuerpo del reverendo.
 Antes de poder sacar el cuerpo, Afiq le vuela la cabeza a bocajarro al cuerpo inconsciente del reverendo y de repente el sheriff saca su arma y se empieza a complicar la cosa.
 
-El Sheriff recibe dos disparos y cae inconsciente, y salimos todos de la cueva con su cuerpo dejando dentro el cuerpo ardiendo y el cadáver (esperamos que ya de verdad) del reverendo.  
-Con un estruendo la cueva colapsa y todo el entorno parece hundirse.  
+El Sheriff recibe dos disparos y cae inconsciente, y salimos todos de la cueva con su cuerpo dejando dentro el cuerpo ardiendo y el cadáver (esperamos que ya de verdad) del reverendo.
+Con un estruendo la cueva colapsa y todo el entorno parece hundirse.
 Una vez a cubierto, se aplican primeros auxilios al sheriff para estabilizarlo, y al examinar a Mathewson, parece que su mandíbula no es normal y parece desencajarse. Claramente tiene efectos secundarios de la “curación” del reverendo.
 
-Después de discutir un tiempo el curso de acción, volvemos de camino para el pueblo con el sheriff y con un Mathewson asustado. De camino parece que Martin le convence de que no estaban siguiendo realmente a Dios y parece que va entrando un poco en razón… 
+Después de discutir un tiempo el curso de acción, volvemos de camino para el pueblo con el sheriff y con un Mathewson asustado. De camino parece que Martin le convence de que no estaban siguiendo realmente a Dios y parece que va entrando un poco en razón…
 
 Llegamos al pueblo, Afiq contacta con caduceo y les dice que la gente “infectada” del pueblo necesitará ayuda. El sheriff no sobrevivió al camino de vuelta y Connor le deja ahí por el cementerio del pueblo de madrugada.
 
@@ -1758,15 +1771,15 @@ Llegamos al aeropuerto de la Guardia, aparcamos el avión y tiramos para Caduceo
 
 Un guardia de seguridad parecía tener órdenes de enviar al despacho de DeLuca al equipo 13 nada más llegar, así que vamos para allá.
 
-DeLuca nos pide que esperemos unos minutos mientras va a comprobar si Medham está disponible.  
+DeLuca nos pide que esperemos unos minutos mientras va a comprobar si Medham está disponible.
 Mientras estamos solos en el despacho, abrimos sus archivadores y rebuscamos a ver qué encontramos.
 
 Tres cosas llaman nuestra atención:
 - Uno de los documentos hace referencia a un allanamiento a la mansión de Medham, en el informe sospechan que pudo ser la Noche Interior, al parecer la mansión está sobre un templo de Yig.
-- Uno de los telegramas hace referencia a una entrega de productos químicos en un almacén (Red Hook). 
+- Uno de los telegramas hace referencia a una entrega de productos químicos en un almacén (Red Hook).
 - Otro documento es una orden de reforzar la seguridad en dicho almacén.
 
-Oímos pasos y cerramos rápidamente los cajones. 
+Oímos pasos y cerramos rápidamente los cajones.
 
 Deluca llega con claros síntomas de consumir cocaína y nos dice que Medham nos recibirá en su despacho en la planta 8, así que nos dirigimos hacia allí.
 
@@ -1782,11 +1795,11 @@ Detallamos que el cuerpo estaba protegido por un campo de fuerza, la voz, la sen
 
 Le decimos que sospechamos que pertenecía al culto de Yig pero Medham discrepa, cree que nos enfrentamos a algo diferente.
 
-Terminamos la conversación y Dolores nos indica que Gonçalves sigue en el edificio y nos dirigimos hacia su despacho.  
-Gonçalves no está muy contento pero no suelta prenda cuando le contamos el resumen. Está enrocado en que si Medham dice que es lo que había que hacer, bien está, pero está claro que no está de acuerdo con los métodos empleados. Cree que sólo empeoramos la situación. 
+Terminamos la conversación y Dolores nos indica que Gonçalves sigue en el edificio y nos dirigimos hacia su despacho.
+Gonçalves no está muy contento pero no suelta prenda cuando le contamos el resumen. Está enrocado en que si Medham dice que es lo que había que hacer, bien está, pero está claro que no está de acuerdo con los métodos empleados. Cree que sólo empeoramos la situación.
 Nos emplaza a visitarlo en unos días tras descansar para hacernos una serie de pruebas respecto al episodio de Viktor y revisar cómo avanzan nuestras descamaciones.
 
-Nos vamos a cenar hablando sobre qué hacer respecto al diario.  
+Nos vamos a cenar hablando sobre qué hacer respecto al diario.
 Barajamos la teoría de que Medham sea de Yig (por el templo), también de que simplemente quiera tenerlo controlado para conseguir poder por ejemplo para tratar de recuperar a su hija.
 
 Acabamos el día cada uno camino a su casa.
@@ -1801,8 +1814,8 @@ Afiq. Al llegar a casa y ducharse nota que las escamas cubren todo el brazo ente
 
 	[ *+1 armadura corporal para Afiq y Viktor* ]
 
-Connor y Bill se van a trabajar a los puertos de Red Hook.  
-Viktor y Martin van a investigar a la biblioteca y luego al registro.  
+Connor y Bill se van a trabajar a los puertos de Red Hook.
+Viktor y Martin van a investigar a la biblioteca y luego al registro.
 Afiq va a investigar al edificio Medham.
 
 ## En la biblioteca:
@@ -1833,10 +1846,10 @@ Investigando sobre Rose Medham descubren que tenía mucha vida social, muy envue
 ## En la zona de los muelles de Red Hook:
 Le piden trabajo a uno de los capataces y les mandan a descargar un barco.
 
-Bill comenta temas de sindicato. Le presentan a *Joe*. Bill le enseña su carné de Chicago y Joe baja las defensas.  
+Bill comenta temas de sindicato. Le presentan a *Joe*. Bill le enseña su carné de Chicago y Joe baja las defensas.
 Joe dice que las cosas están un poco jodidas tras la depresión y, cuando hay curro, pillan a los que llevan más tiempo.
 
-Joe comenta que hay ciertos almacenes a los que nuncn van porque tienen sus propias empresas privadas.  
+Joe comenta que hay ciertos almacenes a los que nuncn van porque tienen sus propias empresas privadas.
 *Al sindicato no le gusta y le dice el nombre de 3 empresas donde lo hacen. No le suenan los nombres.*
 
 
@@ -1844,8 +1857,8 @@ Joe comenta que hay ciertos almacenes a los que nuncn van porque tienen sus prop
 
 Afiq quiere investigar la relación de Caduceo con la Mafia, cómo se financia, etc.
 
-Afiq habla con Philip Conners con la excusa de investigar la misión de Islandia y Borneo.  
-Dice que sólo el único material de Islandia fue una estatua de jade. Una especie de grabadora de recuerdos. Requiere un vínculo mental y es difícil crearlo. Parece que los objetos se dan cuenta de quién los está utilizando.  
+Afiq habla con Philip Conners con la excusa de investigar la misión de Islandia y Borneo.
+Dice que sólo el único material de Islandia fue una estatua de jade. Una especie de grabadora de recuerdos. Requiere un vínculo mental y es difícil crearlo. Parece que los objetos se dan cuenta de quién los está utilizando.
 [ *Afiq se da cuenta de que, según se utilizan más, cuesta menos utilizarlo.* ]
 
 Le pide información sobre la misión. Conners le lleva al archivo, en la planta 7,  y saca el informe de Islandia.
@@ -1879,7 +1892,7 @@ Afiq pide ayuda al equipo para traducir el plano de Islandia. Viktor, con la ayu
 
 Quedamos en que al día siguiente Martin y Connors se van a Connecticut para informarse de qué paso y qué sabe la policía local.
 
-Nos vamos a dormir. 
+Nos vamos a dormir.
 
 
 ## Martin, Connors y Bill van a Connecticut.
@@ -1917,9 +1930,9 @@ Nos comenta que hace 2 ó 3 años vinieron varios investigadores privados que bu
 
 Entran en la comisaría haciéndose pasar por el seguro, preguntando por el incidente del 24 de febrero. Parece que la policía no tiene constancia de ningún incidente.
 
-Insistiendo un poco, parece que recuerdan que algún vecino se quejó de algún ruido y de que tenían los animales asustados. Los policías, tras ir a la mansión vieron que estaba todo en orden. 
+Insistiendo un poco, parece que recuerdan que algún vecino se quejó de algún ruido y de que tenían los animales asustados. Los policías, tras ir a la mansión vieron que estaba todo en orden.
 
-En otra ocasión, alrededor de esa fecha del 24 de febrero, también hubo quejas de ruido de los perros de la mansión Medham. 
+En otra ocasión, alrededor de esa fecha del 24 de febrero, también hubo quejas de ruido de los perros de la mansión Medham.
 
 Preguntan a la policía sobre el perímetro de la finca y les comentan que tiene una seguridad privada.
 
@@ -1932,12 +1945,12 @@ Al llegar preguntan por Emmet Wells les pide que firmemos el libro de visitas.
 -  Viktor firma con un nombre falso.
 -  Afiq firma como Josh Rahid.
 
-Se acerca la jefa de enfermeras, la Señora Wallace.  
-Dice que hace tiempo que no recibe visitas y que no sabe si podrá hablar, pues lleva unos años completamente ausente en su propia realidad.  
+Se acerca la jefa de enfermeras, la Señora Wallace.
+Dice que hace tiempo que no recibe visitas y que no sabe si podrá hablar, pues lleva unos años completamente ausente en su propia realidad.
 Dice que no es violento y que tiene unas pinturas por que le gusta dibujar.
 
-En una zona con celdas acolchadas está la celda de Emmet.  
-Es moreno, con barba, pelo desaliñado. Está pintando por el suelo y toda la celda está lleno de dibujos.  
+En una zona con celdas acolchadas está la celda de Emmet.
+Es moreno, con barba, pelo desaliñado. Está pintando por el suelo y toda la celda está lleno de dibujos.
 
 Parece que algunos de los dibujos representan Islandia.
 - Los dibujos parece que cuentan una historia.
@@ -1977,4 +1990,226 @@ Llegan Giovanni y Casale.
 - El registro tiene que suceder en un par de días o antes. Pondrá a sus mejores hombres a nuestra disposición.
 - Si aceptamos este trabajo, Giovanni nos da su palabra de que no volverá a pedirnos nada más, el asunto de Suhana estará solucionado así como la deuda de Bill.
 - No nos permite no aceptar el trabajo
+
+Pieza clave de un "reactor nuclear". Para construir una especie de dispositivo nuclear como una fuente de energía de un dispositivo potente.
+
+Analizo el mosquito robótico:
+- Tiene un pequeño compartimento con veneno.
+- Puede ser mortal y extremo el cuidado analizándolo.
+- Es complejo y me llevará tiempo entender cómo funciona.
+
+
+# Sesión 18 - Nueva York - EL RAID (22/02/2024)
+
+Llegó el día del raid a los almacenes de Caduceo de Red Hook. Por la mañana nos dirigimos hacia allí para reconocer la zona.
+
+Nos quedaremos allí todo el día vigilando los movimientos de entrada y salida de guardias. Hay dos almacenes: uno supuestamente vacío que es el más vigilado por un pelotón de 10 guardias que se turnan cada 8 horas mas dos patrullando el perímetro por fuera.
+En la otra nave hay un único guardia.
+
+Trazamos el plan de emboscada: flanquearemos a los guardias a lo largo de su ruta de patrulla y mandaremos a Martin al tejado a reconocer el interior del almacén a través del tragaluz. Mientras tanto, Afiq saboteará el poste telefónico para intentar incomunicar el almacén.
+
+Se acerca ya la medianoche y llegan Giovanni Bonventre y Filemone Casale con su grupo de 20 matones, nos saludamos , nos dejan a sus hombres, les ponemos al día del plan y empieza la operación.
+
+![Operación Almacén Red Hook](/images/almacen.png?raw=true "Operación Almacén Red Hook")
+
+Reducimos a los guardias que se ven sobrepasados y Martin sube al tejado y entra en el almacén por el tragaluz, descubre la posición de los guardias y la situación del cableado eléctrico.
+
+Decidimos hacer un asalto frontal por la entrada principal que va a las oficinas. Un grupo de matones entrará por la puerta trasera cuando escuche disparos.
+Viktor sube al techo y se coloca en el tragaluz para tener un disparo con ventaja desde una posición elevada si las cosas se tuercen. Connor también sube al tejado y se disponen a entrar desde ahí.
+
+El equipo de asalto frontal entra y sabotea el cuadro de luces en la zona de oficinas. Esto alerta a un par de guardias que se disponen a comprobar el diferencial  y son noqueados por un par de matones, uno de ellos necesitando ayuda de Martin.
+
+A continuación, el equipo se despliega y sigue penetrando en el almacén, sigilosamente a través de las cajas colocadas en cuadrícula formando multitud de pasillos, cruces y esquinas. El resto de guardias empiezan a extrañarse de que el binomio que fue a investigar no vuelve. Otro par de guardias se dirigen hacia las cajas y nuestro equipo deciden tenderles una emboscada. Al seguir avanzando, los guardias con el tiempo descubren a unos cuantos mafiosos escondidos. Los mafiosos consiguen reducir a uno pero el otro no cae directamente y finalmente los mafiosos abre fuego y se desata el tiroteo.
+
+Al escuchar el disparo, Viktor también abre fuego derribando a otro guardia. El equipo de la puerta trasera empieza a intentar abrirla.
+
+Al neutralizar todos los guardias en la planta baja, Martin coge a un mafioso y se disponen a investigar el almacén de al lado. Viktor, al escuchar ruidos metálicos que provienen del sótano, toma otro grupo de mafiosos, a los que se unen Connor y Bill para despejarlo e investigar. Afiq y otra pareja de mafiosos se dirigen a las oficinas para buscar documentación sobre los productos almacenados. Descubre que se trata principalmente de material explosivo, algún que otro material de construcción, y una pequeña cantidad de material de tipo nuclear o radioactivo que Afiq intuye que se usaría para alimentar maquinaria con una gran cantidad de energía, junto con la propia maquinaria. Afiq intenta sabotear el dispositivo de energía y parece que lo consigue.
+
+Mientras tanto, Martin consigue entrar en el segundo almacén, reducir al único guardia que lo vigilaba, y pasar unos minutos investigando su contenido, que no es más que simple material médico y farmacéutico típico de las misiones tapadera de Caduceo.
+
+Abajo en el sótano, al escuchar que nuestro equipo se dispone a bajar, un par de guardias que intentaban encerrarse tras una gran puerta metálica atascada que parece proteger un área del sótano nos disparan. Lo que rodea la puerta parece ser una pared también metálica con diminutas aperturas.
+
+Viktor y Bill los abaten rápida y eficientemente, tras lo cual, inexplicablemente, el grupo de 8 mafiosos acompañante empieza a abrir fuego con sus ametralladoras Thompson hacia los cadáveres de los guardias, de manera que prácticamente vacían sus cargadores sobre ellos, y algunas balas atraviesan la estructura y la abertura de la puerta entreabierta, produciendo ruido de cristales rotos en el interior. Viktor ordena el alto el fuego inmediatamente y les reprende por su respuesta inútil a la par que tardía. Se les ordenó en repetidas ocasiones que no disparasen innecesariamente. Ya habían roto la sorpresa anteriormente al romper la doctrina de alto el fuego y ahora estaban otra vez haciendo de las suyas, disparando cuando no toca y sin ningún reparo.
+
+El grupo se acerca hacia la puerta metálica entreabierta y contempla terrible la escena del interior. Dentro, se vislumbra un laboratorio con tubos de cristal de dos metros de ancho por 30 de largo a lo largo de la sala, tanques de fluido con diversos componentes metálicos encima también a modo de depósito. En los tanques se detecta movimiento. Con horror, el grupo contempla una serie de tanques que han roto los mafiosos con sus disparos, de los que salen mosquitos del tamaño de un puño. Todo indica que se trata de algún experimento de ingeniería genética.  Los mosquitos van directos hacia nosotros y alcanzan a algún mafioso despistado que ha avanzado más de la cuenta. Más y más mosquitos se le acercan y le pican, muriendo en pocos instantes. Ordenamos la retirada, y los mafiosos siguen disparando y rompiendo más tubos de cristal, por lo que salen más mosquitos.
+Esquivando a duras penas y corriendo empezamos a huir con los mosquitos pisando los talones. Poco a poco va cayendo algún mafioso más presa de ellos. La mayoría mueren de manera similar al primero pero hay alguno al que las picaduras parece que le inducen algún tipo de atontamiento y se quedan tendidos en el suelo completamente incapacitados pero aparentemente sin morir, al menos directamente.
+
+
+Conseguimos salir por la puerta trasera, los mosquitos se expanden por todo el área de la nave, también hacia fuera por la misma puerta, siguen persiguiéndonos y los mafiosos siguen disparando en el interior, alguno es más espabilado y se dedica a huir también. Nos reunimos con Martin y su mafioso que han ido a por los coches al escuchar los disparos.
+
+Corriendo entramos en los coches y justo al arrancar y avanzar unos metros se produce una detonación en el almacén que lo hace saltar por los aires. Parece que los mafiosos también han detonado los explosivos del almacén con sus disparos. La onda expansiva alcanza a nuestro coche y le rompe los cristales.
+
+Magullados, nos alejamos en el coche del puerto, éste ahora más ventilado, y al salir pasamos lo que parece ser a Giovanni Bonventre y Filemone Casale en su coche a un par de bloques de distancia.
+
+Mientas tanto, en el río, descubrimos un barco que se encontraba cerca del almacén en el momento de la explosión. En él, una mujer con un cigarro observa el incendio y lo que queda del almacén mientras sonríe.
+
+
+# Sesion 19 - Jueves 29 de Marzo - Nueva York
+
+En la sesión anterior dejamos los muelles en coche a toda hostia tras la explosión mientras una mujer fumaba desde un barco…
+
+Vamos en dirección a algún bar abierto donde pueda haber un teléfono y llamamos a restaurante de los mafiosos. Casale contesta y nos pregunta que qué ha pasado. Para evitar dar muchos detalles por teléfono quedamos en el restaurante directamente.
+
+Entramos en el restaurante donde está toda la plana mayor (Bonano, Garofalo, Rappa, Bonventre, Casale y Ardito). Están también 3 hombres que han vuelto de los muelles, de los cuales 2 parece que están bien y uno (con picaduras) parece estar en estado catatónico babeando.
+Nos muestran un mosquito y nos preguntan por él, y Afip ve que es biomecánico y se pone a investigarlo.
+
+Les preguntamos que quién les dio el soplo de la heroína (porque claramente no es cierto) y se ponen a debatir entre ellos que quién les ha pasado la información y mandan a alguien para investigarlo.
+Afiq consigue sacar y aislar una ampolla de veneno del mosquito y se la queda para investigarlo por su parte. La mafia le dice que quedarían muy agradecidos si encuentra la cura y también nos dice que intentarán conseguir toda la información posible por su lado y que quedásemos mañana para comentarlo.
+
+Martin les comenta el barco que vimos al escapar y dicen que lo van a investigar también.
+
+Afiq antes de irse se lleva el mosquito, y quedamos en que iremos al dia siguiente a caduceo como si nada. Antes de irnos volvemos por los almacenes del puerto para recoger el otro coche y se ve mucho movimiento de policía, bomberos etc. También vemos que están DeLucca y el guardaespaldas monstruoso de Medham, pero con sigilo somos capaces de coger el otro coche e irnos de allí sin que nos vean.
+
+Afiq se queda por la noche estudiando el mosquito y ve que es bastante complejo y que estudiar el veneno le va a llevar tiempo. Quedamos a la mañana siguiente en casa caduceo.
+
+Viktor quiere hablar con Gonçalves y seguir investigando el mapa. Martin va con él.
+Gonçalves les pregunta que de dónde han sacado el mapa y se interesa mucho por él y nos dice que precisamente es interesante llegar con algo sobre Islandia porque tiene que ver con nuestra próxima misión.
+
+Viktor le dice a Gonçalves que nos están ocultando información del estado médico de ambos y casi le responde Gonçalves que se vaya a chupar serpientes por ahí. Parece que luego se ablanda un poco y no guarda rencor y dice que tal vez en otra base de hombres serpiente como la de Islandia a lo mejor encontramos una cura para el estado serpentino, y que por la tarde nos pasará un briefing de la próxima misión.
+Afiq va a buscar registro de que hayan comentando en Caduceo algo de redhook pero no ve nada, y parece que tampoco encuentra nada de Bingham, y la explicación parece se que hablase directamente con el señor Medham.
+El edificio tiene 19 plantas y parece que las 3 últimas son privadas de Medham.
+
+Afiq llama para que venga Dolores a hablar con él y mientras Viktor y Martin se bajan a la calle a un bar a buscar un teléfono para llamar a Bill (de Bingham). No pueden contactar con la central de Bingham.
+Mirando el periódico, hay una columna que habla del incendio en redhook la noche anterior. En el periódico indican que el incendio fue causado por grasa y productos que pudieron provocar el fuego. Nada de muertos ni explosiones.
+
+Afiq intenta apretarle las tuercas a Dolores de por qué las notas de Bingham no están por ninguna parte. Van a hablar con parte del equipo que recoge las notas y no hay nada tampoco. Por lo visto podría ser que el señor Medham no haya pasado sus notas para el registro de la misión.
+
+Nos juntamos y bajamos a comer a algún bar cercano con teléfono. Allí volvemos a llamar a ver si nos pueden pasar con el pueblo en el que pasamos de camino a Bingham y hablamos con el camarero del bar en el que paramos y nos dice que todo Bingham está en cuarentena, las autoridades lo han dejado aislado del todo.
+
+
+# Sesión 20- Jueves 7 marzo - Nueva York
+
+El grupo se divide. Afiq, Bill y Connor van al aeródromo para que Afiq le deje la muestra de veneno a un colega suyo que se dedica al queroseno y demás químicos para que nos diga lo que es.
+
+Viktor y Martin se van a hablar con Gonçalves y le pillan con el briefing sin preparar. Hablan con él para hacerse el chequeo que les toca y se bajan con él a los laboratorios del sótano 2. Martin tiene un flashback cuando le están chequeado y le ha dado medio ataque de pánico al recordar que cuando le curaron por las fiebres le enchufaron mil mierdas que coinciden con el sitio donde le salen las escamas. Tiene un momento dramático agrediendo a Gonçalves y culpando a Caduceo de sus mutaciones.
+Después de una fructífera charla sobre el uso de tecnologías serpientiles en tratamientos no voluntarios, consiguen sonsacarle que Caduceo sabe que la Noche Interior está intentando clonar a Rose Meadham, con propósito de infiltrarse o algo así.
+
+El resto volvemos y nos dicen que Viktor y Martin están con Gonçalves y que nadie sabe donde están en el edificio. Afiq habla con la señorita Parvlle (secretaria de Meadham) para saber si se ha sabido algo de los expedientes desaparecidos, pero todavía no se sabe nada de ello. Michael, el colega de la radio de Afiq, nos informa de que no se sabe nada del equipo de campo de Bingham, y que lo debe de estar gestionando la oficina del Sr. Meadham directamente. El grupo se junta en el quirófano de Gonçalves que está haciendo pruebas a Viktor. Saca unas serpientes de una caja y se las frota a Viktor por el cuerpo, que está tan tranquilo con el asunto (clara señal de serpientes). Hablando sobre la afinidad de Viktor con las serpientes, Gonçalves especula que quizá los hombres serpiente tengan una máquina o algo para revertir el proceso de serpentificación.
+
+Vamos al briefing y Gonçalves nos enseña unos mapas de Islandia. Está el nombre del volcán que escribió Emmett en su celda acolchada en el manicomio. Nos saca también un montón de imágenes de troles. Afiq recuerda que los hombres serpiente tenían una raza esclava de criaturas llamadas vormis que cuadra perfectamente con estas imágenes. Nos cuenta que llevan un tiempo detectando cosas raras en Islandia y algunos rumores de avistamiento de troles, lo que podría indicar la presencia de una base de hombres serpiente. Nos habla un poco de los vormis y de lo peligrosos que pueden llegar a ser. Eso también aparece en el briefing en algunos apuntes extras. Nos da el mapa traducido (lo que han podido) y nos indica que en la sala marcada “Conocimiento” puede ser que haya información interesante y que si podemos la investiguemos. Nos dice que salgamos cuanto antes y que lo que necesitemos nos lo proporcionan como siempre.
+
+
+# Sesión 21. New York y viaje a Islandia (2024/03/14)
+
+Al salir del briefing con Gonçalves, se queda hablando con Deluca mientras nos miran.
+Martin intenta poner la oreja, pero se dan cuenta y no siguen hablando.
+
+Mientras baja el ascensor, Afiq habla con DeLuca y le pide algún tipo de apoyo para la misión de Islandia. Deluca dice que nos paga por ocuparnos del asunto y que no podemos contar con refuerzos.
+
+## Saliendo de Caduceo y de camino al Green Garden.
+
+Vamos hacia Boorklin, al Green Garden, a ver a la mafia. Conducen Viktor y Afiq, y se dan cuenta de que les están siguiendo.
+
+En el coche de Afiq van Bill y Connors. Afiq empieza a conducir a toda velocidad y les da esquinazo. Van a casa de Bill.
+
+En el coche de Viktor va Martin. Viktor conduce lentamente y se para en la acera. Le parece que uno de los que les siguen es de Caduceo.
+
+Viktor y Martin llaman a casa de Bill y deciden acercarse a su casa. Se acercan en Taxi para no llamar la atención mientras los que les siguen vigilan el coche.
+
+
+## En casa de Bill
+
+Nos juntamos todos en la casa de Bill.
+
+Afiq y Martin salen a comprar comida y llamar. Ven que hay un coche un poco sospecho en la acera de enfrente a cierta distancia.
+
+Mientras Afiq pide la comida, Martin llama al Green Garden y habla con Bonventre.
+
+	Bonventre le dice que es mejor que no vayamos al restaurante. Martin dice que nos hemos dado cuenta.
+
+	Bonventre dice que cree que se trata de Caduceo. Parece que tiene más músculo del que esperaban. Pueden tener gente comprada en la policía y prensa.
+
+	Caduceo está preguntando mucho y la cosa está revuelta. Le ha pedido a sus hombres que se estén quietos durante unos días.
+
+	Han encontrado cadáveres de los hombres de la mafia en el río. Cuerpos quemados.
+
+	Nos recomienda que salgamos de la ciudad unos días. Joe se ha ido fuera también.
+
+	Respecto a la mujer que vimos en el barco, han encontrado a gente que la vio junto con cuatro hombres que pagaron una embarcación. Tenía entre 30 y 40 años, pero tenía la cara tapada con un velo.
+
+	Dejarán un jarrón con un clavel en la vitrina del restaurante cuando sea seguro ir.
+
+
+De vuelta en la casa de Bill:
+
+	Preparamos una lista con lo que necesitaremos para Islandia y les pedimos que lo envíen al aeródromo.
+
+	Afiq prepara unos mecanismos para detectar si alguien entra en alguna de los pisos.
+
+	Al salir, Viktor le entrega la lista de lo que necesitamos al tipo que nos vigila y le dice que lo necesitamos para mañana a las 10:00 en el aeropuerto.
+
+
+## A la mañana siguiente llegamos al angar.
+
+Caduceo nos proporciona un prototipo del Douglas DC-2.
+
+Tenemos todo lo que hemos pedido junto al avión.
+
+El viaje dura un par de días. Hacemos varias paradas para repostar y descansar, hacemos escala en Canadá e Irlanda antes de llegar a Islandia.
+
+
+## Llegamos a Islandia.
+
+Vemos que el volcán es bastante alto. Sale humo. Hay una ventisca de nieve. Aterrizamos cerca de la base.
+
+Nos ayudan a llevar nuestras cosas a unas tiendas de campaña.
+
+Se presenta *George*. Nos dice que en la taberna del pueblo hay guías locales.
+
+Al cabo de unos minutos se acerca un chico joven y se presenta como Helvit, nos dice que *Gunnhilder* es una guía que nos podría ayudar. Es guía de turistas. Nos dan un par de camionetas Ford A (una roja y una negra).
+
+Vamos a la taberna del pueblo. Hay un hombre fuerte y una mujer haciendo una competición de chupitos. El hombre cae desplomado. La mujer coge la pasta y se va a la barra. Se llama *Marion*. Le preguntamos por Gunnhilder y nos dice dónde está.
+
+Nos acercamos a la mesa de Gunnhilder. Nos presentamos y le decimos que necesitamos una guía para una misión de rescate. Gunnhilder nos dice que no hay problema. Tiene un hermano en Olafsvik y así aprovecha y le ve. Cobra 5$ al día.
+
+Nos dice que, si salimos ahora, podemos llegar a Olafsvik antes de que anochezca, y nos puede conseguir alojamiento allí. Quedamos en salir dentro de una hora.
+
+Viktor hace unas pruebas con el brazalete. Le sale natural sin apenas esfuerzo.
+
+Gunnhilder nos dice que el volcán es en el que se basó Julio Verne para su libro. Coincide que tiene un libro de troles en inglés para los turistas (¡Qué coincidencia!)
+
+## Salimos hacia Olafsvik.
+
+En la primera camioneta van Afiq, Gunnhilder y Martin.
+
+En la segunda camioneta van Viktor, Connor y Bill.
+
+Las carreteras están hechas polvo y hemos tenido que desviarnos en varias ocasiones.
+
+Martin pregunta si hay cuevas o grutas. Gunnhilder le dice que sí que hay, pero no es muy amiga de meterse en ellas.
+
+Tras dos horas conduciendo, nos dice Gunnhilder que estamos a 20 minutos de Olasfsvik.
+
+## Nos encontramos un Voormi muy cariñoso.
+
+Según estamos rodeando un afloramiento volcánico notamos temblores. Gunnhilder nos dice que no nos preocupemos, que suele pasar rápidamente; pero notamos que los temblores se suceden uno tras otro.
+
+Vamos una criatura de unos 6 metros, está a unos 30 metros de distancia. Tiene rocas en algunas partes del cuerpo. Coge una roca delante suyo, la levanta por encima de su cuerpo y la tira delante del coche de Afiq. La roca cae a escasos 2 metros de la camioneta.
+
+El troll empieza a rugir. Nos mira totalmente poseído. Se acerca rápidamente y le da una hostia al coche y lo desplaza unos metros.
+
+Connor se da cuenta de que es un Voormi.
+
+Martin consigue ocultar tras una roca a Gunnhilder y consigue calmarla un poco.
+
+El troll agarra a Bill, pero éste consigue zafarse.
+
+El Voormi le da una hostia a Viktor que le deja temblando.
+
+Martin se da cuenta de que al Voormi no le gustan nada los coches.
+
+Tras un disparo en el ojo de Viktor, un escopetazo de Bill y un cartucho de dinamita en los huevos - también de Bill - el Voormi huye.
+
+
+# Sesion 22 - Domingo 17 marzo - Islandia (Presencial)
+
+Llegamos a Olafsvik con Gunnhildr bastante nerviosa. El pueblo parece desierto, ni siquiera hay humo en las chimeneas. En la casa del hermano de Gunnhildr encontramos la puerta reventada y descubrimos que no hay nadie en el pueblo. También vemos casquillos de armas, huellas de docenas de criaturas extrañas (parecen de voormis pequeños) que se dirigen al volcán. Tras negociaciones con un voormi atrapado en unos escombros descubrimos que la colonia de voormis vive adyacente a la base de los hombres serpiente. El voormi, rebautizado Espartaco, nos guía a sus cuevas a condición de que les liberemos de los collares de control de los hombres serpiente. Parece que algo le ha pasado a la colonia voormi, salen 2 que nos guían a un lugar más oculto donde tienen cabezas de hombres serpiente clavadas en estacas.
+
+Los voormis adoran a Tsathoggua y parece que le ofrecen a sus muertos. “El durmiente despertará pronto”. En la grieta donde echan los cadáveres sube un gas tóxico y temblores de tierra. Cuando estaban preparando cuerdas para cruzar el abismo, Afiq, Connor y Martin arman escándalo y atraen a 2 patrulleros hombres serpiente montados en aerodeslizadores. Matamos a uno y capturamos al otro. Los trajes de persona que llevan son menos detallados pero más gruesos (suponemos que para protegerse del frío). Afiq se puso el traje de señor y empezó a escuchar voces y a tener flashbacks del “traje” que era una persona convertida en ropa.
+
+Afiq entró en la base y le siguió un guardia. Viktor lo mató pero eso atrajo a un hombre serpiente más primitivo. Encontramos a los voormis esclavizados, a los pescadores islandeses y a un voormi gigante. Vamos investigando las salas, salvamos a un tipo de ser convertido en traje y matamos a algunos hombres serpiente. Después de varios tiroteos Afiq abrió la puerta principal con un escáner biométrico y liberamos a los rehenes humanos.
+
+Nos encontramos con una videollamada con Rose Meadham (muy serpientificada) y Afiq se puso a darle palique. Nos hizo una impresión 3D de la llave del ascensor privado de Joshua Meadham. Acusó a Meadham de querer destruir a la humanidad con los mosquitos. Ella afirma que su propósito es someter al planeta al gobierno de los hombres serpiente.
+
+Guiados por un científico, encontramos el ordenador biológico, formado por cerebros en cilindros de metal. Martin, Connor y Viktor cogen varios cilinidros., lo que provoca un ataque de locura en Connor y que se inicie la cuenta atrás de la autodestrucción. Conseguimos huir pero parece que el Durmiente ha despertado.
 
