@@ -2279,12 +2279,12 @@ De momento acordamos varias cosas:
 Suhanna de hecho le dice a Afiq que su contacto en común de la mafia tiene una información para nosotros que quedaron en darnos... y que nos reunamos en persona con él y evitemos las llamadas todo lo que podamos...
 
 
-# Sesión 25. New York  2024/04/18.
+# Sesión 25. New York 2024/04/18
 
 Jueves, 18 de abril 1933.
 
 
-## Salimos del Happy Barrow.
+## Salimos del Happy Barrow
 
 Decidimos ir a la cabaña de Afiq.
 
@@ -2293,7 +2293,7 @@ Connor se acerca al coche de Caduceo y les dice "¿Qué os dice de seguirnos?". 
 Salimos tranquilamente del Happy Barrow hacia la cabaña.
 
 
-## Llegamos a la cabaña de Afiq.
+## Llegamos a la cabaña de Afiq
 
 Afiq enciende el fuego y saca una botella de whiskey.
 
@@ -2316,7 +2316,7 @@ Martin intenta ponerse en contacto con Tyrannish.
 Pasamos la noche en la cabaña.
 
 
-## Salimos de la cabaña a la mañana siguiente.
+## Salimos de la cabaña a la mañana siguiente
 
 Aparcamos a las afueras, a cierta distancia de Queens, donde pillamos un taxi y llegamos a la iglesia de Queens donde nos ha citado Tyrannish. Hay algunos feligreses, pero pocos. Nos sentamos en los bancos.
 
@@ -2396,7 +2396,7 @@ Viktor lo intenta y se transforma en el reverendo Cornfield. Intenta transformar
 Hechizo: **Imitar apariencia**.
 ```
     Requisitos:
-        1. Nacaal (con ventaja por la transcripción al inglés).
+        1. Tirada de Nacaal (con ventaja por la transcripción al inglés).
         2. Tirada difícil de poder.
     Coste de magia:
         10 puntos.
@@ -2412,7 +2412,7 @@ Debido a un no tan inexplicable golpe de suerte, Afiq consigue lo necesario para
 Afiq llama a Suhana para que intente concertarnos una cita con la mafia en algún lugar discreto.
 
 
-## Vamos al aeródromo a poner el cerebro de Migo a recargar.
+## Vamos al aeródromo a poner el cerebro de Migo a recargar
 
 Afiq prepara la mezcla y conecta el tubo con una batería.
 
@@ -2421,7 +2421,7 @@ Saliendo del aeródromo, Viktor se encuentra muy débil. Intenta contrarrestar e
 Tras un minuto, empieza a transformarse en él mismo.
 
 
-## Opciones para la próxima sesión.
+## Opciones para la próxima sesión
 
 Ir a Caduceo:
 - [ ] Afiq. Investigar los cerebros junto con Gonçalves (y buscar indicios de los mosquitos).
