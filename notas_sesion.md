@@ -619,7 +619,7 @@ Información de nivel dos
 # Serpiente de dos cabezas - Sesión 4 (Rodri, 2023/11/23)
 Nuestro flamante Being 247 cruza el cielo hacia Borneo. Parece que Afiq eligió la joya de la corona de Caduceo porque nos han asignado a un copiloto, Jim Rogers, con la excusa de turnarse durante el vuelo, aunque sospechamos que no se fían de darnos un avión todavía.
 
-Es un aparato magnífico, comparado con nuestro anterior vuelo, hemos reducido a la mitad el uso de bolsas de vomitar, y gran parte fueron usadas por Saphiro, que nos acompaña para estudiar la enfermedad; parece sentirse más cómodo en una oficina que en primera línea… veremos.
+Es un aparato magnífico, comparado con nuestro anterior vuelo, hemos reducido a la mitad el uso de bolsas de vomitar, y gran parte fueron usadas por Saphiro, que nos acompaña para estudiar la enfermedad; parece sentirse más cómodo en una oficina que en primera línea... veremos.
 
 Caduceo ha retirado la última fila de asientos, dejándolo en un 2+6, para poder tener más capacidad de carga. La parte trasera del avión está llena de cajas y mochilas con todo tipo de equipamiento, provisiones y EPIs. No podemos evitar mirar de vez en cuando con desconfianza las cajas con TNT.
 
@@ -885,7 +885,7 @@ Hablamos con el doctor Gonsalvez, que se presenta como el jefe médico y jefe de
 
 
 A Martin y Afiq nos hacen un tratamiento muy rato y chungo: incluye cirugía y nos conectan muchos tubos. Un par de días después, nos despertamos en unas camas de hospital con las puertas de las habitaciones cerradas con bastante seguridad.
-  Martin, en sus delirios, sueña con Tyranissh. Tyranissh está preocupada y se da cuenta de que está mal.
+  Martin, en sus delirios, sueña con Tyrannish. Tyrannish está preocupada y se da cuenta de que está mal.
 
 Bill se pone en contacto con su hermano (de forma discreta) y le manda pasta. Se le acerca un tipo italiano. Le dice que les debe algo (4000 $).  Le dice que se ha enterado de que trabaja para Caduceo y que quiere que vaya él y sus compañeros a cenar al restaurante en algún momento de esta semana.
 
@@ -964,7 +964,7 @@ Vamos a investigar en dos grupos.
 
 Van al archivo, piso 7.
 
-Martin va a investigar sobre hombres serpiente y las facciones que le comentó Tyranissh.
+Martin va a investigar sobre hombres serpiente y las facciones que le comentó Tyrannish.
 
 Connor va a investigar sobre la base de Islandia.
 
@@ -1030,19 +1030,19 @@ Parece que las cosas no se investigan aquí, pero recuerdo que en el sótano hab
 
 ## Gonçalves nos llama a todos
 
-Al llegar nos dice que van a subir a Tyranissh.
+Al llegar nos dice que van a subir a Tyrannish.
 
-Vemos que la llevan en una silla de ruedas, atada, con un séquito de científicos. Tyranissh se queda mirando a Martin y le sonríe.
+Vemos que la llevan en una silla de ruedas, atada, con un séquito de científicos. Tyrannish se queda mirando a Martin y le sonríe.
 
-La meten en una sala y Martin les dice que no es la mejor forma de llevarla y que así no van a conseguir la mejor predisposición de Tyranissh.
+La meten en una sala y Martin les dice que no es la mejor forma de llevarla y que así no van a conseguir la mejor predisposición de Tyrannish.
 
-## Entramos en la sala con Tyranissh
+## Entramos en la sala con Tyrannish
 
-Tyranissh está atada a una silla. Hay un gran espejo.
+Tyrannish está atada a una silla. Hay un gran espejo.
 
 Gonçalves dice que estarán esperándonos y nos deja.
 
-Nos presentamos. Viktor le pregunta cómo habla tan bien inglés y Tyranissh le dice que tiene facilidad con los idiomas.
+Nos presentamos. Viktor le pregunta cómo habla tan bien inglés y Tyrannish le dice que tiene facilidad con los idiomas.
 
 Le pregunta a Martin si ha cambiado algo en él, le huele complacida.
 
@@ -1080,7 +1080,7 @@ Connor le pregunta qué edad tiene. Contesta que no lo tiene muy claro, pero cre
 
 Mira hacia el espejo y dice: "_¿Habéis tomado buena nota? Vamos a intentar llevarnos bien. Tengo que descansar y retomar fuerzas, pero ya me encuentro mejor_." (guiña un ojo a Martin).
 
-## Al salir de hablar con Tyranissh
+## Al salir de hablar con Tyrannish
 
 Nos enonctramos con Gonçalves y le proponemos intentar construir cierta confianza. Paso a paso para ir dándole más libertad, darle acceso a información no sensible, etc.
 
@@ -1165,7 +1165,7 @@ Tienen información de que la droga está entrando a través del barrio de redho
 
 Nos ofrecen 1000$ por nuestra “colaboración” y Joe Bonanno habla por primera vez al final para decirnos que le entreguemos esa dirección.
 
-Salimos del restaurante (menos Bill que se queda dentro hablando con Filemone para intentar quedar de colegas, pero…. regular).
+Salimos del restaurante (menos Bill que se queda dentro hablando con Filemone para intentar quedar de colegas, pero... regular).
 
 
 [ __media hora discutiendo en el apartamento de Bill sobre nuestra relación con la mafia y caduceo__ ]
@@ -1272,7 +1272,7 @@ Empezamos a escuchar un sermón religioso: "_[...] Y Jeová le dijo a la serpien
 
 Nos pregunta Gonçalves si lo hemos escuchado.
 
-Bill y Viktor escuchan una segunda voz en Nacaal: "_Maravilloso... rinde a los impíos ante Yig... otorgando bendiciones para.... las bendiciones ceden antes el corazón que espera..._"
+Bill y Viktor escuchan una segunda voz en Nacaal: "_Maravilloso... rinde a los impíos ante Yig... otorgando bendiciones para... las bendiciones ceden antes el corazón que espera..._"
 
 Parece que el mensaje oculto invita a los fieles de Yig a presentarse en Bingham.
 
@@ -1756,7 +1756,7 @@ El Sheriff recibe dos disparos y cae inconsciente, y salimos todos de la cueva c
 Con un estruendo la cueva colapsa y todo el entorno parece hundirse.
 Una vez a cubierto, se aplican primeros auxilios al sheriff para estabilizarlo, y al examinar a Mathewson, parece que su mandíbula no es normal y parece desencajarse. Claramente tiene efectos secundarios de la “curación” del reverendo.
 
-Después de discutir un tiempo el curso de acción, volvemos de camino para el pueblo con el sheriff y con un Mathewson asustado. De camino parece que Martin le convence de que no estaban siguiendo realmente a Dios y parece que va entrando un poco en razón…
+Después de discutir un tiempo el curso de acción, volvemos de camino para el pueblo con el sheriff y con un Mathewson asustado. De camino parece que Martin le convence de que no estaban siguiendo realmente a Dios y parece que va entrando un poco en razón...
 
 Llegamos al pueblo, Afiq contacta con caduceo y les dice que la gente “infectada” del pueblo necesitará ayuda. El sheriff no sobrevivió al camino de vuelta y Connor le deja ahí por el cementerio del pueblo de madrugada.
 
@@ -1791,7 +1791,7 @@ Afiq le insiste en que la situación del pueblo es delicada y pregunta por la ex
 
 Tampoco han visto nunca un caso como el del reverendo y su capacidad de copiar cuerpos.
 
-Detallamos que el cuerpo estaba protegido por un campo de fuerza, la voz, la sensación a la entrada de la cueva, el desvanecimiento tras aceptar a la voz… Medham se preocupa con esto último y le pide a Viktor que se someta a unas pruebas con Gonçalves para comprobar que todo está bien.
+Detallamos que el cuerpo estaba protegido por un campo de fuerza, la voz, la sensación a la entrada de la cueva, el desvanecimiento tras aceptar a la voz... Medham se preocupa con esto último y le pide a Viktor que se someta a unas pruebas con Gonçalves para comprobar que todo está bien.
 
 Le decimos que sospechamos que pertenecía al culto de Yig pero Medham discrepa, cree que nos enfrentamos a algo diferente.
 
@@ -2046,7 +2046,7 @@ Mientas tanto, en el río, descubrimos un barco que se encontraba cerca del alma
 
 # Sesion 19 - Jueves 29 de Marzo - Nueva York
 
-En la sesión anterior dejamos los muelles en coche a toda hostia tras la explosión mientras una mujer fumaba desde un barco…
+En la sesión anterior dejamos los muelles en coche a toda hostia tras la explosión mientras una mujer fumaba desde un barco...
 
 Vamos en dirección a algún bar abierto donde pueda haber un teléfono y llamamos a restaurante de los mafiosos. Casale contesta y nos pregunta que qué ha pasado. Para evitar dar muchos detalles por teléfono quedamos en el restaurante directamente.
 
@@ -2201,7 +2201,7 @@ Martin se da cuenta de que al Voormi no le gustan nada los coches.
 Tras un disparo en el ojo de Viktor, un escopetazo de Bill y un cartucho de dinamita en los huevos - también de Bill - el Voormi huye.
 
 
-# Sesion 22 - Domingo 17 marzo - Islandia (Presencial)
+# Sesión 22 - Domingo 17 marzo - Islandia (Presencial)
 
 Llegamos a Olafsvik con Gunnhildr bastante nerviosa. El pueblo parece desierto, ni siquiera hay humo en las chimeneas. En la casa del hermano de Gunnhildr encontramos la puerta reventada y descubrimos que no hay nadie en el pueblo. También vemos casquillos de armas, huellas de docenas de criaturas extrañas (parecen de voormis pequeños) que se dirigen al volcán. Tras negociaciones con un voormi atrapado en unos escombros descubrimos que la colonia de voormis vive adyacente a la base de los hombres serpiente. El voormi, rebautizado Espartaco, nos guía a sus cuevas a condición de que les liberemos de los collares de control de los hombres serpiente. Parece que algo le ha pasado a la colonia voormi, salen 2 que nos guían a un lugar más oculto donde tienen cabezas de hombres serpiente clavadas en estacas.
 
@@ -2213,3 +2213,220 @@ Nos encontramos con una videollamada con Rose Meadham (muy serpientificada) y Af
 
 Guiados por un científico, encontramos el ordenador biológico, formado por cerebros en cilindros de metal. Martin, Connor y Viktor cogen varios cilinidros., lo que provoca un ataque de locura en Connor y que se inicie la cuenta atrás de la autodestrucción. Conseguimos huir pero parece que el Durmiente ha despertado.
 
+
+# Sesión 23 - Vuelta a NY
+
+Empezamos huyendo por la ladera del volcán mientras el Voormi-godzilla emerge del volcán, pero parece que la explosión del mismo acaba con él (por suerte para Islandia y el mundo entero)
+
+El terreno es muy inestable debido a la explosión pero logramos llegar al campamento de Caduceo y de ahí cogemos el avión y volvemos a NY. En los periódicos se habla de una explosión en Islandia con multitud de bajas.
+
+Los compañeros serpentinos han empeorado. Viktor tiene todo el cuerpo cubierto de escamas y está en un estado febril. Martin también tiene escamas por casi todo el torso excepto donde le dejó la marca la amiga serpentina, y Afiq también ha empeorado.
+
+Hablando de nuestros trastornos y de cuando cogimos los tubos, recordamos que los insectos extraterrestres que se encontraban en los tubos eran Mi-Go, una mezcla como de insecto/murciélago/cangrejo/hongo muy inteligente, capaces de construir un metal llamado tokl muy extraño y parece que los cilindros podrían estar hechos de ese metal.
+Los Mi-Go se dice que eran capaces de experimentar sacándole el cerebro a humanos y manteniéndolo consciente y puede que la tecnología de la base sea copiada o robada de los Mi-Go.
+Son una raza extraterrestre muy avanzada. También se les conoce como hongos de Yuggoth.
+
+Afiq investiga los tubos y parece que se pueden manipular de forma medio segura sin que interfieran en nuestras cabezas. Descubre que hay que alimentar los cerebros de los tubos o si no, acabarán muriendo.
+
+Debatimos sobre lo que hacer con los tubos. Tenemos medio claro que no queremos darle a Caduceo el tubo con el cerebro Mi-Go, y que seguro les vamos a dar los tubos del cerebro humano y el de Voormi. También decidimos intentar sacar lo que podemos del cerebro de hombre serpiente y tomamos un desvío a Florida para ganar algo de tiempo y seguir investigando.
+Conseguimos comunicarnos con el cerebro de hombre serpiente en Nacaal. Dice que los Mi-Go les secuestraron y apresaron hace miles de años y les encerraron en la máquina.
+
+Los Mi-Go tenían sus bases en los polos. La base estaba abandonada hasta que la noche interior la tomó.
+Dice que en el pasado vivió en Mu, y que ahora mismo Mu no está hundida sino en otra “fase”.
+Viktor se empieza a camelar un poco al cerebro/hechicero/serpiente y sigue contando que las facciones (la noche interior y Yig) están interesados en la ciudadela de Mu y su tecnologia.
+“Aquella que llaman Xashanal (o Rose), quiere usar la tecnología en la ciudadela para provocar una reacción en cadena con los volcanes de la tierra y sumir la tierra en una hecatombe donde la ceniza cree una noche eterna”.
+Si eso pasa, los hombres serpiente podrían vivir tan panchos mientras mueren los humanos y salir de debajo de la tierra después para reclamarla.
+Se refiere a los humanos como “la raza de valyria” y admite que los subestimaron hace miles de años y que no volverán a cometer el error.
+Cuenta que la raza extraterrestre de “los antiguos”, que también habitaban en Mu y en la tierra, aprovecharon las luchas internas de los hombres serpiente y se llevaron Mu a otra fase para que los hombres serpiente no siguieran explotando la tecnología.
+Cuenta que (Rose) tiene el plan de usar los portales que hay en las bases para llegar a Mu y hacerse con la tecnología.
+Le comentamos que Tyrannish está libre y nos dice que fué una científica de la ciudadela y que tenía muchísimos seguidores.
+Nos dice que había un dispositivo de traducción para hablar con los Mi-Go, pero no sabemos mas.
+Por lo visto hay 2 maneras de saber cómo se controlaban los cerebros y se podían o matar de hambre o dar unas descargas eléctricas. Al probar a comunicarnos con el tubo del Mi-Go, no hay manera, solo escuchamos zumbidos.
+Martin intenta contactar con Tyrannish usando la batseñal su marca del pecho y concentrándose, pero no parece que haya mucho éxito... al menos al intentar contactar desde Florida, pero al volver a NY a la que estamos aterrizando, a Martin empieza a palpitarle el pecho...
+
+
+# Sesión 24 - NY & Caduceo
+
+Después del amago de llamada perdida, parece que se calma el tatuaje del pecho de Martin. Por ahora no hay contacto con Tyrannish.
+Llegamos al aeródromo del colega de Afiq y éste le hace señales para hablar con él.
+Le comenta que el otro colega de la universidad que analizaba el veneno está muy preocupado porque es extremadamente letal (como del 90% y el 10% que sobrevive se queda tolili), y que es un veneno extremadamente complejo y peligroso, y tampoco parece ni medio cerca que se pueda procesar un antídoto.
+Dejamos el cilindro de los Mi-Go en el aeródromo del colega escondido entre la mandanga con la que trafican y cogemos de vuelta el avión para volver al aeródromo de la guardia, al hangar de Caduceo.
+Al llegar están esperándonos De Luca con otras dos personas de seguridad y cargamos los maleteros con lo que traemos de Islandia.
+Volvemos con ellos y también con los coches que habíamos dejado en el aeródromo.
+De Luca sigue especialmente serio.
+Llegamos directamente a ver a Gonçalves le contamos que hemos traído 3 cilindros y le contamos “toda” la aventura Islandesa. Se queda muy contento con nuestro desempeño.
+Le damos también un collar de control.
+Parece que Gonçalves sabe algo de por qué De Luca está tan serio y nos está ocultando algo, pero tampoco sacamos mucho más.
+Nos pregunta si hemos contactado con Tyrannish de nuevo y le decimos que no. Pregunta por la corona que nunca hallamos en el templo donde estaba Tyrannish y dice que si hablamos con ella intentemos sacarle información sobre esa corona. Nos despedimos de él y nos vamos a descansar, no sin pedirle un bonus por nuestro trabajo impecable (cof cof).
+
+Quedamos en que esta semana volveremos por caduceo para estudiar los objetos, que nos traten un poco y seguir investigando por nuestro lado.
+
+Decidimos ir al ~~puticlub casa de placer antro de perversión tugurio~~ al bar de la ~~pareja~~ amiga de Afiq, pero de camino vemos dos cosas; una es que nos están siguiendo otra vez aunque con más cuidado.
+La otra es que vemos a una persona de Bingham. Le seguimos y llegamos a un parque donde hay más gente de Bingham y están con pancartas como diciendo que “viene el fin del mundo” e intentando captar gente.
+Por otra parte vemos que siguen detrás nuestra hombres de De Luca.
+
+Viktor y Bill se acercan a hablar con los peregrinos y éstos les reconocen. Preguntan por lo que pasó con el párroco en Bingham y Viktor les cuenta una milonga. Parece que después de irnos nosotros la cosa en Bingham estuvo movida. Llegaron hombres de traje y pusieron el pueblo en cuarentena. Dijeron que había un virus contagioso como excusa para cerrar el pueblo. Se llevaban a quienes cuestionaban ese argumento del virus, ya que todo el mundo estaba sano.
+Les dijeron que se tenían que encerrar en casa y controlaron el pueblo, pero al poco de eso llegó una mujer alta al pueblo, que clamó a los cielos y con rayos en las manos aniquiló a los hombres que cercaban al pueblo y les salvó. Por lo visto ésta mujer les dijo que tenían que huir del pueblo y se fueron a NY siguiéndola. Hubo gente que se quedó en el pueblo pero la mujer dijo que vendrían más hombres. La mujer dijo que la podía llamar... trrrr [intriga]... ¡Tyrannish!
+
+Nos encaramos con los que nos estaban siguiendo y les decimos que dejen de hacerlo y que si De Luca tiene algo con nosotros que nos lo diga en persona. Parece que dejan de seguirnos... pero al volver a coger el coche y pasar por el restaurante de la Mafia (donde está el clavel puesto), vemos que efectivamente siguen detrás nuestra... Así que seguimos de largo y ahora sí que sí vamos donde Suhanna.
+
+De momento acordamos varias cosas:
+
+	Cuando volvamos luego del ~~puti~~ bar, vamos todos a una casa donde intentaremos contactar a Tyrannish a través de nuestro médium más galán ágil
+
+	Queremos hablar con la mafia y preguntarles por el contacto que les pasó el rumor del almacén de Caduceo
+
+Suhanna de hecho le dice a Afiq que su contacto en común de la mafia tiene una información para nosotros que quedaron en darnos... y que nos reunamos en persona con él y evitemos las llamadas todo lo que podamos...
+
+
+# Sesión 25. New York  2024/04/18.
+
+Jueves, 18 de abril 1933.
+
+
+## Salimos del Happy Barrow.
+
+Decidimos ir a la cabaña de Afiq.
+
+Connor se acerca al coche de Caduceo y les dice "¿Qué os dice de seguirnos?". Responden que siguen órdenes. Parece que a Connor no le gusta la respuesta y les vuelca el coche.
+
+Salimos tranquilamente del Happy Barrow hacia la cabaña.
+
+
+## Llegamos a la cabaña de Afiq.
+
+Afiq enciende el fuego y saca una botella de whiskey.
+
+Martin intenta ponerse en contacto con Tyrannish.
+
+ > **Tyrannish**: "Martin, Martin, ¿eres tú?"
+ > 
+ > **Martin**: "Sí, soy yo."
+ > 
+ > **Tyrannish**: "No puedo comunicarte contigo ahora mismo, acaban de atacarnos."
+ > 
+ > **Martin**: "¿Puedo hacer algo por ti?"
+ > 
+ > **Tyrannish**: "La próxima vez intenta comunicarte en sueños, es mejor. Es mejor si yo también estoy dormida para que la comunicación vaya bien. Ahora mismo tengo que hacer un gran esfuerzo."
+ > 
+ > **Martin**: "Hemos tenido contacto con La Noche Interior."
+ > 
+ > **Tyrannish**: "Yo he entrado en contacto con Caduceo. Han matado a toda la gente de Bingham y yo he acabado con 10 de sus agentes. Intenta ponerte en contacto en sueños o venid a New York. Hay una pequeña iglesia en Queens. Podemos quedar allí mañana por la mañana."
+
+Pasamos la noche en la cabaña.
+
+
+## Salimos de la cabaña a la mañana siguiente.
+
+Aparcamos a las afueras, a cierta distancia de Queens, donde pillamos un taxi y llegamos a la iglesia de Queens donde nos ha citado Tyrannish. Hay algunos feligreses, pero pocos. Nos sentamos en los bancos.
+
+Viktor se acerca al altar y se le acerca una monja joven.
+ 
+-	La "monja" pregunta si nos puede ayudar.
+- Viktor dice que está buscando al párroco.
+- La monja dice que no ha llegado todavía y llegará en un rato. Nos ofrece pasar a la sacristía.
+
+La seguimos a la sacristía y, al entrar, nos dice: "Perdonad, pero la cosa está complicada". Se transforma y vemos que en realidad es Tyrannish.
+
+ > **Connor**: "¿Qué ha pasado?"
+ > 
+ > **Tyrannish**: "Los hombre de Caduceo. Ayer llegaron una serie de hombres a nuestro escondite y empezaron a disparar a todos mis feligreses. Conseguí sacarle información a uno. Parece que la secta de Yig está relacionada con Caduceo."
+ > 
+ > **Viktor**: "Sí, eso nos cuadra con lo hemos averiguado."
+ > 
+ > **Tyrannish** nos dice que en Bingham vio que Caduceo estaba atacando a la gente de allí y se vio obligada a intervenir. Dice que es extraño lo del reverendo y que debía haber alguna disputa entre el reverendo y Caduceo. No entiende por qué Joshua quisiese eliminar al reverendo, quizá lo viera como una amenaza.
+ > 
+ > **Viktor** y **Connor** le dicen que hemos visto indicios de que Caduceo no parece mejor que La Noche Interior. Le hablan de los mosquitos y sobre el volcán de Islandia.
+ > 
+ > **Tyrannish** comenta que, cuando la interrogaron, insistieron mucho en Mu y en la Ciudadela. Cree que tenemos que impedir a toda costa que Caduceo avance en sus planes.
+ > 
+ > **Tyrannish** trabajó en la ciudadela junto con otros científicos.
+ > 
+ > **Tyrannish** dice que Gonçalves le preguntó sobre su corona. Su corona y su cetro son bastante poderosos; especialmente la corona. No sabe bien por qué la querrían. La corona controla seres reptilianos: serpientes, hombres serpientes, etc.
+ > 
+ > **Tyrannish** pregunta si vimos la corona cuando la encontramos.
+ > 
+ > **Martin** le dice que no. No vimos rastro de ella.
+ > 
+ > **Tyrannish** dice que la corona no permite dominar a los hombres serpientes. Si el hombre serpiente no quiere obedecerla, no lo hará. Quizá los yoirgos, que quedaron atrapados en Mu, serían más fáciles de controlar con la corona.
+ > 
+ > **Martin** intenta recordar si recuerda algo de los yoirgos pero no puede y le da un episodio de locura.
+ > 
+ > **Connor** sí consigue recordar que son criaturas reptilianas extraterrestres, invisibles para el ojo humano, formados por pura energía. Pueden adoptar distintas formas, pero la más habitual es reptiliana. Son seguidores de Gatanotoa. Vivían en Mu, siendo una de las civilizaciones más prósperas que había.
+ > 
+ > **Tyrannish** dice que los yoirgos lucharon en Mu contra las sectas de Yig y de Chatogua. En un momento dado ayudaron al sitio de la ciudadela donde quedaron encerrados los seguidores de Chatogua. Podría ser que los antiguos estén usando a los yoirgos como guardianes de los portales, pues los yoirgos pueden convertir en piedra a quien les observa en su forma original.
+ > 
+ > **Connor** y **Viktor** le dicen que tenemos el cerebro de un Migo.
+ > 
+ > **Tyrannish** dice que la tecnología Migo es compleja. Se cruzaron con ellos alguna vez cuando éstos investigaban a los humanos.
+ > 
+ > **Tyrannish** nos dice que lo que ha pasado con Birgham nos podría servir como advertencia. En el momento que Caduceo ha visto que había una mínima amenaza, los han eliminado sin dudar.
+ > 
+ > **Viktor** pregunta si ella podría acabar con ellos.
+ > 
+ > **Tyrannish** responde que actualmente no tiene los medios. Va a irse de Nueva York una temporada y pensar cómo actuar con Yig y con Chatogua. Intentará quitarse de en medio una temporada.
+ > 
+ > **Viktor** le comenta que en Birgham notó que despertó algún tipo de magia y le pregunta si es posible que esté desarrollando algún poder mágico.
+ > 
+ > **Tyrannish** posa la garra sobre él y le dice: "¡Insensato, has jurado lealtad a Yig!"
+ > 
+ > **Viktor** se excusa diciendo que no tenía elección.
+ > 
+ > **Tyrannish** le dice que le habría podido dar algún poder pero que tendría que haber pensado antes de actuar.
+ > 
+ > Le pedimos ayuda. Necesitamos ayuda para acabar con Caduceo y la Noche Interior.
+ > 
+ > **Tyrannish** dice que nos infravaloramos. Tenemos incluso más información que ella y tenemos ventaja para poder **enfrentarlos entre ellos**. Nos dice que el poder y la ambición es uno de sus puntos débiles.
+ > 
+ > **Martin** pregunta si hay alguna forma de ocultarnos.
+ > 
+ > **Tyrannish** nos dice que podría enseñarnos el hechizo que ella usa para pasar desapercibida. Rebusca y saca un papel de la sacristía. Escribe en el papel en Nacaal, incluyendo la traducción en inglés para ayudarnos a pronunciarlos (nos permite intentar usarlo con ventaja).
+ > 
+ > **Connor** pregunta cómo podemos conservar el cerebro del Migo y cómo podemos comunicarnos con ellos.
+ > 
+ > **Tyrannish** dice que la propia tecnología Migo tenía traductores para millones de lenguas. En cuanto al alimento, había una especie de pasta. Nos da una receta química de diferentes compuestos para mantener el cerebro con vida. También necesita energía electrica que genere impulsos para mantenerla con vida.
+ > 
+ > **Tyrannish** nos desea mucha suerte y se despide. Hace un circulo con la garra. Se abre un portal y lo atraviesa.
+
+Martin lee e intenta entender el hechizo que nos ha dejado pero no puede.
+
+Viktor lo intenta y se transforma en el reverendo Cornfield. Intenta transformarse a su forma original, pero falla.
+
+
+Hechizo: **Imitar apariencia**.
+```
+    Requisitos:
+        1. Nacaal (con ventaja por la transcripción al inglés).
+        2. Tirada difícil de poder.
+    Coste de magia:
+        10 puntos.
+    Coste de cordura (si se consigue lanzar):
+        1d20
+    Duración:
+        6 horas aprox.
+```
+
+
+Debido a un no tan inexplicable golpe de suerte, Afiq consigue lo necesario para crear la pasta que alimenta al Migo.
+
+Afiq llama a Suhana para que intente concertarnos una cita con la mafia en algún lugar discreto.
+
+
+## Vamos al aeródromo a poner el cerebro de Migo a recargar.
+
+Afiq prepara la mezcla y conecta el tubo con una batería.
+
+Saliendo del aeródromo, Viktor se encuentra muy débil. Intenta contrarrestar el efecto y mantenerse fuerte, pero le da un bajón y cae inconsciente.
+
+Tras un minuto, empieza a transformarse en él mismo.
+
+
+## Opciones para la próxima sesión.
+
+Ir a Caduceo:
+- [ ] Afiq. Investigar los cerebros junto con Gonçalves (y buscar indicios de los mosquitos).
+- [ ] Viktor. aprender más de la transformación de los hombres serpiente.
+- [ ] Connor y Martin a investigar sobre el traductor Migo.
+
+Ir al Happy Barrow.
+- [ ]	Intentar contactar con Giovanni para hablar con la persona que dio el chivatazo
