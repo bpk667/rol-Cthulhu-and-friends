@@ -77,6 +77,16 @@
 | Gunnhilder | Nuestra guía                          |
 
 
+## Congo
+| NPC               | Descripción                    |
+| ----------------- | ------------------------------ |
+| Kasongo Odia      |                                |
+| Prof. Carole Roux | Investigadora bióloga francesa |
+| Manville Garreau  | Investigador francés           |
+| Doctor            |                                |
+| Enfermera Hertrut |                                |
+| Enfermera Floret  |                                |
+
 
 # Primera sesión (04/11/2023)
 
@@ -2421,12 +2431,267 @@ Saliendo del aeródromo, Viktor se encuentra muy débil. Intenta contrarrestar e
 Tras un minuto, empieza a transformarse en él mismo.
 
 
-## Opciones para la próxima sesión
+# Sesión 26 - NY & Caduceo
 
-Ir a Caduceo:
-- [ ] Afiq. Investigar los cerebros junto con Gonçalves (y buscar indicios de los mosquitos).
-- [ ] Viktor. aprender más de la transformación de los hombres serpiente.
-- [ ] Connor y Martin a investigar sobre el traductor Migo.
+Llegamos a Caduceo después de pasar por el aeródromo a alimentar los cilindros. Al llegar a recepción, unos guardias murmuran a lo lejos al vernos.
 
-Ir al Happy Barrow.
-- [ ]	Intentar contactar con Giovanni para hablar con la persona que dio el chivatazo
+Subimos directamente al despacho de Gonçalves donde directamente saca el tema de la pelea con los agentes de De Luca. Connor instantáneamente se defiende y echa pestes de la pareja de agentes que no paraban de seguirnos. Le apoyamos como la famiglia que somos.
+
+Nos dice que no ha averiguado nada más con los cilindros y que llevará bastantes semanas conseguir algún avance, toda una sorpresa. Llega De Luca hecho una furia y nos increpa. Connor se vuelve a defender y se encara con el Maradona. Viktor intenta calmar la situación. Se intercambian palabras de todo menos bonitas. Le decimos a De Luca que en vez de seguirnos sin avisar si lo que quiere es protegernos que nos lo diga. Le decimos que se meta los agentes por el orto. De Luca se va hecho el doble de furia. 
+
+Vuelve a entrar Gonçalves y sigue la conversación. Acordamos bajar al sótano a que nos haga más exámenes médicos y hablar de los cilindros. Bajamos con un guardia en el ascensor y Afik consigue inutilizar su mecanismo al llegar abajo en un momento que nadie le mira. 
+
+Gonçalves no puede más que confirmar que se nos extienden las escamas. No puede hacer nada, sigue empeñado que es la primera vez que ve esto y no le creemos. Volvemos a la misma discusión de siempre en la que Gonçalves no quiere soltar ni media a pesar de que le hacemos saber que oculta algo y que puede contar con nosotros, ya que nos dejamos la piel en cada misión. No suelta ni media el condenado.  Mientras tanto, Afiq y Bill van a investigar el resto del sótano con el guardia. Eventualmente, llegan al pasillo de los clones y a una sala en la que parece haber componentes biomecánicos que podrían estar relacionados con la fabricación de mosquitos. El guardia se va poniendo extra nervioso a medida que ve que Afiq va a donde quiere. Ve su pellejo peligrar y empieza a alterarse y a ordenar que vuelvan a la enfermería. Afiq se hace el loco pero al final le hace caso, recoge a Bill que se ha quedado zombi viendo los clones de Rose y vuelven a la enfermería. El guardia pierde la paciencia, va a avisar a De Luca y ve que el ascensor no funciona, por lo que corre al teléfono de la planta a pedir ayuda.
+
+De vuelta en la enfermería, después de mucho apretar a Gonçalves, accede a estudiar hacernos nivel 3 y a que nos reciba Medham para discutir el ascenso. En unos instantes, bajan De Luca y un pelotón de guardias entero a desalojar el sótano tras la llamada de aviso del guardia anterior. Entran en la enfermería y nos obligan a todos a subir a la sala de reuniones del piso 8 de malas maneras. Afiq entra en el ascensor y lo arregla de un golpe, lo que enfurece aun más a De Luca. Afiq, Connor y Martin suben en el ascensor con él y lo empiezan a provocar para que estalle aún más. Tras un intercambio adicional de puyas, De Luca estalla y le mete un gancho de izquierda a la pared del ascensor y se hace polvo la mano. Martin limpia su sangre y la recoge para dársela a Afiq después, al descubrir que su sangre tiene un tono verdoso.
+
+Al llegar a la planta 8, Martin sigue provocando a De Luca. Él le empuja a la sala, y cuando ve que Martin intenta que tropiece con él, se enfurece otra vez y le mete otro gancho que Martin decide encajar para usarlo después contra él. Le mete tremendo putiaso que casi lo manda de vuelta al casino. 
+
+Después de reprochar todos la actitud de De Luca, se hace el silencio y entra Medham con su guardaespaldas, que intimida a varios de nosotros. Le explicamos a Medham la situación con los agentes que nos siguen y el incidente del sótano, responde con tono conciliador y dice que se encargará del asunto de De Luca, y que no nos preocupemos. También accede a hacernos nivel 3, efectivo al día siguiente cuando recibiremos un briefing de Gonçalves.
+
+Satisfechos, salimos de Caduceo y llamamos a Suhana desde el bar de enfrente, nos dice que la mafia ha concretado una reunión para nosotros en un almacén en las afueras de Brooklyn y que vayamos cuanto antes, nos pasa la dirección.
+
+Al conducir hasta allí y entrar, los guardias de la mafia nos reconocen y nos dejan entrar. En el interior, parece que han descubierto a su informante y le están torturando. Al parecer, otro capitán de la mafia, Martino Bresciani, descubrió a ese frutero como el informante que recibió el soplo de la heroína en Caduceo directamente de Rose Medham. 
+
+De entrada esa explicación no cuadra al grupo y Viktor descubre que Martino Bresciani es un hombre serpiente, no suda, no parpadea. Le comenta en privado a Joe Bonano que tienen al hombre equivocado: el frutero es inocente y el hombre que buscan es Bresciani. Joe Bonano no nos cree al principio, pero poco a poco el grupo le hace sospechar de él. Bresciani, al vernos cuchichear con Bonano se pone nervioso y huye. Sin embargo, es capturado antes de huir del almacén.
+
+Al sentarlo,atarlo, y calentarle un poco las mejillas para empezar a interrogarlo, los matones le arrancan las facciones humanas y queda revelado como hombre serpiente para sorpresa de (casi) todos. De ahora en adelante, le llamaremos John Cobra, porque del ansia y de los acontecimientos que se desarrollan después, no nos preocupamos ni de preguntarle su verdadero nombre.
+
+Le metemos un curso acelerado de Hombres Serpiente 101 a la mafia y cuando deciden acabar con tremenda abominación, John Cobra suplica por su vida a cambio de información, pero quiere que le liberemos primero. 
+
+Viktor insiste en que nos cuente el plan antes de liberarlo y el Sr Cobra no quiere ceder tan fácil. Sin embargo, Viktor le ve el farol, ya que claramente no quiere morir,  y pide a los hombres de Joe que le den plomo porque no va a decir nada.
+Antes de que le disparen, el sr Cobra empieza a cantar y nos cuenta que ha convencido a Arvito y a sus hombres para ir al edificio Medham a hacer un atentado con bombas. Convencemos a la mafia de que en el edificio Medham hay muchos inocentes que no merecen morir como daños colaterales de acabar con las serpientes de Caduceo, además quedan secretos en el edificio por descubrir, por lo que hay que ir a detener el plan. 
+
+Repitiendo el mismo plan, le sacamos todos los detalles que podemos a John Cobra y luego un mafioso le vuela la cabeza. Por suerte,antes de fenecer nos ha revelado un infiltrado más de la Noche Interior: Michael, el operador de radio de Caduceo. Él será nuestro siguiente contacto si queremos hablar con Rose, ya que John Cobra ha cerrado sesión prematuramente.
+
+Afik conduce a toda pastilla hacia Caduceo,  aprovechándose que aún no hay radares de tráfico. Al llegar vemos a Arvito aparcado enfrente. Afiq va hacia él mientras los demás corren a la recepción a dar la alarma. Viktor sin mediar palabra entra en la recepción y activa la alarma de incendios. El resto corren a la recepcionista para hablar con alguien de seguridad. 
+
+Afik convence a Arvito de que el plan es una locura y le obliga a acompañarle al edificio para que ayude a abortar el atentado. Le cuenta el plan al grupo, ya saben que sus hombres se han camuflado como el personal de limpieza y llevan las bombas en un maletín dentro de los carros de limpieza, uno para cada planta.
+
+Corremos planta por planta a buscar a cada hombre de Arvito, todos aún seguían colocando las bombas, para que desistan y la saquen de ahí. Acceden a dejar una en un callejón cercano para que la encuentre la policía. Seguimos así hasta las últimas plantas, donde los hombres de Arvito no podían entrar. 
+
+En la última planta con bomba y pensando nuestro próximo movimiento, Martin tiene un ataque de memoria perfecta en el que consigue balbucear que Arvito es experto en cajas fuertes, por lo que decidimos aprovechar el caos para llegar hasta los secretos más profundos del edificio. Subimos a la planta 14, Connor con Martin en volandas tras sufrir el ataque, y abrimos la puerta de seguridad con la llave de Rose, entramos en una sala gigante con una biblioteca, sala de conferencias, vistas a toda la ciudad. Afik empieza a sacar fotos de documentos. El resto simulamos un robo mientras buscamos el despacho, que está subiendo por una escalera de caracol. 
+
+Por fin, ahí está su despacho con su sauna y baño turco incorporados. En el despacho hay un esqueleto humano real con la inscripción Memento Mori, que deducimos que es el verdadero Joshua Medham. Empezamos a buscar la caja fuerte, que se encuentra debajo de su escritorio.
+
+Arvito se pone con la caja fuerte y la abre en unos minutos. Dentro, documentos confidenciales y una daga de jade con serpientes. Pillamos también unos tomos de piel que llaman la atención, el libro de Eybon y Las Tablas de Zanthu. Ahora sí, ya no hace falta simular el robo, robamos todo bien robado.
+
+Bajamos por las escaleras, simulando que seguimos evacuando el edificio y salimos en sigilo, metemos los documentos robados en el coche y mandamos a Afiq a que traiga el cadáver de John Cobra para tener nuestra coartada y volvemos dentro. Afiq vuelve tras una media hora.
+
+Unas horas después, llega toda la tropa, De Luca, la secretaria, Medham, Gonçalves y hasta la abuela. El grupo está en recepción esperando su recompensa por un atentado bien evitado.
+
+Empiezan a preguntar qué ha pasado y uno tras otro les contamos que íbamos tras un hombre serpiente de la Noche Interior nos atacó tras interactuar con la gente de Bingham, le interrogamos y le sacamos el plan para volar el edificio Medham, por lo que volvimos a activar la alarma de evacuación.
+
+Medham convoca una reunión de emergencia con la plana mayor, donde repetimos la misma versión. Martin lo cuenta con pelos y señales y todos parecen satisfechos. Sin embargo, quieren revisar que todo está en orden ya que ha habido una intrusión en el edificio, por lo que nadie saldrá durante varias horas mientras se esclarece todo. Con lo cual, nos vamos a descansar a otra sala de conferencias.
+
+Al cabo de unas horas, vuelve De Luca hecho una furia para variar, ordenando bajar a todos al sótano -1 para hacer un interrogatorio individual más formal, ya que han detectado el robo de documentos confidenciales en la planta privada de Medham.
+
+En el sótano, en una sala pasados los clones de Rose, Gonçalves y De Luca nos hacen una entrevista individual a todos en busca de pequeñas incoherencias, las cuales no parecen encontrar en ninguno de nosotros.
+
+Tras la última entrevista de Afik, éste vuelve con el grupo a la sala del sótano donde estamos todos, y De Luca dice que seguirán investigando. Cierra la puerta al salir. 
+
+Tras unos minutos, olemos raro y nos damos cuenta que están gaseándonos por unos conductos de ventilación del techo. Martin corre a forzar la cerradura de la puerta y aunque parece conseguirlo, de repente le entra un sueño tremendo justo antes de terminar. Connor y Viktor prueban la vieja táctica de la fuerza bruta y tras unos instantes consiguen abrirla, para simplemente desplomarse desmayados en el pasillo con el resto del grupo. Antes de caer derrotados les reventamos un poco más el mobiliario por las dudas.
+
+El grupo despierta en una habitación oscura, en medio de un sonido que parece de jungla,  oyendo hablar a una mujer en francés algo así como “bon sang, les patients se sont réveillés”, vamos que los pacientes se han despertado.
+Estamos tirados en una habitación oscura llena de literas con una ropa sencilla sin nada más que la ropa y hace un calor de tres mil pares de cojones. Huele a tigre.
+
+
+# Sesión 27 - Jueves 25 de Abril - Congo Belga
+
+Nos despertamos poco a poco escuchando sonidos de insectos en una habitación con camastros. 
+Aparece una silueta de mujer en la puerta hablando en francés y entendemos que está diciendo al doctor que hemos despertado.
+
+Aparece un hombre calvo con gafas de mediana edad y muestra alivio con que hayamos despertado.
+Dr Mason Thibault (virólogo Belga) y la enfermera se llama Fleurette.
+
+Ve las escamas y dice que no ha visto nada igual en su vida. Parece que estamos en un hospital.
+El doctor nos dice que parece que sufrimos un episodio de amnesia.
+
+Llegamos al Congo hace 2 semanas.
+
+Estamos en un hospital de la compañia minera “Cignere”. Nos dice que llegamos de caduceo hace 2 semanas para ayudar con una plaga de moscas tse tse, y que por lo visto hay un brote muy grande.
+Veníamos en avión de camino a Ulunga y hubo que hacer un aterrizaje de emergencia, pero estamos a salvo.
+
+Por lo visto llevamos ese par de semanas en cama porque nos picaron las moscas y estabamos delirando (aparte de estar hasta arriba de fármacos), mostrando todos los síntomas de la enfermedad del sueño.
+
+Dice que llevan 51 muertos en el pueblo y que hemos sido los primeros que nos recuperamos aparentemente bien. Tienen radio pero a lo mejor no da para comunicar con caduceo desde donde estamos, parecen de corto alcance.
+
+Dice que podemos hablar con el señor Burguette, que es el vicegobernador en la provincia.
+
+La plaga de moscas surgió hará unos 3 meses, y estamos como en la zona central del Congo.
+
+En el resto de la región fueron huyendo de las moscas y acercándose a la región en la que nos encontramos.
+
+Martin intenta recordar….
+
+Recuerda un pasillo muy largo por el que le van llevando. (podrían ser los sótanos de caduceo)
+
+ > Todo oscuro
+ >
+ > Está en otro lugar, una especie de instalación con material de laboratorio, ninguna pista de dónde se podría encontrar.
+ >
+ > Paredes de piedra, similar a las piedras que vimos en Bolivia.
+ >
+ > Le da la impresión de haber visto algún hombre serpiente
+ >
+ > El siguiente recuerdo ya es aquí, con el Dr. y las enfermeras
+ >
+ > Pero la sensación general es de estar entre conciencia e inconsciencia, no ha podido sacar mucho mas.
+
+Viktor se queda ayudando al doctor, el resto vamos fuera a investigar un poco.
+
+Amanece
+
+Al salir vemos que el “hospital” es más bien una clínica cochambrosa en un edificio en bastantes malas condiciones, y pasamos por la sala principal donde vemos multitud de  enfermos. Nos encontramos en un pueblo que prácticamente consta de una calle con chabolas a los lados.
+
+Por la calle vemos una pareja de occidentales que nos saludan y vienen hacia nosotros.
+
+Nos preguntan si venimos a ayudar
+Rose (Zoóloga en París) y Garreau es el hombre. Por lo visto es experto en armas.
+
+Llegaron en una expedición por el rio, y el barco se estropeó. No parece que estén siendo muy sinceros… Y no parece que estén allí por cosas muy de zoología…
+
+En “el incidente” del barco murieron 3 persona ahogadas y como 5 habían caído también por picaduras.
+
+Dicen que se están alojando en la casa del jefe local (Kasongo Odia, jefe tribal). Parece que donde estamos es un pueblo de pescadores, y los únicos occidentales que vemos son esta pareja.
+
+El título del jefe del pueblo es el kilolo. Vamos a su cabaña pero no está, y por lo visto tiene a parte de su familia enferma también por las moscas.
+
+Nos dicen que hace unos 3 meses escucharon rumores de gente que había huído de la zona y que decían haber visto lagartos gigantes (3-4 metros o mas).
+
+Están buscando el Mokelenbebe, que es como llaman por ahí a una criatura que piensan que no ha sido descubierta.
+
+Nos dicen que vinieron hace unos 3 meses buscando la criatura, pero tuvieron que huir. Y de camino a l pueblo fueron atacados en el rio. El hombre dice que les atacó un cocodrilo y ella dice que un mozasaurio, o algo similar pero lagartiano.
+
+Viktor ayuda para cuidados básicos de los enfermos. Prácticamente todos ellos son por la enfermedad del sueño y están administrando los medicamentos que pueden pero no parece que tengan mucho efecto.
+
+Viktor ve a un hombre mayor (local) que exige que se trate a su familia. Dice que nadies les cuida y que llevan unos dias en coma. Viktor trata a su familia como mejor puede y el hombre se presenta diciendo que es el Kilolo del pueblo.
+
+Viktor le comenta que veníamos en avión y dice el Kilolo que no sabe nada de un avión ni un accidente ni de que viniesen medicamentos. Exigen explicaciones al doctor y éste dice que para no preocupar a la gente local no les habían dicho ni lo del avión ni la pérdida de medicamentos ni nada.
+
+El Kilolo no se tranquiliza mucho y se encara con el médico, pero parece que Viktor media un poco y se relaja la situación prometiendo que le vamos a pedir mas medicamentos a Caduceo. También se vuelve el jefe a descansar y le dice a Viktor que si lo ve útil le puede dejar un rifle.
+
+Mientras el otro grupo está en la cabaña, entra Kasongo y dice que va a descansar.
+
+Afiq quiere ir a buscar el barco (en el embarcadero que está como a 8-9 km), pero le recomiendan que no lo haga porque ya hay moscas en esa zona.
+
+Cuando abandonaron el barco se dejaron allí material.
+
+Afip intenta fabricar ropa y algún dispositivo para protegernos de las moscas pero no cuadra mucho la cosa.
+
+
+# Sesión 28. 09/05/2024.
+
+Viktor despierta en la enfermería.  
+Quire pillar algo de primeros auxilios. El doctor le dice que necesitan el material pero que le podría dejar alguna cosa.  
+Le manda a la enfermera Melania para que le dé Suramina y un par de cosas.  
+Melania le da un par de medicamentos.
+
+Los demás despertamos en la casa de Kasongo y nos encontramos con Viktor.  
+Viktor nos dice que Kilolo quizá nos consiga un arma.
+
+Acordamos investigar la zona y lo que está pasando antes de decidir qué hacer con Caduceo.
+
+Queremos ir al barco, para ello buscamos unas redes y nos ponemos a hacer trajes que nos protajan de los mosquitos.  
+Vemos que hay hogueras en el perímetro del pueblo.
+
+Al llegar al hospital se acerca el doctor. Está preocupado de que tengamos amnesia. Ha estudiado psicología y quizá pueda ayudarnos. Nos dice que, después de comer podemos ir a su despacho y hablar un poco.
+
+
+## Nos reunimos con el doctor
+
+Tras un rato, viene a vernos y nos invita a que le acompañamos a su oficina.  
+Pide unos sandwitches y un poco de té a las enfermeras.  
+Tras una saludable paranoia constatamos que estamos en el mismo año, a final de abril. Unas dos semanas de lo último que recordamos.  
+Nos cuenta un poco quién es.
+
+ > Estudió virología y psicología en Amberes.
+ >
+ > Le contrató Formiger, que le mandó al Congo hace 3 años, cuando abrió la mina, pero ésta cerró hace un año.
+ >
+ > Le siguen pagando por dar servicio a la gente local.
+ >
+
+Para ir a la mina: Podemos bajar a Ndeke, a unos 7 km, y la mina está tras 3 ó 4 kms.
+
+Nos pregunta por las misiones que hemos hecho con Caduceo:
+ > Martin le dice que la última misión fue en Islandia.
+ >
+ > Le decimos que fuimos en misión humanitaria.
+ >
+ > Viktor le cuenta que en este tipo de situaciones hay gente que intenta aprovecharse y que estamos preparados para poder defendernos.
+ >
+ > Le comentamos que lo último que recordamos de New York es que hubo un robo, recordamos que salió algún tipo de gas y es lo último que recordamos.
+
+Al doctor el alarma que nos gaseasen voluntariamente. Intentamos disimular que nos gaseasen voluntariamente; quizá fuese un accidente o debido al incendio que había en el edificio.
+
+Se ofrece a hacernos unas pruebas para ver si hay restos de drogas en nuestro organismo, aunque, después de dos semanas, es poco probable.
+
+Nos dice que el Gobernador, **Marcel Busguet**, le dijo que Caduceo iba a enviar un paquete de ayuda.
+
+Era de noche. Las enfermeras escucharon un ruido muy fuerte y que fueron a buscarnos.
+
+Afiq le pregunta a que distancia se estrelló el avión. Nos dice que a 10 km. Le interpela que oyesen el avión a esa distancia.
+
+Entra la enfermera Hertrud y le trae un café al doctor.
+
+La enfermera dice que era pasada media noche y oyó un estruendo muy grande. Comenta que quizá lo oyó también la enfermera Floret.
+
+Viktor se da cuenta de que **la enferme no suda.**
+
+Connor se da cuenta de que lo que está diciendo la enfermera no cuadra. Afiq no es capaz de interpretar a la enfermera (pero la historia no le parece plausible).
+
+La enfermera sale de la sala.
+
+El doctor dice que le sorprende un poco que creamos que Caduceo nos haya drogado.
+
+Connor pregunta por qué cerró la mina y el doctor dice que no era rentable.
+
+
+## Salimos del despacho del Doctor.
+
+Salimos del despacho del doctor y escuchamos un alboroto y gritos en el poblado.
+
+Salimos fuera y se acerca Kasongo, que está con la Profesora Rose y Mambil. Nos dice que un avión ha enviado suministros, pero se ha debido desviar con el viento. Está en la jungla, hacia el este.
+
+Le pedimos unos machetes. Nos dan uno a cada uno.
+
+Viktor dice que es soldado y pide si alguien tiene un fusil. Parece que alguien del pueblo puede prestarle un fusil antiguo.
+
+Nos dan también unas antorchas.
+
+## Salimos hacia la selva
+
+Salimos hacia la selva con los sombreretes que nos hemos fabricado. Atravesamos unos cuentos sembrado y nos adentramos en la selva. Tras 10 minutos, Kasongo nos dice que debe estar a menos de 1 km.
+
+Por el camino, Connor le pregunta a Kasongo si alguien oyó alguien la noche que nos estrellamos. El dice que no oyó nada, ni sabía que había pasado nada.
+
+La Doctora Rose ve unas plantas extrañas que no son autóctonas. Se acerca a mirar la planta y los tallos de la planta empiezan a moverse muy rápido.
+
+Se notan varios temblores seguidos... ¡¡Aparece un Puto Tyrannosaurus Rex!!  
+Hay un hombre serpiente montado a su cabeza.  
+Ambos llevan una corona en sus cabeza.
+El hombre serpiente lleva una lanza con un brillo que va aumentando en la punta.  
+
+
+## Nuestra agradable charla con el T-Rex.
+
+Viktor le pega un tiro.
+
+El T-Rex muerde a uno de los locales y le parte por la mitad.
+
+Manville le pega un disparo al T-Rex.
+
+Kasongo se carga al hombre serpiente.
+
+Roux le pega otro disparo al T-Rex y el T-Rex cae muerto.
+
+Connor investiga y pilla la lanza.  
+Viktor pilla el casco.  
+Ambos tienen grabados en Nacaal. Viktor se da cuenta de que hay alguna referencia a Yig.
+
+
+Le preguntamos a Kasongo si había visto alguna vez algo así, dice que no.  
+La profesora está fascinada con el T-Rex. Los demás quieren volver cagando leches al pueblo.  
+Roux le dice a Manville y Kasongo que vuelvan al pueblo y se lleven a los demás.
+
