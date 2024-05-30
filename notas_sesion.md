@@ -78,14 +78,14 @@
 
 
 ## Congo
-| NPC               | Descripción                    |
-| ----------------- | ------------------------------ |
-| Kasongo Odia      |                                |
-| Prof. Carole Roux | Investigadora bióloga francesa |
-| Manville Garreau  | Investigador francés           |
-| Doctor            |                                |
-| Enfermera Hertrut |                                |
-| Enfermera Floret  |                                |
+| NPC                           | Descripción                    |
+| ----------------------------- | ------------------------------ |
+| Kasongo Odia                  |                                |
+| Prof. Carole Roux             | Investigadora bióloga francesa |
+| Manville Garreau              | Investigador francés           |
+| Doctor                        |                                |
+| Enfermera Geertruyd Van Laere |                                |
+| Enfermera Florette            |                                |
 
 
 # Primera sesión (04/11/2023)
@@ -2522,7 +2522,7 @@ La plaga de moscas surgió hará unos 3 meses, y estamos como en la zona central
 
 En el resto de la región fueron huyendo de las moscas y acercándose a la región en la que nos encontramos.
 
-Martin intenta recordar….
+Martin intenta recordar....
 
 Recuerda un pasillo muy largo por el que le van llevando. (podrían ser los sótanos de caduceo)
 
@@ -2549,7 +2549,7 @@ Por la calle vemos una pareja de occidentales que nos saludan y vienen hacia nos
 Nos preguntan si venimos a ayudar
 Rose (Zoóloga en París) y Garreau es el hombre. Por lo visto es experto en armas.
 
-Llegaron en una expedición por el rio, y el barco se estropeó. No parece que estén siendo muy sinceros… Y no parece que estén allí por cosas muy de zoología…
+Llegaron en una expedición por el rio, y el barco se estropeó. No parece que estén siendo muy sinceros... Y no parece que estén allí por cosas muy de zoología...
 
 En “el incidente” del barco murieron 3 persona ahogadas y como 5 habían caído también por picaduras.
 
@@ -2583,7 +2583,7 @@ Afip intenta fabricar ropa y algún dispositivo para protegernos de las moscas p
 # Sesión 28. 09/05/2024.
 
 Viktor despierta en la enfermería.  
-Quire pillar algo de primeros auxilios. El doctor le dice que necesitan el material pero que le podría dejar alguna cosa.  
+Quiere pillar algo de primeros auxilios. El doctor le dice que necesitan el material pero que le podría dejar alguna cosa.  
 Le manda a la enfermera Melania para que le dé Suramina y un par de cosas.  
 Melania le da un par de medicamentos.
 
@@ -2592,7 +2592,7 @@ Viktor nos dice que Kilolo quizá nos consiga un arma.
 
 Acordamos investigar la zona y lo que está pasando antes de decidir qué hacer con Caduceo.
 
-Queremos ir al barco, para ello buscamos unas redes y nos ponemos a hacer trajes que nos protajan de los mosquitos.  
+Queremos ir al barco, para ello buscamos unas redes y nos ponemos a hacer trajes que nos protejan de los mosquitos.  
 Vemos que hay hogueras en el perímetro del pueblo.
 
 Al llegar al hospital se acerca el doctor. Está preocupado de que tengamos amnesia. Ha estudiado psicología y quizá pueda ayudarnos. Nos dice que, después de comer podemos ir a su despacho y hablar un poco.
@@ -2633,11 +2633,11 @@ Era de noche. Las enfermeras escucharon un ruido muy fuerte y que fueron a busca
 
 Afiq le pregunta a que distancia se estrelló el avión. Nos dice que a 10 km. Le interpela que oyesen el avión a esa distancia.
 
-Entra la enfermera Hertrud y le trae un café al doctor.
+Entra la enfermera Geertruyd Van Laere y le trae un café al doctor.
 
-La enfermera dice que era pasada media noche y oyó un estruendo muy grande. Comenta que quizá lo oyó también la enfermera Floret.
+La enfermera dice que era pasada media noche y oyó un estruendo muy grande. Comenta que quizá lo oyó también la enfermera Florette.
 
-Viktor se da cuenta de que **la enferme no suda.**
+Viktor se da cuenta de que **la enfermera no suda.**
 
 Connor se da cuenta de que lo que está diciendo la enfermera no cuadra. Afiq no es capaz de interpretar a la enfermera (pero la historia no le parece plausible).
 
@@ -2694,4 +2694,364 @@ Ambos tienen grabados en Nacaal. Viktor se da cuenta de que hay alguna referenci
 Le preguntamos a Kasongo si había visto alguna vez algo así, dice que no.  
 La profesora está fascinada con el T-Rex. Los demás quieren volver cagando leches al pueblo.  
 Roux le dice a Manville y Kasongo que vuelvan al pueblo y se lleven a los demás.
+
+
+# Sesión 29. 16/05/2024.
+
+Tras matar al T-Rex y separarnos de los franceses seguimos avanzando hacia donde creemos que cayó el paquete. La travesía por la jungla es dura, calor bichos y maleza.
+
+Llegamos al claro donde están los restos del paracaídas, Al llegar al claro Martin y Afiq ven una planta de la misma especie que vimos antes de encontrarnos al T-Rex. Es como morada y bulbosa, con unas hebras que se mecen con el viento.
+
+Martin recuerda (Mitos) que los hombres serpientes usaban una planta modificada como alarma para avisar a patrullas cercanas.
+
+Viktor se va a quedar vigilando mientras los demás damos un rodeo para acercarnos a la caja por el lado opuesto a la planta con intención de cortar las cuerdas del paracaídas y llevarnosla en dirección contraria.
+
+Connor tropieza y se queda quieto, la planta hace un amago de moverse pero para. Conseguimos acercarnos, coger la caja y alejarnos poco a poco. Afiq rapiña un trozo de paracaídas. 
+
+La caja tiene un logo con letras en francés, parece algo del gobierno del Congo. La abrimos y contiene víveres y medicamentos.
+
+Afiq fabrica unas mochilas con tela de paracaídas y cargamos parte de las provisiones. Vamos a explorar un poco intentando buscar un patrón en la presencia de plantas.
+
+Parece que hay más plantas hacia el sur, hacia Ndeke.
+
+Recuperamos el cajón y volvemos a la aldea. Nos reciben Kasongo con los franceses, están muy contentos de que hayamos recuperado la caja.
+
+Hay 2 habitantes de la aldea discutiendo, uno está bastante preocupado; Viktor pregunta y Kasongo se acerca a investigar. Entre tanto los franceses creen que habría que avisar al gobierno.
+
+Kasongo nos dice que en el pueblo uno de los compañeros está intranquilo porque cree haber visto a una de las enfermeras llevar cuerpos hacia el sur, pero no le da importancia, dice que es el procedimiento normal con los fallecidos, y que se hace de noche para no alertar a la gente. 
+
+Viktor le cuenta a Kasongo que no cree que sea coincidencia que el campamento de los hombre serpiente está hacia el sur y que la enfermera llevase los cadáveres en la misma dirección.
+
+Proponemos no alertar a la gente y organizar guardias con gente que pueda dar la alarma si se acerca algo.
+
+El doctor se pone muy contento al ver llegar los medicamentos. Afiq se da cuenta de que Gertrude está hablando en voz baja con Melania, y que esta tampoco suda, mientras que los demás sudan profusamente. 
+
+El doctor Zibault nos pide que nos acerquemos a su despacho cuando tengamos tiempo a hablar un poco más sobre nuestra amnesia, que quiere hacernos unas preguntas.
+
+Afiq nos cuenta que Melania tampoco suda. Nos propone intentar emboscarla esta noche, aceptamos. También le sugerimos al doctor que ponga seguridad donde guardan los medicamentos.
+
+
+![Hospital Congo](/images/hospital_congo.png?raw=true "Hospital Congo")
+
+
+Nos montamos una mesita fuera y cenamos al aire libre para no perder de vista el hospital.Viktor mientras montamos la mesa se va a hablar con el doctor y Connor con Kulunguele.
+
+El doctor nos dice que hoy no ha muerto nadie, pero que no cree que mañana lo tenga tan claro.Viktor le invita a cenar con nosotros y acepta.
+
+También invitamos a Florete a unirse a cenar, va a avisar a las otras enfermeras pero una dice que ya ha cenado y la otra no está.
+
+Nos damos cuenta de que Florete le hace ojitos al doctor.
+
+Conor entre tanto se da cuenta de que le están siguiendo, se da la vuelta y justo ve a Gertrudis sonriendo a punto de clavarle una jeringuilla, pero Connor lo esquiva y le lanza un derechazo que Gertrude esquiva fácilmente mientras lanza otro intento con la jeringuilla. Connor le da un golpe en el brazo y la desarma. Connor intenta darle un derechazo pero ella saca las uñas y le da un zarpazo de lleno en el brazo provocando una herida muy fea. A continuación le intenta pegar un bocado pero Connor lo esquiva y pega un grito mientras sigue intentando atacar sin éxito.
+
+Viktor sale corriendo a por su arma, Afiq y Martin pillan un palo del fuego y un cuchillo de la mesa respectivamente. 
+
+La pelea continua, Connor encaja otro zarpazo pero consigue encajar un buen golpe que la deja sangrando. 
+
+Martin y Afiq llegan, Martin intenta acercarse con sigilo mientras Afiq carga gritando y agitando su palo, por lo que Getru se revuelve y coloca en posición para que no la pillemos por sorpresa.  Martin consigue darle con el cuchillo de la mantequilla, consigue esquivar a Afiq pero Connor le vuelve a encajar otro golpe con tanta fuerza que cae muerta. 
+
+Sin esperar salimos corriendo a buscar a Melania. Afiq y Martin la ven corriendo hacia la selva, avisan a Viktor y este dispara con el fusil y la mata. Afiq aprovecha para mirarle el brazo a Connor.
+
+El doctor y Florete están en shock pero conseguimos calmarlos. Martin va a recoger a Melania y Connor a Gertu para llevar los cuerpos al hospital. Entre tanto aparecen los franceses y Kasongo y Afiq les pone al día.
+
+Acabamos todos en el hospital, conseguimos quedarnos sólos con la enfermera, el doctor y Kasongo, a la enfermera le da un ataque. No dan crédito pero al final se rinden a la evidencia.
+
+Quedamos en hablar al día siguiente; Kasongo va a ver cómo está su famila y el doctor se ocupa de Connor.
+
+Revisando su habitación vemos que Melania tenía un diario cuya última entrada fue hace un año, cuando cerró la mina.
+
+Gertru tenía un receptor de radio bastante avanzado, parece que es de corto alcance. Afiq lo enciende y Martin oye un pequeño eco y descubre 2 micrófonos, uno en la habitación del doctor y otro en nuestra habitación.
+
+El doctor nos llama, en la ropa llevaban unos viales, sedantes y un líquido que huele al té del doctor. Dice que llevaba un tiempo sin poder concentrarse bien, que está repitiendo muchas analíticas...  ahora duda cuándo fue el accidente realmente.
+
+Encontramos una llave entre las pertenencias de Gertru y Melanie 
+
+Nos vamos todos a descansar a ver si mañana podemos pensar con más claridad.
+
+
+# Sesión 30 - El Congo
+
+Tras la muerte de las enfermeras serpéntidas y el impacto en el doctor y su ayudante, Afiq se va a enrear con la radio a ver si puede sacar algo.
+
+Al orientar las ondas hacia el sur, nota que ahí hay unas interferencias bastante potentes. Encuentra unas baterias y el plan es sacar la radio de paseo para indagar un poco mas sobre esas ondas y dónde se originan.
+
+El doctor nos dice que está muy cansado y que se quiere ir a dormir. Y nosotros hacemos lo mismo...
+
+Martin intenta contactar con Tyrannish y parece que lo consigue. De repente en su trance parece estar en un desierto, pero las dunas de éste desierto son huesos de distintas criaturas conocidas y desconocidas.  
+Algo parece moverse mas allá de las dunas, y cuando se dirige hacia allá, ve una especie de capota metálica hundida entre los huesos, asemejandose a un zeppelin de metal semienterrado en los huesos.  
+Hay una apertura expuesta en el zeppelin, y a lo lejos parece ver una escalopendra con un ser encapuchado montándola a lo lejos entre los huesos.  
+Martin escucha la voz de Tyrannish llamándole para que entre en la nave antes de que le vea el ser que cabalga escalopendras.  
+Al entrar en la nave parece estar en el mismo sitio donde encontró por primera vez a Tyrannish y la ve sentada en su trono. Recibe con mucha alegría a Martin y le dice que están en la tierra de los sueños, y que esa era su nave aunque haya aterrizado de esa manera.  
+Martin le pone al día de lo que pasó desde la última vez que hablamos y de lo que estamos haciendo en el Congo. Tyrannish dice que el tiranosaurio puede ser un experimento genético de clonación.  
+También le dice a Martin que se ha ido a la India y que está muy contenta, y que está haciendo lo que puede por su parte por la humanidad.  
+Según Tyrannish, puede que hayan encontrado un portal a Mu las facciones y que buscan la corona para poder controlar a los Yoigo que protegen ese portal. Dice que está en la India buscándo ella misma la corona para que las facciones no puedan acceder nunca a Mu.  
+Dice que si queremos ayudarla somos mas que bienvenidos y Martin le dice que es lo que tiene mas sentido ahora mismo. Nos vuelve a advertir sobre Caduceo y dice que somos demasiado pánfilos bondadosos  teniendo en cuenta de lo que son capaces.  
+Nos dice que para juntarnos con ella en la India, que cuando volvamos a nueva York contactaremos de nuevo con ella para ver si puede hacer algo y llevarnos con ella.  
+Al levantarnos empezamos a pertrecharnos para ir a la mina. Kasongo nos da un revólver y Bill prepara 3 cócteles molotov.  
+Salimos hacia el sur con la radio a cuestas para seguir las interferencias y dar con la base. Tiramos por mitad de la selva y cada vez vemos mas y mas plantas.  
+Después de unas horas de camino, escuchamos unos rugidos y nos escondemos justo a tiempo para que 3 tiranosaurios con sus jinetes pasen de largo mientras nos buscan.... PERO...  
+Viktor usa el casco, interfiriendo con la señal entre jinete y tiranosaurio y hace que se den la vuelta y nos busquen mas activamente... pero por suerte parece que estamos escondidos de putísima madre (como de crítico en sigilo)... PEEEEEEERO... en el último momento un tiranosaurio parece que da con nosotros.  
+Viktor en ese momento se pone el casco siendo el primero en actuar, y de nuevo poniéndose el casco hace que un tiranosaurio ataque a otro.  
+Afiq de un disparo mata en el acto al jinete del tercer tiranosaurio (el que no estaba enfrascado contra otro) y su montura se vuelve loca, haciendo que de repente nos encontremos en mitad de una ensalada de dentelladas y ataques de tiranosaurios entre ellos.  
+Connor usa el bastón y atraviesa con un láser a otro de los jinetes, dejando de momento como único jinete vivo al que está en el dinosaurio controlado por Viktor.  
+El jinete que queda con vida de repente con su bastón lanza un certero disparo a Viktor y éste pierde el control del dinosaurio, y en ese momento Martin sale corriendo a por una lanza.  
+Afiq abate al jinete que falta  y entre hacerse con el casco y las lanzas que quedan, mandan fuera a un tiranosaurio mientras los otros siguen peleándose y nos vamos de allí... siguiendo hacia la zona vigilada hasta que damos con una valla que pone: PELIGRO.  
+
+Afiq improvisa una ganzúa y Martin abre la puerta, y pasamos a un claro en el que vemos varios edificios abandonados rodeando una especie de foso gigante similar a una cantera. En las esquinas de ese foso vemos unas estructuras con elevadores para subir y bajar de la cantera.  
+
+Escuchamos un murmullo de muchas voces desde el fondo de la cantera. Parecen voces humanas y muchas.  
+Al acercarnos vemos dentro del foso lo que parece ser una pirámide como de unos 30 metros, y abajo en el fondo se ven decenas de personas merodeando como con la mirada la perdida, arrastrando los pies, comiendo de abrevadero. Parece que hay gente local y también blancos, y parece que vemos a gente de Bolivia y Borneo y gente que habíamos conocido en otros viajes y misiones. Todos parecen deambular como zombis.  
+La pirámide parece de nueva construcción y como de la misma piedra que la que hay en la cantera,  
+
+![Pirámide Congo](/images/piramide_congo.png?raw=true "Pirámide Congo")
+
+
+# Sesión 31. Presencial. 26/05/2024
+
+El hueco tiene las dimensiones de un estadio de fútbol.
+
+Oímos algo y vemos que se acerca Kasongo.  
+Ve que hay mucha gente que se supone que las enfermeras se habían llevado para enterrarles. Conseguimos convencerle de que nos espere sin bajar.
+
+Los ascensores tienen una huella de mano humana que parece que lo activa.
+
+
+## Bajamos a donde están los zombies y la pirámide.
+
+Connor baja por una esquina  donde ve que hay menos concentración de zombies.  
+El ascensor cuesta 1 punto de magia y tarda 30 segundos.  
+Reconoce a gente de Bolivia, Borneo, etc. Intenta hablar con ellos pero no reaccionan.
+
+Bajamos los demás por el ascensor opuesto para acercarnos al mecanismo de la entrada de la pirámide.
+
+Nos acercamos a la puerta de la pirámide.  
+En la entrada hay un panel de control. Tiene la huella de una mano de hombre-serpiente.  
+Afiq ve que el mecanismo de la huella tiene una aguja que pincha a la mano (¿comprueba la sangre?) y una compuerta encima de la puerta que parece un mecanismo defensivo.  
+Consigue desactivar la compuerta y ve que hay un lanzallamas.  
+Viktor pone la mano en el mecanismo y se abre la puerta. Ve un pasillo y luz al final.
+
+
+## Entramos en la pirámide.
+
+Al entrar, la puerta se cierra automáticamente.
+
+Connor escucha a dos soldados soltando chistes de humanos :). Están bajando hacia niveles inferiores.
+
+Hay un piso superior y uno inferior conectados por una escalera de caracol. Hay una luz en la parte superior.
+
+
+Entramos en la primera habitación.  
+Hay un montón de tubos de vidrio como los del almacén de RedHook con un montón de moscas dentro de los tubos.  
+Afiq manipula el mecanismo de alimentación de las moscas y las destruye.  
+Connor investiga unos archivadores.  
+Hay archivos de los pacientes y lee una referencia a "muestras de cura" en el piso superior.  
+Tiene un flashback en el que ve a Joshua Medham con Canning en el que están visitando las instalaciones y les están enseñando las moscas.  
+Les están contando que en la primera fase anula la mente y en la segunda fase les permite controlarles.
+
+Entramos en la segunda sala.
+Al entrar, vemos un montón de mesas de operaciones con material quirúrgico y 4 científicos hombre-serpientes.  
+Hay una serie de pacientes con el cerebro al aire.  
+Otros con los nervios conectados a máquinas.  
+**Todos los pacientes están vivos y despiertos.**  
+Entramos y cerramos la puerta.  
+Apuntamos a los científicos y, mientras les estamos atando, reaccionan sacando los colmillos y siseando. Instintivamente, Viktor saca los colmillos y sisea xDD.
+
+
+## Interrogamos a los científicos.
+
+Dicen que son unos 30.
+
+Están estudiando cómo controlar a los pacientes. Los zombies de fuera están en la fase final. Es una fase no reversible.  
+Se les controla dando órdenes de viva voz en Nacaal y en inglés.  
+Han inducido las voces de ciertos individuos para que obedezcan sólo esas voces.
+
+En el piso de abajo está la planta energética y el portal a Nueva York - al edificio Medham.
+
+En el piso superior está la armería, el almacén, ñla sala de clonación y la sala de guerra.
+
+Sabe quienes somos, y nos reconoce como el equipo número 13.  
+También sabe que estábamos en el hospital del pueblo.  
+Estamos aquí por que DeLuca no confiaba en nosotros, así que nos gasearon y nos trajeron a través del portal.  
+Nos quería aplicar suero de dominación para sacarnos toda la información, pero no funcionaba debido al gas con el que nos gasearon.  
+Mientras se pasaban los efectos del gas, la idea era que el doctor nos animase a hablar.  
+El doctor obedece sus órdenes gracias al suero de dominación.
+
+Los efectos del suero de dominación es que la persona es dócil y obdece. Es temporal, el paciente mantiene su inteligencia y permite que se le manipule.
+
+Nos dice que Gonçalves es un simple humano que se ocupa más bien de las misiones en Brasil.
+
+Hay un portal en la Isla de la Serpiente, pero no han sido capaz de activarlo.
+
+Usan las moscas para inducir al sujeto a las fases de zombificación.
+
+Con los viales de cura, se les puede administrar a los pacientes en fase 1 usando 1.5cc por paciente.
+
+Afiq intenta interrogar al segundo científico pero éste no responde y le matamos. Pasa lo mismo con el tercer cintífico.
+El cuarto científico es más colaborativo. Nos dice que hay 10 soldados y 20 científicos.
+
+Connor escucha que alguien viene. Dejamos inconscientes y atados a los dos científicos que quedan vivos.
+
+
+## Se acercan guardias...
+
+Nos bajamos a 4 guardias.
+
+Connor y Bill escuchan que vienen guardias desde el piso de abajo.  
+Connor mete el cadáver dentro de la sala y cierra la puerta.  
+Nos bajamos a otros 5 guardias.
+
+Empieza a sonar una alarma.
+
+Bajan 6 científicos desde la planta superior. Connor los intimida y los metemos a todos en la sala.
+
+Interrogamos a uno de los científicos, que nos indica dónde está el mecanismo de la alarma. Afiq la  desactiva.
+
+Viktor, Connor y Afiq van a la planta inferior.
+
+Martin y Bill van a la planta superior.
+
+
+## Un grupo va a la planta inferior.
+
+Hay 2 salas. Una puerta blindada y una normal.
+
+La puerta blindada está abierta. Hay un cuadrado ondulante de luz y un panel de control.  
+El panel de control permite desactivar una trampa al otro lado del portal desactivando los sensores.  
+Connor detecta que había un científico aquí hace poco.
+
+La puerta normal cerrada.
+
+
+## El otro grupo va a la planta superior.
+
+Hay 3 salas.
+
+En la primera sala hay unos tanques similares a los de Islandia. Armarios de cristal con viales etiquetados con nombres de plantas y animales.  
+En los tanques hay pequeñas muestras de t-rex.
+
+En la segunda sala:  
+Bill escucha algo detrás de un escritorio. Es un hombre serpiente con un bastón. Le matamos.  
+Encontramos todo el equipo del grupo y varias armas.  
+Hay varios tipos de viales (cogemos algunas):
+ - Toxina de la carótida.
+ - Suero de dominación.
+ - Cura de enfermedad del sueño.
+
+
+## De vuelta a la planta inferior.
+
+Connor cierra la sala donde estábamos.  
+En la otra sala hay un generador extraño y unos paneles de control. Se podría manipular para hacerlo explotar, el radio de la explosión sería unos 3 Km.   
+Se podría conseguir 5 minutos de retardo.
+
+
+## De vuelta a la sala superior.
+
+Hay una sala con un mapa del mundo panorámico con una gran mesa central.  
+En el mapa están marcadas las ciudades principales marcando un radio al rededor de las ciudades.  
+En el Atlántico sur hay una especie de continente que no conocemos, cerca de Brasil, etiquetado como "_Mu_".  
+Hay líneas de las ciudades del mundo hacia Mu.  
+En la mesa hay muchos papeles.
+
+En los papeles vemos información sobre la enfermedad del sueño:  
+Es una versión acelerada de la versión original que destruye las funciones superiores del cerebro y, posteriormente, los convierte en esclavos.  
+Han perfeccionado el proceso con los experimentos en Nueva York. La enfermedad transmitida por mosquitos consigue que se haga todo de una vez.  
+Hablan de que el problema es que los insectos no sobreviven mucho tiempo y les falta un mecanismo de propagación adecuado.
+
+Se menciona hacer moscas biomecánicas parecidas a los que vimos en Nueva York. Pero necesitarían acceder a La Ciudadela para conseguirlo.  
+En la Ciudadela conseguirían hacer las esferas de transporte, pero, para ello, Mú tiene que ser devuelto a la tierra.
+
+Se burlan de la humanidad por que no sería capaces de hacer la cura hasta que fuese demasiado tarde.
+
+Hay una nota firmada por Gonçalves: "_Supongo que habrá leído el periódico de hoy que le ha pasado su secretaria. Le interesará la noticia. Los preparativos están listos. El avión estará preparado en una hora para ir hacia allí._"
+
+
+## Nos juntamos los dos grupos y decidimos cual es nuestro plan de acción.
+
+Le damos la cura a Kasongo para que se vuelva corriendo al pueblo.
+
+De cara a interrogar a Gonçalves, priorizamos:
+- Plan A: Enseñarle los documentos incriminatorios que hablan de liberar mosquitos en todas las grandes ciudades y dominar a toda la humanidad.
+- Plan B: Usar el suero de dominación.
+- Plan C: Escopetazo.
+
+Les ofrecemos sobrevivir a los científicos si nos ayudan. **Rogers**, uno de los científicos, se presenta voluntario.  
+Empìeza a contarnos todos los detalles de las salas del edificio de Caduceo. Nos dice dónde está el Cetro de Tyrannish y cómo salir el edificio.
+
+Afiq manipula el generador para que explote en 5 minutos y desactiva la trampa de cruzar el portal.
+
+
+## Cruzamos el portal.
+
+Aparecemos en el pasillo de Caduceo. Está todo tranquilo.  
+Hay puertas a los lados.  
+El científico nos dice que el cetro está en el almacén, la segunda puerta a la derecha.
+
+Entramos en el almacén.  
+Connor coger un libro al azar.  
+Martin coge el Cetro de Bolivia. Se le ilumina el tatu del pecho :)  
+Afiq pilla algo que le parece interesante.
+
+
+## Empieza la fiesta en los pasillos de Caduceo.
+
+Al girar la esquina, vemos mesas tiradas en mitad del pasillo a modo de barricadas.  
+Le decimos al científico que diga que hemos neutralizado al equipo 13. No cuela.  
+DeLuca grita: "**¡Abrid fuego!**"  
+Además de DeLuca, hay 4 guardias con pistola y 1 con fusil.  
+
+Empiezan los tiros.
+
+Tras un combate en el que la cosa se pone complicada, conseguimos matarlos a todos, pero Viktor cae inconsciente.
+
+Afiq estabiliza a Viktor.
+
+
+## Salimos del edificio.
+
+Pillamos el ascensor y salimos en la planta baja.
+
+Cuando vamos hacia el coche de Afiq vemos a un chavalín vendiendo perióricos. Compramos uno y leemos:
+- Hoy es 5 de mayo (2 semanas antes de lo que nos dijeron los doctores).
+- La Corona de la Cobra va a ser expuesta en el Museo de la India en Calcuta. No hay fecha de inauguración de la exposición, pero dice que están preparándolo. El conservador jefe de la corona es Sr. Kumtekar.
+
+Llegamos al coche, donde vemos que todo lo que guardamos está como lo dejamos.
+
+
+## Vamos a la cabaña de Afiq a descansar.
+
+Extremando las precauciones, vamos a la cabaña de Afiq a lamernos las... heridas.  
+Martin pregunta si se pueden convertir las lanzas en algo más manejable (lanzas recortadas).  
+Afiq identifica que las lanzas tienen 8 cargas de disparo. Necesitará dedicarle tiempo para modificarlas, pero algo menos de tiempo para recargarlas. 
+Puede usar unas pequeñas baterías para recargarlas.
+
+Descansamos  dos días en la cabaña.
+
+Mientras, Afiq se acerca al aeropuerto y se lleva el Mi-Go y la base de carga. Usa la misma base de carga para recargar las 3 lanzas.
+
+Martin se familiariza con el cetro y es capaz de identificar que Viktor y Afiq tienen algo de serpéntido.
+
+A la segunda noche, Martin consigue contactar con Tyrannish.
+
+## Sueño de Martin con Tyrannish.
+> **Tyrannish**: "Querido, he notado una presencia familiar hace un par de días. ¿Has encontrado algo?"
+>
+> **Martin**: "Ya estamos en Nueva York, hemos acabado con la base del Congo. Tienen el veneno preparado. Hemos visto la noticia de la corona." [le pone al día de nuestras últimas aventuras en El Congo].
+>
+> **Tyrannish**: "Estoy al corriente de lo de la corona. Parece que todo el mundo viene hacia aquí ahora que es público que la corona está en Calcuta, lo más seguro es que tanto Joshua como Rose Medham, vayan a por ella."
+>
+> **Martin** le dice que tenemos que recuperarnos.
+>
+> **Tyrannish** comenta que, si estamos un poco débiles, quizá no podamos viajar por el portal. Nos propone vernos mañana por la mañana en el jardín frente al Empire State. Parece que ha detectado un objeto nuevo.
+>
+> **Martin** le dice que hemos recuperado el cetro.
+>
+> **Tyrannish** nos dice que quizá pueda ayudarnos y que le llevemos el cetro.
+>
+
+
+*Pendiente para el DM:* Dar artefacto y libro que hemos pillado en el almacén de Caduceo.
+
+
+*Próxima sesión:* Ver cómo podemos hablar con Gonçalves para enseñarle los documentos incriminatorios.
 
