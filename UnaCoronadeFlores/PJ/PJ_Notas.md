@@ -23,7 +23,7 @@ Los del pueblo son todos unos bufanapos, pero algunos se salvan y quizá pueda e
 
 **Bisa**. Chucho de raza indeterminada. Me acompaña en los paseos por los montes.
 
-Alguna mañana me levanto con una liebre que me trae Bisa. Es un buen can el condenao.
+Alguna mañana me levanto con una liebre que me trae Bisa. Es una buena canya la jodía.
 
 *NOTA*: Si ves que puede joder alguna escena de rastreo, puede ser simplemente el vigilante de la torreta.
 
@@ -45,7 +45,7 @@ Me levanto enfermo, escupiendo los pulmones, con resaca.
 
 >>  "Me pregunto si el Perales sabría distinguir mi licor casero de matarratas. No sé, quizá debería usar botellas diferentes..."
 
-Según bajo de la torreta veo que Bisa ha estado ocupado. Hay una guallarda llebre junto a las escaleras. Bisa parece contenta.
+Según bajo de la torreta veo que Bisa ha estado ocupada. Hay una guallarda llebre junto a las escaleras. Bisa parece contenta.
 
 Me dispongo a desollarla y prepararla para hacer una fritada.
 
