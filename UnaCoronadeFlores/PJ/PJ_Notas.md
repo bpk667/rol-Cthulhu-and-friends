@@ -1,4 +1,6 @@
-# PJ. El Cuevas
+# PJ. Tenorio Biesa "El Cuevas"
+
+Vivo entre la torre de vigilancia del Barranco de la Ñetera y la vieja casa de Hecho.
 
 ## Motivación
 
@@ -41,11 +43,22 @@ Se suicidó hace unos meses. Vaya si me alegré de que muriese ese bastardo.
 
 # Arranque / escena
 
-Me levanto enfermo, escupiendo los pulmones, con resaca.
+Despierto entre el camastro y las escaleras de la torreta de vigilancia.
 
->>  "Me pregunto si el Perales sabría distinguir mi licor casero de matarratas. No sé, quizá debería usar botellas diferentes..."
+Me siento enfermo, según me incorporo, escupiendo los pulmones y con resaca pienso:
 
-Según bajo de la torreta veo que Bisa ha estado ocupada. Hay una guallarda llebre junto a las escaleras. Bisa parece contenta.
+> "Joder. Casi lo consigo. Un poco más y llego a la cama"
+
+Aparto la botella de licor casero:
+
+>  "Me pregunto si el Perales sabría distinguir mi licor casero de matarratas. No sé, quizá debería usar botellas diferentes..."
+
+
+Me asomo a la barandilla. Veo las lomas áridas y pedregosas cerca y al fondo la selva de Oza. Un paraje duro, hosco, como yo.
+
+La torreta es de madera y hierro. Ha pasado por momentos mejores. Como yo.
+
+Al bajar a la base de la torreta veo que Bisa ha estado ocupada. Hay una guallarda llebre junto a las escaleras. Bisa parece contenta.
 
 Me dispongo a desollarla y prepararla para hacer una fritada.
 
