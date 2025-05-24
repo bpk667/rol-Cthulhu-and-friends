@@ -41,11 +41,9 @@ Se suicidó hace unos meses. Vaya si me alegré de que muriese ese bastardo.
 
 # Arranque / escena
 
-Suena la radio.
-
 Me levanto enfermo, escupiendo los pulmones, con resaca.
 
-» "Me pregunto si el Perales sabría distinguir mi licor casero de matarratas. No sé, quizá debería usar botellas diferentes..."
+>>  "Me pregunto si el Perales sabría distinguir mi licor casero de matarratas. No sé, quizá debería usar botellas diferentes..."
 
 Según bajo de la torreta veo que Bisa ha estado ocupado. Hay una guallarda llebre junto a las escaleras. Bisa parece contenta.
 
