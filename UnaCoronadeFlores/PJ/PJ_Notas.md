@@ -58,9 +58,11 @@ Escuchar su voz pone una sonrisa en mi boca. Al menos no todo es mierda en este 
 
 Le cuento que he seguido buscando por los barrancos, pero ni rastro de los turistas desaparecidos.
 
+Es raro. Normalmente los señoritos de ciudad siempre aparecen con una pierna rota en los mismos sitios, pero no hay ni rastro.
+
 La Bisa y yo nos hemos pateado desde Aguastuertas hasta el Ibón de Hacherito y ni rastro.
 
 Hemos buscado en Petraficha. Lo mismo...
 
-Es raro. Normalmente los señoritos de ciudad siempre aparecen con una pierna rota en los mismos sitios, pero no hay ni rastro.
+Salvo que hayan huido por los Pirineos como hicieron los que perdieron la guerra, no sé dónde se pueden haber perdido los estalentaus.
 
